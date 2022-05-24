@@ -1,0 +1,436 @@
+---------- 0001:
+
+. _S:
+
+c0 -> Texto*
+
+. mo: 
+
+c00 -> Código (DELETED?)
+
+---------- 0002:
+
+. mo:
+
+
+c00 -> Código (DELETED?)
+c01 -> Código (DELETED?)
+
+---------- 0003:
+
+. mo:
+
+c00 -> Código (DELETED?)
+c01 -> Código (DELETED?)
+
+---------- 0004:
+
+. mo:
+
+c00 -> Código (DELETED?)
+c01 -> Código (DELETED?)
+
+---------- 0005:
+
+. mo:
+
+c00 -> Código (DELETED?)
+c01 -> Código (DELETED?)
+
+---------- 0006:
+
+. 11:
+
+e0 -> Texto*
+
+. mo:
+
+c00 -> Código (DELETED?)
+xls_c -> Texto*
+
+
+---------- 0102:
+
+. _s:
+
+c0 -> Texto*
+
+---------- 0107:
+
+. mo:
+
+p0 -> Texto*
+p1 -> Texto*
+p2 -> Texto*
+p3 -> Texto*
+p4 -> Texto*
+p5 -> Texto*
+p6 -> Texto*
+p7 -> Texto*
+c00 -> Texto*
+c10 -> Texto*
+c20 -> Texto*
+
+---------- 0108:
+
+. _s:
+
+c00 -> Código (DELETED?)
+c10 -> Código (DELETED?)
+c20 -> Código (DELETED?)
+
+---------- 0109:
+
+. _s:
+
+c0 -> Texto*
+
+. 97:
+
+_m -> Legenda*
+
+. 98:
+
+_m -> Código
+
+---------- 0110:
+
+. 97:
+
+_m: Legenda*
+
+---------- 0112:
+
+. 97:
+
+_m: Legenda*
+
+---------- 0114:
+
+. 97:
+
+_m: Legenda*
+
+---------- 0202:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0203:
+
+xls_c -> Texto*
+
+---------- 0204:
+
+. 97:
+
+_m: Legenda*
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0255:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0301:
+
+. 11:
+
+p0 -> Texto*
+p1 -> Texto*
+p2 -> Texto*
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0401:
+
+. 11:
+
+nazo0 -> Texto*
+nazo1 -> Texto*
+nazo2 -> Texto*
+
+. 21:
+
+nazo0 -> Texto*
+nazo1 -> Texto*
+nazo2 -> Texto*
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0402:
+
+. mo:
+
+xls_c -> Código (DELETED?)
+
+---------- 0403:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0404:
+
+. 31:
+
+nazo0 -> Texto*
+nazo1 -> Texto*
+
+. 51:
+
+nazo0 -> Texto*
+
+. mo:
+
+xls_c -> Texto*
+po_c -> Código (DELETED?)
+
+---------- 0405:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0406:
+
+. 97:
+
+_m: Código
+
+---------- 0407:
+
+. 98:
+
+_m: Código
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0451:
+
+. mo:
+
+xls_c -> Código (DELETED?)
+
+---------- 0452:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0453:
+
+. mo:
+
+xls_c -> Código (DELETED?)
+
+---------- 0454:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0455:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0456:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0457:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 0601:
+
+. 98:
+
+_m -> Código
+
+---------- 0602:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0603:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0604:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0605:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0606:
+
+. 98:
+
+_m: Legenda*
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0653:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0654:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 0901:
+
+. mo:
+
+xls_p: Código (DELETED?)
+
+---------- 0902:
+
+. mo:
+
+xls_p: Código (DELETED?)
+
+---------- 0903:
+
+. mo:
+
+xls_p: Texto* e Código (DELETED?)
+
+---------- 1001:
+
+. mo:
+
+xls_c: Texto*
+
+---------- 1002:
+
+. 21:
+
+text0 -> Texto*
+text1 -> Texto*
+n2 -> Texto*
+
+. 31:
+
+tou0 -> Texto*
+
+. 41:
+
+tou0 -> Texto*
+tou1 -> Texto*
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 1003:
+
+. 11:
+
+n2 -> Texto*
+
+---------- 1004:
+
+. 11:
+
+n2 -> Texto*
+
+---------- 1005:
+
+. 11:
+
+n2 -> Texto*
+
+---------- 1007:
+
+. 11:
+
+n2 -> Texto*
+bell -> Texto*
+bel0 -> Texto*
+tex2 -> Texto*
+tex0 -> Texto*
+
+. 21:
+
+n2  -> Texto*
+e0  -> Texto*
+tex1  -> Texto*
+tex2  -> Texto*
+
+. 31:
+
+tex0 -> Texto*
+
+. 41:
+
+tex0 -> Texto*
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 1300:
+
+. 98:
+
+_m: Legenda*
+
+---------- 1301:
+
+. 98:
+
+_m: Legenda*
+
+---------- 9005:
+
+. mo:
+
+xls_c -> Código (DELETED?)
+
+---------- 9025:
+
+. mo:
+
+xls_c -> Texto*
+
+---------- 10001:
+
+. 20:
+
+last -> Texto*
+t0 -> Texto*
+t1 -> Texto*

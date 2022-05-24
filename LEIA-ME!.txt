@@ -1,14 +1,14 @@
 
-Kingdom Hearts 358/2 Days - Beta 1
+Kingdom Hearts 358/2 Dias - Beta 1
 
-- Um lançamento Monkeys Traduções e Jacutem Sabão -
+- Um lançamento Jacutem Sabão -
 
 
 
 =============================================================================
 
 Informações sobre a ROM:
-	Nome Original: 
+	Nome Original: Kingdom Hearts 358/2 Days
 	Idioma Original: Inglês
 	Idioma Traduzido: Português Brasileiro
 	CRC: 
@@ -21,9 +21,9 @@ Sobre a Tradução:
 Equipe:
 	Responsável: DiegoHH e Gamerulez
 	ROMHacking e Programação: DiegoHH
-	Textos da História: Gamerulez 
-	Imagens: 
-	Revisão: 
+	Textos da História: Gamerulez, Renato, lleogame, Nomarine, Magall, Sorinha Phantasie, MCdoomer
+	Imagens: Kosmus, GreatFan, Mysteriozo
+	Revisão: Gamerulez
 
 Notas da Equipe:
 
@@ -31,11 +31,13 @@ Notas da Equipe:
 Notas das Versões:
 	- 27/06/18 Beta 1
 		- Tradução de boa parte dos textos principais e secundários.
+	- 24/05/22 Beta 2
+		- Consertos de bugs dos textos secundários e inserção dos demais textos.
 
 Contato:	
 	E-mail: hansen.hahn@gmail.com
-	Pelo FURT: http://www.romhacking.net.br
-	Canal FURT/RHBR no Discord: https://discord.gg/keJkKWk
+	Pelo FURT: https://www.romhacking.net.br/index.php?topic=425
+	Canal Jacutem Sabão no Discord: https://discord.gg/ESNYwNA
 
 Licença de Uso:
 	A presente obra encontra-se licenciada sob a licença

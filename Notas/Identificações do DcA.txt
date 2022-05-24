@@ -1,0 +1,28 @@
+. Ev_S:
+
+000 - Nada
+001 - Nada mesmo
+002 - Dia 7 - Antes da Reunião - Fala
+003 - Dia 8 - Antes da Missão - Fala
+004 - Dia 8 - Antes da Missão - Fala
+005 - Dia 8 - Final da Missão - Quase Saindo
+006 - Dia 8 - Final da Missão - Torre
+191 - Dia 9 - Antes da Missão - Fala
+
+. TT:
+
+049 - Dia 8 - Início da Primeira Missão - Introdução
+050 - Dia 8??? - Início da Primeira Missão??? - ???
+052 - Dia 8 - Primeira Missão - Pular/Correr
+051 - Dia 8 - Primeira Missão - Barreiras
+053 - Dia 8 - Primeira Missão - Baús
+054 - Dia 8 - Primeira Missão - Final
+
+NM = Hallowen Town
+AW = Wonderland
+BB = Beast Castle
+PP = Neverland
+DP = ????
+AL = Agrabah
+HE = Olympus Coliseum
+TT = Twilight Town

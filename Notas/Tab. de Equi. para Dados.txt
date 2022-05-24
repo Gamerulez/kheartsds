@@ -1,0 +1,361 @@
+- Armas:
+
+. Sora:
+
+- Kingdom Key = Clavis Real
+- Espada do Sonho = Dream Sword
+- Elo da Chama = Bond of Flame
+
+. Riku:
+
+- Soul Eater = Devora-Almas
+- Way to the Dawn = À Alvorada
+- Oblivion = Oblívio
+
+. Pato Donald:
+
+- Cajado do Mago = Mage's Staff
+- Cetro do Sonho = Dream Rod
+- Centurião = Centurion
+
+. Pateta:
+
+- Escudo do Cavaleiro = Knight's Shield
+- Escudo do Sonho = Dream Shield
+- Orgulho Congelado = Frozen Pride
+
+. Mickey:
+
+- Kingdom Key D = Clavis Real D
+- Caça-Estrelas = Star Seeker
+
+. Xemnas -> O Superior da Ordem:
+
+- Malícia = Malice
+- Sanção = Sanction
+- Autocracia = Autocracy
+- Agressão = Agression
+- Leque Curvo = Round Fan
+- Dominador = Overlord
+- Conquista = Conquest
+- Fúria = Fury
+- Julgamento = Judgment
+- Aristocracia = Aristocracy
+- Absoluto = Absolute
+- Veneração = Veneration
+- Término = Terminus
+- Desespero = Despair
+- Disciplina = Discipline
+- Superioridade = Superiority
+- Dominação = Domination
+- Triunfo = Triumph
+- Tirano = Tyrant
+- Aniquilação = Annihilation
+- Interdição = Interdiction
+- Infinito = Infinity
+- Ruína = Ruination
+- Magnificência = Magnificence
+
+. Xigbar -> O Franco Atirador:
+
+- Autônomo = Stand Alone
+- Abelha Assassina = Killer Bee
+- Precisão = Precision
+- Ignição = Ignition
+- Secador = Dryer
+- Arraia = Stingray
+- Duas Cabeças = Dual Head
+- Armstrong = Canhão
+- Gullwing = Gaivota
+- Concha Estelar = Star Shell
+- Trombeta = Trumpet
+- Contrapeso = Counterweight
+- Bahamut = Bahamut
+- Calor de Cozinhar = Hard-Boiled Heat
+- Armação Azul = Blue Frame
+- Nascer do Sol = Sunrise
+- Poeira Estelar = Stardust
+- Olho do Diablo = Diablo Eye
+- Crime e Punição = Crime & Punishment
+- Boca de Energia = Energy Muzzle
+- Atirador de Elite = Sharpshooter
+- Arma Final = Final Weapon
+- Batida Dupla = Double Tap
+- Flecha do Cupido = Cupid's Arrow
+
+. Xaldin  -> O Lanceiro do Vento:
+
+- Zéfiro = Zephyr
+- Espectro Lunar = Moonglade
+- Bruma = Brume
+- Vórtice = Vortex
+- Vassoura = Bloom
+- Aer = Aer
+- Asura = Asura
+- Cisão = Scission
+- Paladino = Paladin
+- Nuvem Noturna = Nightcloud
+- Serpe = Wyvern
+- Nescidade = Nescience
+- Crucial = Crux
+- Queda Celeste = Heavenfall
+- Ferorei = Fellking
+- Vislumbre = Shimmer
+- Hegemonia = Hegemon
+- Aether = Aether
+- Yaksha = Yaksha
+- Fogo-Fátuo = Foxfire
+- Uróboro = Lindorm
+- Dragão Reinante = Dragonreign
+- Zodíaco = Mazzaroth
+- Cynosura = Cinosura
+
+. Vexen  -> O Acadêmico Frígido:
+
+- Protótipo = Tester Zero
+- Produto Final = Product One
+- Teoria Falsa = False Theory
+- Inquisição = Inquisition
+- Tampa de Panela = Pot Lid
+- Frio Intenso = Deep Freeze
+- Geleira = Glacier
+- Escrutínio = Scrutiny
+- Günz = Günz
+- Avalanche = Snowslide
+- Boneco de Neve = Snowman
+- Escudo Criolítico = Cryolite Shield
+- Zero Absoluto = Absolute Zero
+- Empirismo = Empiricism
+- Mindel = Mindel
+- Icebergue = Iceberg
+- Würm = Würm
+- Edificação = Edification
+- Sangue Frio = Cold Blood
+- Abaixo de Zero = Subzero
+- Orgulho Congelado = Frozen Pride
+- Égide = Aegis
+- Excogitação = Contrivance
+- Escudo Diamantino = Diamond Shield
+
+. Lexaeus  -> O Herói Silencioso:
+
+- Reticência = Reticence
+- Golias = Goliath
+- Colosso = Colossus
+- Precursor = Harbinger
+- Tac Toc Toco = Bleep Bloop Bop
+- Vermelho Cobre = Cooper Red
+- Ursa Maior = Ursa Major
+- Pau-Brasil = Redwood
+- Terreno = Terrene
+- Inverno Forte = Hard Winter
+- Monólito = Monolith
+- Alvor = Daybreak
+- Megacosmo = Megacosm
+- Sequóia = Sequoia
+- Fuligem = Fuligin
+- Vagalume = Firefly
+- Octirônio = Octiron
+- Preto Ferro = Iron Black
+- Claridade = Clarity
+- Hipérion = Hyperion
+- Corta-Céu = Skysplitter
+- Virtude Cardeal = Cardinal Virtue
+- Brilho Terrestre = Earthshine 
+- 1001 Noites = 1001 Nights
+
+. Zexion -> O Projetista Nebuloso:
+
+- Cartilha Negra = Black Primer
+- Tomo Branco = White Tome
+- Compêndio Arcano = Arcane Compendium
+- Bestiário Excêntrico = Freakish Bestiary
+- Lanchinho da Meia-Noite = Midnight Snack 
+- Pesquisa Ilícita = Illicit Research
+- Anotações Dissidentes = Dissenter's Notes
+- Currículo Insano = Madman's Vita
+- Álbum Místico = Mystic Album
+- Texto Tabu = Taboo Text
+- Querido Diário = Dear Diary
+- Segredos Enterrados = Buried Secrets
+- Códice Nefário = Nefarious Codex
+- Escritas Sem Título = Untitled Writings
+- Manual Amaldiçoado = Cursed Manual 
+- Esotérica Extranatural = Eldritch Esoterica
+- Recortes Revoltantes = Revolting Scrapbook 
+- Dogma Abandonado = Abandoned Dogma
+- Contos Sobrenaturais = Otherworldly Tales
+- Heterodoxia Perdida = Lost Heterodoxy
+- Livro de Retribuição = Book of Retribution
+- Tratado Radical = Radical Treatise
+- Atlas de Presságios = Atlas of Omens
+- Saber Indescritível = Indescribable Lore
+
+. Saïx  -> O Adivinho Lunático:
+
+- Lua Nova = New Moon
+- Lobisomem = Werewolf
+- Selene = Selene
+- Frenético = Berserker
+- Só Sobremesas = Just Desserts
+- Ártemis = Artemis
+- Nascer da Lua = Moonrise
+- Crepúsculo = Twilight
+- Cratera = Crater
+- Crescente = Crescent
+- Coelhinho da Lua = Bunnymoon
+- Luminar = Luminary
+- Astrologia = Astrologia
+- Rainha da Noite = Queen of the Night 
+- Fase da Lua = Lunar Phase
+- Gibosa = Gibbous
+- Ano-Luz = Light Year
+- Lua Balsâmica = Balsamic Moon
+- Pôr da Lua = Moonset
+- Rei da Noite = King of the Night
+- Lunático = Lunatic
+- Dicotomia = Dichotomy
+- Órbita = Orbit
+- Horóscopo = Horoscope
+
+. Axel -> O Fluxo das Chamas Dançantes:
+
+- Cinzas= Ashes
+- Abatimento  = Doldrums
+- Combustão = Combustion
+- Inferno = Inferno
+- Fatia de Pizza = Pizza Cut
+- Ação Retardada = Delayed Action
+- Moulin Rouge = Moulin Rouge
+- Gume Chiante = Sizzling Edge
+- Prometeu = Prometheus
+- Oceano Magmático = Magma Ocean
+- Conformistas = Conformers
+- Bombas de Mergulho = Dive-Bombers 
+- Chama da Glória = Blaze of Glory
+- Corona = Corona
+- Ifrit = Ifrit
+- Vulcânicas = Volcanics
+- Trio Ômega = Omega Trinity
+- Rodas Gigantes = Ferris Wheels
+- Dois Gumes = Double Edge
+- Deflagração = Outbreak
+- Flamas Eternas = Eternal Flames
+- Proeminência = Prominence
+- Queima Total = Burnout
+- Fogo Grego = Wildfire
+
+. Demyx  -> O Nortuno Melódico:
+
+- Modelo Básico = Basic Model
+- Afinado = Tune-up
+- Prelúdio = Overture
+- Pássaro Canoro = Songbird
+- Princípe Majestoso = Prince of Awesome
+- Quarteto = Quartet
+- Veterano = Old Hand
+- À Fama = Rise to Fame
+- Acorde Potente = Power Chord
+- Interlúdio = Interlude
+- Depois da Escola = After School
+- Quinteto = Quintet
+- Da Capo = Da Capo
+- Estrela do Roque = Rock Star
+- Fermata = Fermata
+- Serenata = Serenade
+- Harmonia = Harmonics
+- Oito Dedos = Eight-Finger
+- Fortissimo = Fortissimo
+- Milionário = Million Bucks
+- Arpejo = Arpeggio
+- Santuário = Sanctuary
+- Concerto = Concerto
+- Até Onze = Up to Eleven
+
+. Luxord -> O Jogador do Destino:
+
+- O Louco = The Fool
+- O Mago = The Magician
+- A Justiça = Justice
+- A Morte = Death
+- Finest Fantasy 13 = Finest Fantasy 13
+- A Estrela = The Star
+- O Hierofante = The Hierophant
+- O Eremita = The Hermit
+- A Temperança = Temperance 
+- A Torre = The Tower
+- Segredo de Aposta = High Roller's Secret
+- A Lua = The Moon
+- O Mundo = The World
+- A Força = Strenght
+- A Sacerdotisa = The High Priestess 
+- O Enforcado = The Hanged Man
+- O Sol = The Sun
+- Os Amantes = The Lovers
+- A Imperatriz = The Empress
+- O Diabo = The Devil
+- Jogo Justo - Fair Game
+- Curinga = The Joker
+- O Carro = The Chariot
+- O Imperador = The Emperor
+
+. Marluxia -> O Asassino Gracioso:
+
+- Érica Mutável = Fickle Erica
+- Anêmona Rejeitada = Jilted Anemone
+- Pobre Melissa = Poor Melissa
+- Beladona Quieta = Quiet Belladonna
+- Concha = Stirring Ladle
+- Amarílis Orgulhosa = Proud Amaryllis  
+- Allium Trágico  = Tragic Allium
+- Ipheion Partido = Parting Ipheion
+- Pseudo-Silene  = Pseudo Silene
+- Muscari Inflexível = Grim Muscari
+- Campânulas Delicadas = Dainty Bellflowers
+- Cártamo Furioso = Safflower Mad
+- Cinerária Pesarosa = Mournful Cineraria
+- Gérbera Grandiosa  = Lofty Gerbera
+- Digitális Infiel = Faithless Digitalis
+- Valota Dócil = Docile Vallota
+- Anis Medonha = Fearsome Anise
+- Aquiléia Galante = Gallant Achillea
+- Helianto Íntegro = Fair Helianthus
+- Cardo Vingativo  = Vindictive Thistle
+- Dália Graciosa = Graceful Dahlia
+- Loto Sagrado = Hallowed Lotus
+- Peônia Nobre = Noble Peony
+- Magnólia Solene = Solemn Magnolia
+
+. Larxene -> A Ninfa Selvagem:
+
+- Francês = Francês
+
+. Roxas & Xion -> A Chave do Destino & O Clone:
+
+- Clavis Real = Kingdom Key
+- Dor Ausente = Missing Ache
+- Dor da Solidão = Pain of Solitude
+- Rugido Noturno = Midnight Roar
+- Guarda-Chuva = Umbrella
+- Praga Ominosa = Ominous Blight
+- Símbolo de Inocência = Sign of Innocence 
+- Relance das Trevas = Glimpse of Darkness 
+- Maré Abissal =  Abyssal Tide
+- Vôo da Luz Veraz = True Light's Flight
+- Aubade = Aubade
+- Plasma de Abadom = Abaddon Plasma
+- Coroa de Culpa = Crown of Guilt
+- Eclipse Total = Total Eclipse
+- Leviatã = Leviathan
+- Destino Rejeitado = Rejection of Fate 
+- Escuridão Total = Darker than Dark
+- Nênia Silenciosa = Silent Dirge 
+- Chama Dissidente =  Maverick Flare
+- Rajada Sideral = Astral Blast
+- Arma Ômega = Omega Weapon 
+- Eclipse Lunar = Lunar Eclipse
+- Fulgor Crepuscular = Twilight Blaze
+- (Roxas) Espada de Disputa = Struggle Sword 
+- Prometido = Oathkeeper
+- (Roxas) Galho = Tree Branch
+- Dois em Um = Two Become One

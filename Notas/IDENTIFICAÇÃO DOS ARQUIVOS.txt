@@ -1,0 +1,993 @@
+DADOS (DB_EN)
+
+.db_en000: Armas do Axel (Chakrams)
+.db_en001: Armas do Demyx (Sitars)
+.db_en002: Armas do Pato Donald (Staffs)
+.db_en003: Armas do Pateta (Shields)
+.db_en004: Armas da Larxene (Knives)
+.db_en005: Armas do Lexaeus (Axe Swords)
+.db_en006: Armas do Luxord (Cards)
+.db_en007: Armas do Marluxia (Scythes)
+.db_en008: Armas do Mickey (Keyblades)
+.db_en009: Armas do Riku (Keyblades)
+.db_en010: Armas da Xion (Keyblades)
+.db_en011: Armas do Saix (Claymores)
+.db_en012: Armas do Sora (Keyblade)
+.db_en013: Armas do Vexen (Shields)
+.db_en014: Armas do Xaldin (Lances)
+.db_en015: Armas do Xemnas (Etereal Blades)
+.db_en016: Armas do Xigbar (Arrowguns)
+.db_en017: Armas do Roxas (Keyblades) - Tree Branch/Wooden Stick e Struggle Sword.
+.db_en018: Armas do Zexion (Lexicons)
+.db_en019: Itens, Magias e Habilidades
+.db_en020: Texto em japonês
+.db_en021: Itens e Aprimoramentos
+.db_en022: Itens e Magias em quantidades maiores
+
+INTERFACE (S)
+
+.cfg_en.s.z: Frases sobre Configurações
+.enm_en.s.z: Duas frases sobre Inimigo
+.lrd.s.z: Frases sobre Carregamento
+.lrd_en.s.z: Frases sobre Carregamento (tem japonês e é diferente do acima)
+.mlt_en.s.z: Coisas do Online
+.mnl_en.s.z: Diário inicial do Roxas
+.ngm_en.s_z: Dificuldades
+.panel_en.s_z: Frases sobre "Painéis"
+.res_en.s_z: Recompensas de missão e coleta (há japonês)
+.root_en.s_z: Título de cada Tutorial
+.rpt_en.s_z: "Select an entry"
+.sav_en.s_z: Frases sobre Salvamento
+.shp_en.s_z: Frases sobre a Loja
+.status_en.s_z: Frases sobre Status
+.sys_en.s_z: Frases sobre erro de comunicação no sistema
+.thr_en.s_z: Nomes no Modo Teatro (cutscenes)
+.ttl_en.s_z: "Select a tutorial"
+.world_id_en.s_z: Nome dos mundos.
+
+LEGENDAS (m)
+
+.m_000: Abertura
+.m_001: Conheça Xion
+.m_002: código
+.m_003: A Margem Negra
+.m_004: código
+.m_005: código
+.m_006: código
+.m_007: código
+.m_008: código
+.m_009: A Derrota de Xion
+.m_010: código
+.m_011: código
+.m_012: Flashack da Xion sobre Sora?
+.m_013: Naminé e DiZ
+.m_014: Por Que o Sol Se Põe Vermelho
+.m_015: Embolo de Memórias
+.m_016: Embolo de Memórias
+.m_017: Riku Cuida de Xion
+.m_018: código
+.m_019: O Sonho de Xion
+.m_020: A Captura de Xion
+.m_021: código
+.m_022: código
+.m_023: Riku e Xion
+.m_024: A Decisão de Riku
+.m_025: código
+.m_026: Naminé e Xion
+.m_027: Xion e Axel Se Confrontam
+.m_028: Xion Ataca
+.m_029: VENCEDOR
+.m_030: código
+.m_031: código
+.m_032: Riku Vira Ansem
+.m_033: Riku Vira Ansem
+.m_034: Riku Vira Ansem
+.m_035: Após a Batalha
+.m_036: Após a Batalha
+.m_037: Um Novo Dia
+.m_038: O Ponto de Encontro
+.m_039: "Sora"
+.m_040: Axel e Saïx
+.m_041: Roxas Deixa a Ordem
+.m_042: O Fim de Xion
+.m_043: Um Novo Dia
+ 
+DIÁLOGOS COM AVATAR (EV)
+
+- EV_AL (Agrabah)
+
+.EV_AL_000.z:apenas código
+.EV_AL_001.z:apenas código
+.EV_AL_002.z:ALGUMA FRASE DE COMEÇO COM XIGBAR?
+.EV_AL_003.z:FALAS QUE DE ALGUÉM QUE NÃO SEI
+.EV_AL_004.z:ALGO/FALAS ENTRE ALADDIN E JASMINE
+.EV_AL_005.z:FALAS DE ALGUÉM QUE EU NÃO SEI
+.EV_AL_006.z:FALAS DE ALGUÉM QUE EU NÃO SEI
+.EV_AL_007.z:apenas código
+.EV_AL_008.z:apenas código
+.EV_AL_009.z:apenas código
+.EV_AL_010.z:FALAS DO ALADDIN COM ALGUÉM QUE EU NÃO SEI
+.EV_AL_011.z: FALAS DE ALGUÉM DESCONHECIDO COM ABU
+.EV_AL_012.z:apenas código
+.EV_AL_013.z:apenas código
+.EV_AL_014.z:FALAS
+.EV_AL_015.z:FALAS (DE ALGUÉM DESCONHECIDO, COM ROXAS
+.EV_AL_016.z:FALAS DE AXEL COM ROXAS?
+.EV_AL_017.z:apenas código
+.EV_AL_018.z:FALAS
+.EV_AL_019.z:FALAS NÃO TRADUZIDAS*
+.EV_AL_020.z:Arquivo Branco
+.EV_AL_021.z:apenas código
+.EV_AL_022.z:apenas código
+.EV_AL_023.z:apenas código
+.EV_AL_024.z:apenas código
+.EV_AL_025.z:falas entre roxas e axel 
+.EV_AL_026.z:falas de roxas e axel? 
+.EV_AL_027.z:falas de roxas com axel, e/sobre xion? 
+.EV_AL_028.z:apenas código
+.EV_AL_029.z:falas
+.EV_AL_030.z:apenas código
+.EV_AL_031.z:apenas código
+.EV_AL_032.z:apenas código
+.EV_AL_033.z:falas
+.EV_AL_034.z:apenas código 
+.EV_AL_035.z:falas 
+.EV_AL_036.z:falas com Roxas? 
+.EV_AL_037.z:falas com Roxas?
+.EV_AL_038.z:códigos
+.EV_AL_039.z:Falas do Roxas com Aladdin?
+.EV_AL_040.z:código
+.EV_AL_041.z:código
+.EV_AL_042.z:código
+.EV_AL_043.z:Falas do Roxas/Aladdin e Genie (Genio) 
+.EV_AL_044.z:código
+.EV_AL_045.z:código
+.EV_AL_046.z:falas 
+.EV_AL_047.z:falas "..."
+.EV_AL_048.z:código
+.EV_AL_049.z:código
+.EV_AL_050.z:código
+.EV_AL_051.z:Falas do Roxas?
+.EV_AL_052.z:Falas
+.EV_AL_053.z:Falas do Roxas com Aladdin?
+.EV_AL_054.z:falas 
+.EV_AL_055.z:código
+.EV_AL_056.z:código
+.EV_AL_057.z:código
+.EV_AL_058.z:código
+.EV_AL_059.z:código
+.EV_AL_060.z:FALAS
+.EV_AL_061.z:código
+.EV_AL_062.z:código
+
+- EV_AW (Wonderland)
+
+.EV_AW_000.z:código
+.EV_AW_001.z:código
+.EV_AW_002.z:falas
+.EV_AW_003.z:falas
+.EV_AW_004.z:código
+.EV_AW_005.z:textos
+.EV_AW_006.z:códigos
+.EV_AW_007.z:códigos
+.EV_AW_008.z:falas
+.EV_AW_009.z:códigos
+.EV_AW_010.z:falas
+.EV_AW_011.z:falas
+.EV_AW_012.z:falas
+.EV_AW_013.z:falas
+.EV_AW_014.z:textos
+.EV_AW_015.z:códigos
+.EV_AW_016.z:textos
+.EV_AW_017.z:textos
+.EV_AW_018.z:textos
+.EV_AW_019.z:textos
+.EV_AW_020.z:textos
+.EV_AW_021.z:textos
+.EV_AW_022.z:códigos
+.EV_AW_023.z:códigos
+.EV_AW_024.z:códigos
+.EV_AW_025.z:códigos
+.EV_AW_026.z:textos
+.EV_AW_027.z:textos
+.EV_AW_028.z:códigos
+.EV_AW_029.z:textos
+.EV_AW_030.z:códigos
+.EV_AW_031.z:textos
+.EV_AW_032.z:códigos
+.EV_AW_033.z:textos
+.EV_AW_034.z:códigos
+.EV_AW_035.z:textos
+.EV_AW_036.z:textos
+.EV_AW_037.z:códigos
+.EV_AW_038.z:textos
+.EV_AW_039.z:códigos
+.EV_AW_040.z:códigos
+.EV_AW_041.z:códigos
+.EV_AW_042.z:textos
+.EV_AW_043.z:textos
+.EV_AW_044.z:textos
+.EV_AW_045.z:códigos
+.EV_AW_046.z:textos
+.EV_AW_047.z:códigos
+.EV_AW_048.z:textos
+.EV_AW_049.z:códigos
+.EV_AW_050.z:textos
+.EV_AW_051.z:códigos
+.EV_AW_052.z:textos
+.EV_AW_053.z:textos
+.EV_AW_054.z:códigos
+.EV_AW_055.z:códigos
+
+- EV_BB (Beast's Castle)
+
+.EV_BB_000.z:
+.EV_BB_001.z:
+.EV_BB_002.z:
+.EV_BB_003.z:
+.EV_BB_004.z:
+.EV_BB_005.z:
+.EV_BB_006.z:
+.EV_BB_007.z:
+.EV_BB_008.z:
+.EV_BB_009.z:
+.EV_BB_010.z:
+.EV_BB_011.z:
+.EV_BB_012.z:
+.EV_BB_013.z:
+.EV_BB_014.z:
+.EV_BB_015.z:
+.EV_BB_016.z:
+.EV_BB_017.z:
+.EV_BB_018.z:
+.EV_BB_019.z:
+.EV_BB_020.z:
+.EV_BB_021.z:
+.EV_BB_022.z:
+.EV_BB_023.z:
+.EV_BB_024.z:
+.EV_BB_025.z:
+.EV_BB_026.z:
+.EV_BB_027.z:
+.EV_BB_028.z:
+.EV_BB_029.z:
+.EV_BB_030.z:
+.EV_BB_031.z:
+.EV_BB_032.z:
+.EV_BB_033.z:
+.EV_BB_034.z:
+.EV_BB_035.z:
+.EV_BB_036.z:
+.EV_BB_037.z:
+.EV_BB_038.z:
+.EV_BB_039.z:
+.EV_BB_040.z:
+.EV_BB_041.z:
+.EV_BB_042.z:
+.EV_BB_043.z:
+.EV_BB_044.z:
+.EV_BB_045.z:
+.EV_BB_046.z:
+.EV_BB_047.z:
+.EV_BB_048.z:
+.EV_BB_049.z:
+.EV_BB_050.z:
+.EV_BB_051.z:
+.EV_BB_052.z:
+.EV_BB_053.z:
+.EV_BB_054.z:
+.EV_BB_055.z:
+.EV_BB_056.z:
+.EV_BB_057.z:
+.EV_BB_058.z:
+.EV_BB_059.z: codigo
+.EV_BB_060.z: codigo
+.EV_BB_061.z:
+.EV_BB_062.z:
+.EV_BB_063.z:
+.EV_BB_064.z:
+.EV_BB_065.z:
+.EV_BB_066.z:
+.EV_BB_067.z:
+.EV_BB_068.z: codigo
+.EV_BB_069.z:
+.EV_BB_070.z: codigo
+.EV_BB_071.z:
+.EV_BB_072.z:
+.EV_BB_073.z:
+.EV_BB_074.z:
+.EV_BB_075.z:
+.EV_BB_076.z:
+.EV_BB_077.z:
+.EV_BB_078.z:
+
+- EV_DP (Destiny Islands ou Realm of Darkness ou Castle Oblivion?)
+
+.EV_DP_000.z: código
+.EV_DP_001.z: código
+.EV_DP_002.z: código
+.EV_DP_003.z: código
+.EV_DP_004.z: código
+.EV_DP_005.z: código
+.EV_DP_006.z: código
+.EV_DP_007.z: código
+.EV_DP_008.z: código
+.EV_DP_009.z: código
+.EV_DP_010.z: código
+.EV_DP_011.z: código
+.EV_DP_012.z: dummy
+.EV_DP_013.z: código
+.EV_DP_014.z: código
+.EV_DP_015.z: código
+.EV_DP_016.z: código
+.EV_DP_017.z: código
+.EV_DP_018.z: código
+.EV_DP_019.z: código
+.EV_DP_020.z: código
+.EV_DP_021.z: código
+.EV_DP_022.z: código
+.EV_DP_023.z: código
+.EV_DP_024.z: código
+.EV_DP_025.z: código
+.EV_DP_026.z: dummy
+.EV_DP_027.z: dummy
+.EV_DP_028.z: dummy
+
+- EV_HE (Olympus Coliseum)
+
+.EV_HE_000.z:
+.EV_HE_001.z:
+.EV_HE_002.z:
+.EV_HE_003.z:
+.EV_HE_004.z:
+.EV_HE_005.z:
+.EV_HE_006.z:
+.EV_HE_007.z: texto "pontos" "filho"
+.EV_HE_008.z:
+.EV_HE_009.z:
+.EV_HE_010.z:
+.EV_HE_011.z:
+.EV_HE_012.z:
+.EV_HE_013.z:
+.EV_HE_014.z:
+.EV_HE_015.z:
+.EV_HE_016.z:
+.EV_HE_017.z:
+.EV_HE_018.z:
+.EV_HE_019.z:
+.EV_HE_020.z:
+.EV_HE_021.z:
+.EV_HE_022.z:
+.EV_HE_023.z:
+.EV_HE_024.z:
+.EV_HE_025.z:
+.EV_HE_026.z:
+.EV_HE_027.z:
+.EV_HE_028.z:
+.EV_HE_029.z:
+.EV_HE_030.z:
+.EV_HE_031.z:
+.EV_HE_032.z:
+.EV_HE_033.z: não traduzido
+.EV_HE_034.z:
+.EV_HE_035.z:
+.EV_HE_036.z: texto não traduzido
+.EV_HE_037.z: código
+.EV_HE_038.z:
+.EV_HE_039.z:
+.EV_HE_040.z:
+.EV_HE_041.z:
+.EV_HE_042.z:
+.EV_HE_043.z:
+.EV_HE_044.z:
+.EV_HE_045.z: codigos
+.EV_HE_046.z:
+.EV_HE_047.z:
+.EV_HE_048.z:
+.EV_HE_049.z:
+.EV_HE_050.z:
+.EV_HE_051.z:
+
+- EV_NM (Halloween Town)
+
+.EV_NM_000.z:
+.EV_NM_001.z:
+.EV_NM_002.z:
+.EV_NM_003.z:
+.EV_NM_004.z:
+.EV_NM_005.z:
+.EV_NM_006.z:
+.EV_NM_007.z:
+.EV_NM_008.z:
+.EV_NM_009.z:
+.EV_NM_010.z:
+.EV_NM_011.z:
+.EV_NM_012.z:
+.EV_NM_013.z:
+.EV_NM_014.z:
+.EV_NM_015.z:
+.EV_NM_016.z:
+.EV_NM_017.z:
+.EV_NM_018.z:
+.EV_NM_019.z:
+.EV_NM_020.z:
+.EV_NM_021.z:
+.EV_NM_022.z:
+.EV_NM_023.z:
+.EV_NM_024.z:
+.EV_NM_025.z:
+.EV_NM_026.z:
+.EV_NM_027.z:
+.EV_NM_028.z:
+.EV_NM_029.z:
+.EV_NM_030.z:
+.EV_NM_031.z:
+.EV_NM_032.z:
+.EV_NM_033.z:
+.EV_NM_034.z:
+.EV_NM_035.z:
+.EV_NM_036.z:
+.EV_NM_037.z:
+.EV_NM_038.z:
+.EV_NM_039.z:
+.EV_NM_040.z:
+.EV_NM_041.z:
+.EV_NM_042.z:
+.EV_NM_043.z:
+.EV_NM_044.z:
+.EV_NM_045.z:
+.EV_NM_046.z:
+.EV_NM_047.z:
+.EV_NM_048.z: texto "passeio"
+.EV_NM_049.z:
+.EV_NM_050.z:
+.EV_NM_051.z:
+.EV_NM_052.z:
+.EV_NM_053.z:
+.EV_NM_054.z:
+.EV_NM_055.z:
+.EV_NM_056.z:
+.EV_NM_057.z:
+.EV_NM_058.z:
+.EV_NM_059.z:
+.EV_NM_060.z:
+.EV_NM_061.z:
+.EV_NM_062.z:
+.EV_NM_063.z:
+.EV_NM_064.z:
+.EV_NM_065.z:
+.EV_NM_066.z:
+.EV_NM_067.z:
+.EV_NM_068.z:
+.EV_NM_069.z:
+.EV_NM_070.z:
+.EV_NM_071.z:
+.EV_NM_072.z:
+.EV_NM_073.z:
+.EV_NM_074.z:
+.EV_NM_075.z:
+.EV_NM_076.z:
+.EV_NM_077.z:
+.EV_NM_078.z:
+.EV_NM_079.z: texto "balões"
+.EV_NM_080.z:
+.EV_NM_081.z:
+.EV_NM_082.z:
+.EV_NM_083.z:
+.EV_NM_084.z:
+.EV_NM_085.z:
+.EV_NM_086.z:
+.EV_NM_087.z:
+.EV_NM_088.z:
+.EV_NM_089.z:
+.EV_NM_090.z:
+.EV_NM_091.z: texto "não pode passar daqui"
+.EV_NM_092.z:
+.EV_NM_093.z:
+.EV_NM_094.z:
+.EV_NM_095.z:
+.EV_NM_096.z:
+.EV_NM_097.z:
+
+- EV_PP (Neverland)
+
+.EV_PP_000.z:
+.EV_PP_001.z:
+.EV_PP_002.z:
+.EV_PP_003.z:
+.EV_PP_004.z:
+.EV_PP_005.z:
+.EV_PP_006.z:
+.EV_PP_007.z:
+.EV_PP_008.z:
+.EV_PP_009.z:
+.EV_PP_010.z:
+.EV_PP_011.z:
+.EV_PP_012.z:
+.EV_PP_013.z:
+.EV_PP_014.z:
+.EV_PP_015.z:
+.EV_PP_016.z:
+.EV_PP_017.z:
+.EV_PP_018.z:
+.EV_PP_019.z:
+.EV_PP_020.z:
+.EV_PP_021.z:
+.EV_PP_022.z:
+.EV_PP_023.z:
+.EV_PP_024.z:
+.EV_PP_025.z:
+.EV_PP_026.z:
+.EV_PP_027.z:
+.EV_PP_028.z:
+.EV_PP_029.z:
+.EV_PP_030.z:
+.EV_PP_031.z:
+.EV_PP_032.z:
+.EV_PP_033.z:
+.EV_PP_034.z:
+.EV_PP_035.z:
+.EV_PP_036.z:
+.EV_PP_037.z:
+.EV_PP_038.z:
+.EV_PP_039.z:
+.EV_PP_040.z:
+.EV_PP_041.z:
+.EV_PP_042.z:
+.EV_PP_043.z:
+.EV_PP_044.z:
+.EV_PP_045.z:
+.EV_PP_046.z:
+.EV_PP_047.z:
+.EV_PP_048.z:
+.EV_PP_049.z:
+
+- EV_S (The World That Never Was)
+
+.EV_S_000.z: codigo
+.EV_S_001.z: dummy
+.EV_S_002.z: fala traduzida
+.EV_S_003.z: fala traduzida
+.EV_S_004.z: fala traduzida não revisada#
+.EV_S_005.z: fala traduzida
+.EV_S_006.z: fala traduzida não revisada#
+.EV_S_007.z: fala traduzida não revisada#
+.EV_S_008.z: fala traduzida
+.EV_S_009.z: codigo
+.EV_S_010.z: codigo
+.EV_S_011.z: fala traduzida
+.EV_S_012.z: fala traduzida não revisada#
+.EV_S_013.z: fala traduzida
+.EV_S_014.z: fala traduzida
+.EV_S_015.z: fala traduzida
+.EV_S_016.z: fala traduzida
+.EV_S_017.z: fala traduzida
+.EV_S_018.z: codigo
+.EV_S_019.z: fala traduzida
+.EV_S_020.z: fala traduzida
+.EV_S_021.z: fala traduzida
+.EV_S_022.z: fala traduzida
+.EV_S_023.z: fala traduzida
+.EV_S_024.z: fala traduzida
+.EV_S_025.z: fala traduzida não revisada#
+.EV_S_026.z: fala traduzida
+.EV_S_027.z: fala traduzida
+.EV_S_028.z: fala traduzida não revisada#
+.EV_S_029.z: fala traduzida
+.EV_S_030.z: fala traduzida
+.EV_S_031.z: fala traduzida
+.EV_S_032.z: codigo
+.EV_S_033.z: codigo
+.EV_S_034.z: fala traduzida
+.EV_S_035.z: fala traduzida
+.EV_S_036.z: codigo
+.EV_S_037.z: fala traduzida
+.EV_S_038.z: fala traduzida
+.EV_S_039.z: fala traduzida
+.EV_S_040.z: fala traduzida não revisada#
+.EV_S_041.z: fala traduzida
+.EV_S_042.z: fala traduzida
+.EV_S_043.z: fala traduzida
+.EV_S_044.z: fala traduzida
+.EV_S_045.z: FALA NÃO TRADUZIDA*
+.EV_S_046.z: fala traduzida
+.EV_S_047.z: fala traduzida
+.EV_S_048.z: fala traduzida
+.EV_S_049.z: fala traduzida
+.EV_S_050.z: fala traduzida não revisada#
+.EV_S_051.z: fala traduzida
+.EV_S_052.z: fala traduzida
+.EV_S_053.z: FALA NÃO TRADUZIDA*
+.EV_S_054.z: fala traduzida
+.EV_S_055.z: FALA NÃO TRADUZIDA*
+.EV_S_056.z: FALA NÃO TRADUZIDA*
+.EV_S_057.z: fala traduzida
+.EV_S_058.z: FALA NÃO TRADUZIDA*
+.EV_S_059.z: codigo
+.EV_S_060.z: FALA NÃO TRADUZIDA*
+.EV_S_061.z: FALA NÃO TRADUZIDA*
+.EV_S_062.z: FALA NÃO TRADUZIDA*
+.EV_S_063.z: FALA NÃO TRADUZIDA*
+.EV_S_064.z: FALA NÃO TRADUZIDA*
+.EV_S_065.z: codigo
+.EV_S_066.z: FALA NÃO TRADUZIDA*
+.EV_S_067.z: codigo
+.EV_S_068.z: FALA NÃO TRADUZIDA*
+.EV_S_069.z: FALA NÃO TRADUZIDA*
+.EV_S_070.z: FALA NÃO TRADUZIDA*
+.EV_S_071.z: fala traduzida
+.EV_S_072.z: fala traduzida
+.EV_S_073.z: fala traduzida
+.EV_S_074.z: fala traduzida 
+.EV_S_075.z: fala traduzida não revisada#
+.EV_S_076.z: fala traduzida
+.EV_S_077.z: codigo
+.EV_S_078.z: codigo
+.EV_S_079.z: codigo
+.EV_S_080.z: codigo
+.EV_S_081.z: fala traduzida
+.EV_S_082.z: fala traduzida
+.EV_S_083.z: fala traduzida
+.EV_S_084.z: FALA NÃO TRADUZIDA*
+.EV_S_085.z: FALA NÃO TRADUZIDA*
+.EV_S_086.z: fala traduzida não revisada#
+.EV_S_087.z: fala traduzida
+.EV_S_088.z: fala traduzida não revisada#
+.EV_S_089.z: FALA NÃO TRADUZIDA*
+.EV_S_090.z: fala traduzida
+.EV_S_091.z: FALA NÃO TRADUZIDA*
+.EV_S_092.z: codigo
+.EV_S_093.z: codigo
+.EV_S_094.z: codigo
+.EV_S_095.z: FALA NÃO TRADUZIDA*
+.EV_S_096.z: fala traduzida
+.EV_S_097.z: FALA NÃO TRADUZIDA*
+.EV_S_098.z: FALA NÃO TRADUZIDA*
+.EV_S_099.z: codigo
+.EV_S_100.z: FALA NÃO TRADUZIDA*
+.EV_S_101.z: fala traduzida
+.EV_S_102.z: FALA NÃO TRADUZIDA*
+.EV_S_103.z: FALA NÃO TRADUZIDA*
+.EV_S_104.z: fala traduzida
+.EV_S_105.z: fala traduzida
+.EV_S_106.z: fala traduzida
+.EV_S_107.z: fala traduzida
+.EV_S_108.z: fala traduzida não revisada#
+.EV_S_109.z: codigo
+.EV_S_110.z: fala traduzida
+.EV_S_111.z: FALA NÃO TRADUZIDA*
+.EV_S_112.z: fala traduzida não revisada#
+.EV_S_113.z: FALA NÃO TRADUZIDA*
+.EV_S_114.z: FALA NÃO TRADUZIDA*
+.EV_S_115.z: fala traduzida
+.EV_S_116.z: FALA NÃO TRADUZIDA*
+.EV_S_117.z: FALA NÃO TRADUZIDA*
+.EV_S_118.z: FALA NÃO TRADUZIDA*
+.EV_S_119.z: fala traduzida
+.EV_S_120.z: FALA NÃO TRADUZIDA*
+.EV_S_121.z: fala traduzida
+.EV_S_122.z: fala traduzida
+.EV_S_123.z: FALA NÃO TRADUZIDA*
+.EV_S_124.z: FALA NÃO TRADUZIDA*
+.EV_S_125.z: codigo
+.EV_S_126.z: codigo
+.EV_S_127.z: codigo
+.EV_S_128.z: FALA NÃO TRADUZIDA*
+.EV_S_129.z: FALA NÃO TRADUZIDA*
+.EV_S_130.z: fala traduzida
+.EV_S_131.z: fala traduzida não revisada#
+.EV_S_132.z: fala traduzida
+.EV_S_133.z: fala traduzida
+.EV_S_134.z: FALA NÃO TRADUZIDA*
+.EV_S_135.z: FALA NÃO TRADUZIDA*
+.EV_S_136.z: fala traduzida
+.EV_S_137.z: FALA NÃO TRADUZIDA*
+.EV_S_138.z: fala traduzida
+.EV_S_139.z: FALA NÃO TRADUZIDA*
+.EV_S_140.z: fala traduzida
+.EV_S_141.z: fala traduzida não revisada#
+.EV_S_142.z: codigo
+.EV_S_143.z: fala traduzida
+.EV_S_144.z: codigo
+.EV_S_145.z: FALA NÃO TRADUZIDA*
+.EV_S_146.z: codigo
+.EV_S_147.z: fala traduzida
+.EV_S_148.z: fala traduzida
+.EV_S_149.z: fala traduzida
+.EV_S_150.z: FALA NÃO TRADUZIDA*
+.EV_S_151.z: FALA NÃO TRADUZIDA*
+.EV_S_152.z: FALA NÃO TRADUZIDA*
+.EV_S_153.z: FALA NÃO TRADUZIDA*
+.EV_S_154.z: fala traduzida
+.EV_S_155.z: fala traduzida
+.EV_S_156.z: FALA NÃO TRADUZIDA*
+.EV_S_157.z: codigo
+.EV_S_158.z: FALA NÃO TRADUZIDA*
+.EV_S_159.z: FALA NÃO TRADUZIDA*
+.EV_S_160.z: FALA NÃO TRADUZIDA*
+.EV_S_161.z: FALA NÃO TRADUZIDA*
+.EV_S_162.z: FALA NÃO TRADUZIDA*
+.EV_S_163.z: fala traduzida não revisada#
+.EV_S_164.z: FALA NÃO TRADUZIDA*
+.EV_S_165.z: FALA NÃO TRADUZIDA*
+.EV_S_166.z: FALA NÃO TRADUZIDA*
+.EV_S_167.z: FALA NÃO TRADUZIDA*
+.EV_S_168.z: FALA NÃO TRADUZIDA*
+.EV_S_169.z: fala traduzida não revisada#
+.EV_S_170.z: fala traduzida
+.EV_S_171.z: FALA NÃO TRADUZIDA*
+.EV_S_172.z: fala traduzida
+.EV_S_173.z: fala traduzida
+.EV_S_174.z: fala traduzida
+.EV_S_175.z: fala traduzida
+.EV_S_176.z: codigo
+.EV_S_177.z: fala traduzida não revisada#
+.EV_S_178.z: codigo
+.EV_S_179.z: codigo
+.EV_S_180.z: codigo
+.EV_S_181.z: codigo
+.EV_S_182.z: codigo
+.EV_S_183.z: codigo
+.EV_S_184.z: fala traduzida
+.EV_S_185.z: fala traduzida
+.EV_S_186.z: fala traduzida
+.EV_S_187.z: FALA NÃO TRADUZIDA*
+.EV_S_188.z: fala traduzida
+.EV_S_189.z: fala traduzida
+.EV_S_190.z: codigo
+.EV_S_191.z: fala traduzida
+.EV_S_192.z: fala traduzida
+.EV_S_193.z: fala traduzida
+.EV_S_194.z: fala traduzida
+.EV_S_195.z: fala traduzida
+.EV_S_196.z: codigo
+.EV_S_197.z: fala traduzida
+.EV_S_198.z: fala traduzida
+.EV_S_198.z: fala traduzida
+.EV_S_199.z: codigo
+.EV_S_200.z: codigo
+.EV_S_201.z: codigo
+.EV_S_202.z: codigo
+.EV_S_203.z: codigo
+.EV_S_204.z: codigo
+.EV_S_205.z: codigo
+
+- EV_TT (Twilight Town)
+
+.EV_TT_000.z: código
+.EV_TT_001.z: código
+.EV_TT_002.z: 1segunda missão?
+.EV_TT_003.z: código
+.EV_TT_004.z: 2outra missão
+.EV_TT_005.z: 2continuação da acima
+.EV_TT_006.z: 2continuação da acima
+.EV_TT_007.z: código
+.EV_TT_008.z: 2final da missão acima
+.EV_TT_009.z: codigo
+.EV_TT_010.z: codigo
+.EV_TT_011.z: 3nova missão?
+.EV_TT_012.z: codigo
+.EV_TT_013.z: codigo
+.EV_TT_014.z: codigo
+.EV_TT_015.z: codigo 
+.EV_TT_016.z: codigo
+.EV_TT_017.z: 4mais uma missão?
+.EV_TT_018.z: 4continuação da acima
+.EV_TT_019.z: 4continuação da acima
+.EV_TT_020.z: 
+.EV_TT_021.z:
+.EV_TT_022.z:
+.EV_TT_023.z:
+.EV_TT_024.z:
+.EV_TT_025.z: texto "hora das perguntas"
+.EV_TT_026.z:
+.EV_TT_027.z:
+.EV_TT_028.z:
+.EV_TT_029.z:
+.EV_TT_030.z:
+.EV_TT_031.z:
+.EV_TT_032.z:
+.EV_TT_033.z:
+.EV_TT_034.z:
+.EV_TT_035.z:
+.EV_TT_036.z:
+.EV_TT_037.z: texto "aquela não é..."
+.EV_TT_038.z:
+.EV_TT_039.z:
+.EV_TT_040.z:
+.EV_TT_041.z:
+.EV_TT_042.z:
+.EV_TT_043.z:
+.EV_TT_044.z:
+.EV_TT_045.z:
+.EV_TT_046.z:
+.EV_TT_047.z:
+.EV_TT_048.z:
+.EV_TT_049.z:
+.EV_TT_050.z:
+.EV_TT_051.z:
+.EV_TT_052.z:
+.EV_TT_053.z:
+.EV_TT_054.z:
+.EV_TT_055.z:
+.EV_TT_056.z:
+.EV_TT_057.z:
+.EV_TT_058.z:
+.EV_TT_059.z:
+.EV_TT_060.z:
+.EV_TT_061.z:
+.EV_TT_062.z:
+.EV_TT_063.z:
+.EV_TT_064.z:
+.EV_TT_065.z:
+.EV_TT_066.z:
+.EV_TT_067.z:
+.EV_TT_068.z:
+.EV_TT_069.z:
+.EV_TT_070.z:
+.EV_TT_071.z:
+.EV_TT_072.z:
+.EV_TT_073.z:
+.EV_TT_074.z:
+.EV_TT_075.z:
+.EV_TT_076.z:
+.EV_TT_077.z:
+.EV_TT_078.z:
+.EV_TT_079.z: codigo
+.EV_TT_080.z:
+.EV_TT_081.z:
+.EV_TT_082.z:
+.EV_TT_083.z:
+.EV_TT_084.z:
+.EV_TT_085.z:
+.EV_TT_086.z:
+.EV_TT_087.z:
+.EV_TT_088.z: dummy
+.EV_TT_089.z: codigo
+.EV_TT_090.z: codigo
+.EV_TT_091.z:
+.EV_TT_092.z:
+.EV_TT_093.z:
+.EV_TT_094.z:
+.EV_TT_095.z:
+.EV_TT_096.z:
+.EV_TT_097.z:
+.EV_TT_098.z:
+.EV_TT_099.z:
+.EV_TT_100.z:
+.EV_TT_101.z:
+.EV_TT_102.z:
+.EV_TT_103.z:
+.EV_TT_104.z: codigo
+.EV_TT_105.z:
+.EV_TT_106.z:
+.EV_TT_107.z:
+.EV_TT_108.z:
+.EV_TT_109.z:
+.EV_TT_110.z:
+.EV_TT_111.z:
+.EV_TT_112.z: código
+.EV_TT_113.z: código
+.EV_TT_114.z: código
+.EV_TT_115.z: código
+
+DIÁLOGOS SEM AVATAR (CAKP)
+
+.0001:
+.0002:
+.0003:
+.0004:
+.0005:
+.0006:
+.0010:
+.0101:
+.0102:
+.0103:
+.0104:
+.0105:
+.0106:
+.0107:
+.0108:
+.0109:
+.0110:
+.0112:
+.0113:
+.0114:
+.0151:
+.0152:
+.0153:
+.0154:
+.0157:
+.0158:
+.0160:
+.0161:
+.0201:
+.0202:
+.0203:
+.0204:
+.0205:
+.0251:
+.0252:
+.0253:
+.0254:
+.0255:
+.0301:
+.0302:
+.0303:
+.0304:
+.0351:
+.0352:
+.0354:
+.0356:
+.0401:
+.0402:
+.0403:
+.0403:
+.0404:
+.0405:
+.0406:
+.0407:
+.0451:
+.0452:
+.0453:
+.0454:
+.0455:
+.0456:
+.0457:
+.0601:
+.0602:
+.0603:
+.0604:
+.0605:
+.0606:
+.0651:
+.0652:
+.0653:
+.0654:
+.0901:
+.0902:
+.0903:
+.0904:
+.0951:
+.0952:
+.0953:
+.0954:
+.1001:
+.1002:
+.1003:
+.1004:
+.1005:
+.1006:
+.1007:
+.1008:
+.1009:
+.1010:
+.1011:
+.1052:
+.1053:
+.1054:
+.1300:
+.1301:
+.1351:
+.1352:
+.1354:
+.2000:
+.2001:
+.3000:
+.8000:
+.8001:
+.8002:
+.8003:
+.8004:
+.8005:
+.8006:
+.8007:
+.8008:
+.8009:
+.8010:
+.9005:
+.9025:
+.10000:
+.10001:
+
+

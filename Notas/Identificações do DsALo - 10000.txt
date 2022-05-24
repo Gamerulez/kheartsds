@@ -1,0 +1,134 @@
+_s - Nada
+7 - _m (Legenda) ; t_ax (fala Axel) t_sa (fala Saix)
+8 - t0 (Diário) ;  t_sa (fala Saix)
+9 - t0 (Diário) ; t_sa (fala Saix) 
+10 - t_sa (fala Saix)
+11 - t_sa (fala Saix) 
+12 - t_sa (fala Saix)
+13 - t_sa (fala Saix)
+14 - t0 (Diário) ; t_sa (fala Saix) 
+15 - t0 (Diário) ; t_sa (fala Saix)
+16 - Nada
+17 - Nada
+18 - Nada
+22 - t0 (Diário)
+23 - t0 (Diário)
+24 - t0 (Diário)
+25 - t0 (Diário) ; t_sa (fala Saix)
+26 - t0 (Diário) ; t_mo (Moogle) ; t_sa (fala Saix)
+27 - _m (Legenda) 
+49 - _m (Legenda?)
+50 - _m (Legenda?)
+51 - t0 (Diário) ; t_sa (fala Saix)
+52 - t0 (Diário) ; t_sa (fala Saix)
+53 - Nada
+54 - Nada
+55 - Nada
+71 - t0 (Diário) ; t_mo (Moogle)
+72 - t0 (Diário)
+73 - t0 (Diário)
+74 - t0 (Diário)
+75 - t0 (Diário)
+76 - Nada
+77 - Nada
+78 - Nada
+79 - Nada
+80 - Nada
+94 - t0 (Diário)
+95 - t0 (Diário)
+96 - t0 (Diário)
+97 - t0 (Diário)
+98 - Nada
+99 - Nada
+100 - Nada
+101 - Nada
+117 - t0 (Diário) ; t_mo (Moogle) ; t_sa (fala Saix)
+118 - t0 (Diário)
+119 - t0 (Diário)
+120 - Nada
+121 - Nada
+122 - Nada
+123 - Nada
+124 - Nada
+149 - _m (Legenda?) ; t0 (Diário)
+150 - _m (Legenda?) ; t0 (Diário)
+151 - _m (Legenda) ; t0 (Diário)
+152 - t0 (Diário)
+153 - t0 (Diário)
+154 - Nada
+155 - Nada
+156 - Nada
+157 - Nada
+171 - t0 (Diário)
+172 - t0 (Diário) ; t_mo (Moogle) ; t_sa (fala Saix)
+173 - t0 (Diário)
+174 - t0 (Diário)
+175 - Nada
+176 - Nada
+177 - Nada
+193 - _m (Legenda?) ; t0 (Diário)
+194 - t0 (Diário)
+195 - t0 (Diário)
+196 - Nada
+197 - Nada
+198 - Nada
+224 - _m (Legenda) ; t0 (Diário)
+225 - t0 (Diário) ; t_mo (Moogle) ; t_sa (fala Saix)
+226 - Nada
+227 - Nada
+228 - Nada
+229 - Nada
+230 - Nada
+255 - _m (Legenda) ; t0 (Diário)
+256 - t0 (Diário)
+257 - t0 (Diário)
+258 - Nada
+259 - Nada
+260 - Nada
+261 - Nada
+262 - Nada 
+276 - _m (3 Legendas)
+277 - t0 (Diário)
+278 - Nada
+279 - Nada
+280 - Nada
+281 - Nada
+282 - Nada
+296 - t0 (Diário) ; t_mo (Moogle) ; t_sa (fala Saix)
+297 - t0 (Diário) ; t_sa (fala Saix)
+298 - _m (Legenda) ; t0 (Diário) t_sa (fala Saix) ; t_ax (fala Axel)
+299 - _m (2 Legendas) ; t0 (Diário)
+300 - t0 (Diário)
+301 - t0 (Diário) 
+302 - Nada
+303 - Nada
+304 - Nada
+305 - Nada
+306 - Nada
+307 - Nada
+321 - _m (Legenda?); t0 (Diário)
+322 - t0 (Diário)
+323 - Nada
+324 - Nada
+325 - Nada
+326 - Nada
+327 - Nada
+328 - Nada
+352 - _m (Legenda?) ; t0 (Diário)
+353 - t0 (Diário)
+354 - _m (Legenda?) ; t0 (Diário)
+355 - t0 (Diário) ; t_ax (Fala Axel)
+356 - _m (2 Legendas)
+357 - Nada
+358 - Nada 
+359 - _m (Legenda)
+360 - Nada
+400 - _m (Legenda)
+401 - _m (Legenda)
+m352 - _m (Legenda)
+s1 - Dia 7
+s2 - Dia 8
+s3 - Dia 9
+... - ...
+sys - Nada?
+lbcmn - Aceitar uma missão.
