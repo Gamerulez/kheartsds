@@ -47,8 +47,8 @@ Rango conseguido: agente. ¡Nuevo personaje modo misión!
 <E6><BA><96><E5><82><99><E3><81><8C><E3><81><A7><E3><81><8D><E6><AC><A1><E7><AC><AC><E3><80><81><E5><87><BA><E7><99><BA><E3><81><97><E3><82><8D>
 !------------------------------!
 SAÏX
-You'll be teamed with Luxord today.
-Depart as soon as you are ready.
+Você fará time com o Luxord hoje.
+Parte assim que estiver pronto.
 !------------------------------!
 SAÏX
 Tu fais équipe avec Luxord aujourd'hui.

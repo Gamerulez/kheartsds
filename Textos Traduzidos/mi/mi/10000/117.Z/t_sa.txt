@@ -76,8 +76,8 @@ Rango conseguido: aprendiz. ¡Nuevo personaje modo misión!
 <E6><96><B0><E3><81><97><E3><81><84><E4><B8><96><E7><95><8C><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><82><82><E3><82><89><E3><81><86>
 !------------------------------!
 SAÏX
-I'm sending you and Xigbar to a new world today to
-conduct recon.
+Hoje irei envía-lo com o Xigbar a 
+um novo mundo para reconhecimento.
 !------------------------------!
 SAÏX
 Aujourd'hui, Xigbar et toi partez en reconnaissance

@@ -67,8 +67,8 @@ Rango conseguido: experto. ¡Nuevo personaje modo misión! Obtenido: límite final.
 <E6><BA><96><E5><82><99><E3><81><8C><E3><81><A7><E3><81><8D><E6><AC><A1><E7><AC><AC><E3><80><81><E5><87><BA><E7><99><BA><E3><81><97><E3><82><8D>
 !------------------------------!
 SAÏX
-I have more work for you.
-Depart as soon as you are ready.
+Tenho mais trabalho para você.
+Parte assim que estiver pronto.
 !------------------------------!
 SAÏX
 Voici ta nouvelle mission. Pars dès que tu seras prêt.
