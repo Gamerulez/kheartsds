@@ -1,0 +1,79 @@
+Compra
+!******************************!
+Vendi
+!******************************!
+Combina
+!******************************!
+Ricompense
+!******************************!
+Esci
+!******************************!
+Seleziona dal menu.
+!******************************!
+Emporio Moguri
+!******************************!
+Compra pannelli usando
+i Punti Cuore.
+!******************************!
+Vendi pannelli in cambio
+di munny.
+!******************************!
+Spendi munny per combinare
+pannelli e crearne altri.
+!******************************!
+Usa Sigilli sfida e Corone missione
+dal Moguri per ottenere ricompense.
+!******************************!
+Chiudi questo menu.
+!******************************!
+Seleziona il pannello che desideri.
+!******************************!
+Quanti te ne servono?
+!******************************!
+㍽ Modifica di 1  ㍼ Modifica di 10
+㍉ Compra
+!******************************!
+Seleziona pannello da vendere.
+!******************************!
+Quanti ne vuoi vendere?
+!******************************!
+㍽ Modifica di 1   ㍼ Modifica di 10
+㍉ Vendi
+!******************************!
+Seleziona pannello da elaborare.
+!******************************!
+Elaborare questo pannello?
+!******************************!
+Sì
+!******************************!
+No
+!******************************!
+Elaborazione riuscita!
+!******************************!
+㍉ Continua
+!******************************!
+Seleziona una ricompensa.
+!******************************!
+Per questi gettoni:
+!******************************!
+munny
+!******************************!
+punti
+!******************************!
+Quant.
+!******************************!
+×
+!******************************!
+―
+!******************************!
+OK
+!******************************!
+Annulla
+!******************************!
+㍉ Compra
+!******************************!
+㍉ Vendi
+!******************************!
+Ti  concesso uno solo 
+di questi pannelli.
+!******************************!

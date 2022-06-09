@@ -1,0 +1,389 @@
+Deine Einstellungen anpassen.
+!******************************!
+Spielereinstellungen
+!******************************!
+Allgemeine Einstellungen
+!******************************!
+???
+!******************************!
+Steuerung
+!******************************!
+Verf.kamera
+!******************************!
+Kamerageschw.
+!******************************!
+Kam. X-Achse
+!******************************!
+Kam. Y-Achse
+!******************************!
+Cursor-Position
+!******************************!
+Befehlsliste
+!******************************!
+Kampfpartnerverhalten
+!******************************!
+Ziel
+!******************************!
+Kampfhilfe
+!******************************!
+Offensiv-Magie
+!******************************!
+Heilung
+!******************************!
+Gegnerstrke
+!******************************!
+Spielerstrke
+!******************************!
+LP-Verlust
+!******************************!
+Freundbeschuss
+!******************************!
+Freunderfassung
+!******************************!
+Rangkronen
+!******************************!
+Handicaps
+!******************************!
+Schatzverlust
+!******************************!
+ZzS-Countdown
+!******************************!
+Leben
+!******************************!
+LP-Schtze
+!******************************!
+K.o.-Schatzverlust
+!******************************!
+Limit-Brecher
+!******************************!
+Typ A
+!******************************!
+Typ B
+!******************************!
+Auto
+!******************************!
+Manuell
+!******************************!
+Schnell
+!******************************!
+Normal
+!******************************!
+Langs.
+!******************************!
+Normal
+!******************************!
+Seitenverk.
+!******************************!
+Normal
+!******************************!
+Seitenverk.
+!******************************!
+Zurück
+!******************************!
+Bleiben
+!******************************!
+㌢ + ㌃
+!******************************!
+Nur ㌢
+!******************************!
+Gleich
+!******************************!
+Getrennt
+!******************************!
+Aus
+!******************************!
+Schaden
+!******************************!
+Erholung
+!******************************!
+Aus
+!******************************!
+Deaktiviert
+!******************************!
+Aktiviert
+!******************************!
+Deaktiviert
+!******************************!
+Aktiviert
+!******************************!
+Normal
+!******************************!
+Hoch
+!******************************!
+Max.
+!******************************!
+Normal
+!******************************!
+Niedrig
+!******************************!
+Min.
+!******************************!
+Immer
+!******************************!
+Boden
+!******************************!
+Aus
+!******************************!
+Hoch
+!******************************!
+Niedrig
+!******************************!
+Aus
+!******************************!
+An
+!******************************!
+Aus
+!******************************!
+An
+!******************************!
+Aus
+!******************************!
+An
+!******************************!
+Aus
+!******************************!
+Immer
+!******************************!
+An
+!******************************!
+Aus
+!******************************!
+30
+!******************************!
+120
+!******************************!
+Null
+!******************************!
+Fünf
+!******************************!
+Drei
+!******************************!
+Eins
+!******************************!
+An
+!******************************!
+Aus
+!******************************!
+Alle
+!******************************!
+Halb
+!******************************!
+Null
+!******************************!
+Sequenz
+!******************************!
+Normal
+!******************************!
+Aus
+!******************************!
+L- / R-Taste einstellen:
+!******************************!
+Kamerasteuerung einstellen:
+!******************************!
+Kamerageschwindigkeit einstellen:
+!******************************!
+Horizontale Kamerasteuerung einstellen:
+!******************************!
+Vertikale Kamerasteuerung einstellen:
+!******************************!
+Befehlsmenü-Cursor einstellen:
+!******************************!
+Befehlsmenüsteuerung einstellen:
+!******************************!
+Bestimme, wen Partner mit Waffen angreifen sollen:
+!******************************!
+Bestimme, wie Partner Magie und Items einsetzen sollen:
+!******************************!
+Offensiv-Magie ein / aus:
+!******************************!
+Heilmittel ein / aus:
+!******************************!
+Angriffswirkung von Gegnern:
+!******************************!
+Angriffswirkung von Spielern:
+!******************************!
+LP-Verlust mit der Zeit ein / aus:
+!******************************!
+Schaden durch Mitspieler ein / aus:
+!******************************!
+Zielerfassung von Mitspielern ein / aus:
+!******************************!
+Kronen zur Anzeige des Führenden ein / aus:
+!******************************!
+Handicaps ein / aus:
+!******************************!
+Hufigkeit für Schatzverlust bei Treffer:
+!******************************!
+Zeitlimit für Rückkehr zum dunklen Tunnel:
+!******************************!
+Anzahl der Chancen einstellen:
+!******************************!
+LP-Schtze ein / aus:
+!******************************!
+Anzahl der bei K. o. fallen gelassenen Schtze einstellen:
+!******************************!
+Regeln für Limit-Brecher
+!******************************!
+㌧: Kamera zurücksetzen / Erfassen / Verf.kamera ein / aus
+㌘: Zu Tastenkombis
+!******************************!
+㌧: Kamera drehen / Erfassen; ㌘ + ㌧: Zu Tastenkombis
+㌘: Kamera drehen / zurücksetzen
+!******************************!
+Die Kamera bleibt hinter dir, wenn du dich bewegst.
+Halte ㌧ gedrückt, um zu Manuell zu wechseln (nur Steuerung A).
+!******************************!
+Die Kamera richtet sich nicht aus, wenn du dich bewegst.
+Halte ㌧ gedrückt, um zu Auto zu wechseln (nur Steuerung A).
+!******************************!
+Die Kamerasteuerung reagiert
+schneller, bei minimalem Aufwand.
+!******************************!
+Die Kamerasteuerung reagiert
+mit Standardgeschwindigkeit.
+!******************************!
+Die Kamerasteuerung reagiert
+langsamer und prziser.
+!******************************!
+Touchpen nach rechts führen / ㌍㌦㌣ & ㌻: Kamera nach rechts
+Touchpen nach links führen / ㌍㌦㌣ & ㍻: Kamera nach links
+!******************************!
+Touchpen nach rechts führen / ㌍㌦㌣ & ㌻: Kamera nach links
+Touchpen nach links führen / ㌍㌦㌣ & ㍻: Kamera nach rechts
+!******************************!
+Touchpen nach oben führen / ㌍㌦㌣ & ㌫: Kamera n. oben
+Touchpen nach unten führen / ㌍㌦㌣ & ㍊: Kamera n. unten
+!******************************!
+Touchpen nach oben führen / ㌍㌦㌣ & ㌫: Kamera n. unten
+Touchpen nach unten führen / ㌍㌦㌣ & ㍊: Kamera n. oben
+!******************************!
+Nach Magie- oder Item-Gebrauch
+springt der Cursor wieder auf „Angriff“.
+!******************************!
+Der Cursor bleibt auch nach Magie-
+oder Item-Gebrauch an seinem Platz.
+!******************************!
+㌢ gedrückt halten und mit ㌃ in der Liste navigieren.
+Ideal für intensive Anwender von Magie und Items.
+!******************************!
+Listennavigation mit ㌃ ist deaktiviert. Du
+kannst immer noch mit ㌢ durch die Befehle blttern.
+!******************************!
+Partner konzentrieren ihre Angriffe
+auf denselben Gegner wie du.
+!******************************!
+Partner lassen dich allein gegen dein Ziel kmpfen
+und konzentrieren ihre Angriffe auf andere Gegner.
+!******************************!
+Partner greifen niemals mit ihren Waffen an.
+!******************************!
+Partner verwenden hauptschlich Offensiv-Magie und greifen
+nur im Notfall auf Heilmagie zurück.
+!******************************!
+Partner verwenden hauptschlich Heilmagie / Items
+und greifen nur in Not auf Offensiv-Magie zurück.
+!******************************!
+Partner greifen niemals mit Magie oder
+Items an, um dich zu unterstützen.
+!******************************!
+Offensiv-Magie ist nicht erlaubt.
+!******************************!
+Du kannst Offensiv-Magie
+normal einsetzen.
+!******************************!
+Wiederherstellung von LP
+und Sprüchen ist nicht erlaubt.
+!******************************!
+LP und Sprüche können auf
+normalem Weg wiederhergestellt werden.
+!******************************!
+Du erleidest durch gegnerische
+Angriffe normalen Schaden.
+!******************************!
+Du erleidest durch gegnerische
+Angriffe größeren Schaden.
+!******************************!
+Du erleidest durch gegnerische
+Angriffe enormen Schaden.
+!******************************!
+Deine Angriffe fügen Gegnern
+normalen Schaden zu.
+!******************************!
+Deine Angriffe fügen Gegnern
+geringeren Schaden zu.
+!******************************!
+Deine Angriffe fügen Gegnern
+kaum Schaden zu.
+!******************************!
+Fortlaufender LP-Verlust
+whrend des Spiels.
+!******************************!
+Fortlaufender LP-Verlust
+auf dem Boden.
+!******************************!
+LP-Verlust nur durch Schaden.
+!******************************!
+Angriffe gegen andere Spieler
+bewirken großen Schaden.
+!******************************!
+Angriffe gegen andere Spieler
+bewirken geringen Schaden.
+!******************************!
+Angriffe gegen andere Spieler
+nicht möglich.
+!******************************!
+Du kannst andere Spieler genau so wie Gegner erfassen.
+!******************************!
+Du kannst andere Spieler nicht erfassen.
+!******************************!
+Kronen werden angezeigt.
+!******************************!
+Es werden keine Kronen angezeigt.
+!******************************!
+Spieler mit niedriger Stufe beginnen die Mission mit
+zustzlichen Missionspunkten.
+!******************************!
+Alle Spieler beginnen gleich, unabhngig von ihrer Stufe.
+!******************************!
+Spieler lassen immer Missionsschtze fallen.
+!******************************!
+Spieler lassen manchmal Missionsschtze fallen.
+!******************************!
+Spieler lassen nie Misisonsschtze fallen,
+wenn sie getroffen werden.
+!******************************!
+Du hast 30 Sekunden,
+nachdem die Mission abgeschlossen ist.
+!******************************!
+Du hast 120 Sekunden,
+nachdem die Mission abgeschlossen ist.
+!******************************!
+Es gibt keinen Countdown.
+Die Mission endet automatisch nach Abschluss.
+!******************************!
+Die Mission scheitert, wenn du fünfmal K. o. gehst.
+!******************************!
+Die Mission scheitert, wenn du dreimal K. o. gehst.
+!******************************!
+Die Mission scheitert, wenn du einmal K. o. gehst.
+!******************************!
+LP-Schtze erscheinen wie gewöhnlich, wenn du Gegner besiegst.
+!******************************!
+Es erscheinen keine LP-Schtze, wenn du Gegner besiegst.
+!******************************!
+Spieler lassen all ihre Missionsschtze fallen.
+!******************************!
+Spieler lassen die Hlfte ihrer Missionsschtze fallen.
+!******************************!
+Spieler lassen keine Missionsschtze fallen,
+wenn sie besiegt werden.
+!******************************!
+Limit-Brecher können aufeinander folgend verwendet werden.
+Der Schwellenwert liegt bei 50 % LP.
+!******************************!
+Limit-Brecher können
+normal verwendet werden.
+!******************************!
+Es können keine Limit-Brecher
+verwendet werden.
+!******************************!

@@ -1,0 +1,73 @@
+Missions
+!******************************!
+Holo-Missions
+!******************************!
+Panels
+!******************************!
+Organizer
+!******************************!
+Config
+!******************************!
+Save
+!******************************!
+Title Screen
+!******************************!
+Select from the menu.
+!******************************!
+Undertake a mission.
+!******************************!
+Customize panel arrangements or
+view your stock.
+!******************************!
+Embark on a Holo-Mission.
+!******************************!
+Change game settings.
+!******************************!
+Read Roxas's diary and enemy
+profiles.
+!******************************!
+Read Roxas's diary.
+!******************************!
+Read enemy profiles.
+!******************************!
+Review tutorials on how to play.
+!******************************!
+Save game progress.
+!******************************!
+Return to the Title Screen.
+Any unsaved progress will be lost.
+!******************************!
+Tackle the missions Saïx originally
+assigned you.
+!******************************!
+Add restrictions to normal missions
+for an extra challenge.
+(Enemies are also more powerful.)
+!******************************!
+Return to the main menu.
+!******************************!
+Exit the game and return to the Title Screen?
+!******************************!
+Press ㌶㍑㍗ to join.
+!******************************!
+Select a mission.
+!******************************!
+Press ㌔ to withdraw.
+!******************************!
+Waiting for other players...
+!******************************!
+Press ㌶㍑㍗ to begin.
+!******************************!
+Host is selecting a mission...
+!******************************!
+Communication error.
+!******************************!
+Buy and sell panels at the Moogle
+Shop.
+!******************************!
+Change characters.
+!******************************!
+Change Mission Mode rules.
+!******************************!
+Stand by for your mission...
+!******************************!

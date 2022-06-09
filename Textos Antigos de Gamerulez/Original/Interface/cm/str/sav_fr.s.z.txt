@@ -1,0 +1,38 @@
+Choisissez un fichier.
+!******************************!
+Les donnes prsentes sur le
+fichier slectionn seront
+crases.
+!******************************!
+Écraser les donnes du fichier %d ?
+!******************************!
+Crer une sauvegarde sur le fichier %d ?
+!******************************!
+%d munnies
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!
+Sauvegarde effectue.
+!******************************!
+:
+!******************************!
+NIV %d
+!******************************!
+Échec de la sauvegarde du fichier.
+Veuillez teindre la console et
+rinsrer la carte DS.
+!******************************!
+Sauvegarde en cours...
+Veuillez ne pas teindre la
+console ni retirer la carte DS.
+!******************************!
+Ce fichier est corrompu.
+!******************************!
+Échec du chargement du fichier.
+Veuillez teindre la console et
+rinsrer la carte DS.
+!******************************!
+Continuer sans sauvegarder ?
+!******************************!

@@ -1,0 +1,573 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/26.z
+!******************************!
+&.[HDR].2&
+mi/ch/1A.z
+!******************************!
+&.[HDR].2&
+mi/ch/28.z
+!******************************!
+&.[HDR].2&
+mi/ch/20.z
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Como estão as coisas?
+!------------------------------!
+Alors, comment vont les choses
+en ville ?
+!------------------------------!
+Wie sieht's aus?
+!------------------------------!
+Allora, com'era la situazione?
+!------------------------------!
+¿Cómo pinta la cosa?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bizarramente tranquilas. Com certeza
+tem menos Heartless por aí que antes.
+!------------------------------!
+Tout est calme, bizarrement. Et il y a
+beaucoup moins de Sans-cœur
+qu'avant.
+!------------------------------!
+Unheimlich ruhig. Es sind auf
+jeden Fall weniger Herzlose
+unterwegs als vorher. 
+!------------------------------!
+Stranamente tranquilla.
+Lì fuori ci sono molti meno
+Heartless di prima.
+!------------------------------!
+Inquietantemente tranquila.
+Sin duda, hay menos sincorazón
+que antes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você diz isso como se fosse algo ruim!
+Finalmente podemos descansar um pouco.
+!------------------------------!
+À t'entendre, on dirait que c'est
+mauvais signe ! Mais on va enfin
+pouvoir souffler, tu sais.
+!------------------------------!
+Das hört sich ja an, als wär's
+was Schlechtes! Endlich können
+wir uns etwas entspannen.
+!------------------------------!
+Beh, è una cosa positiva, no?
+Finalmente possiamo
+rilassarci un po'.
+!------------------------------!
+¡Haces que parezca algo malo!
+Por fin podremos descansar
+un poco.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ou pelo menos focarmos em reconstruir
+algumas coisas da vila.
+!------------------------------!
+Ou du moins concentrer nos efforts
+sur la reconstruction de la ville !
+!------------------------------!
+Oder uns zumindest
+darauf konzentrieren,
+die Stadt wieder aufzubauen!
+!------------------------------!
+O almeno concentrare
+le nostre forze sulla
+ricostruzione!
+!------------------------------!
+O, al menos, centrarnos
+en reconstruirlo todo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu diria que este caso está encerrado!
+!------------------------------!
+Et voilà, l'affaire est dans le sac !
+!------------------------------!
+Damit wäre ein weiterer Fall
+erledigt!
+!------------------------------!
+E con questo... un altro
+caso è chiuso!
+!------------------------------!
+Yo diría que el
+caso ya está cerrado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aaaah!
+!------------------------------!
+Ah !
+!------------------------------!
+Jaaargh!
+!------------------------------!
+Yaaagh!
+!------------------------------!
+¡Aaaah!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, para! Não dou tanto medo.
+!------------------------------!
+Oh ça va ! Je ne fais pas si peur
+quand même !
+!------------------------------!
+Oh, halt. Ich bin nicht
+so Furcht einflößend.
+!------------------------------!
+Oh, smettila. Non sono
+poi così spaventoso.
+!------------------------------!
+Oh, basta. No doy tanto miedo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Está tentando me dar um infarto?
+!------------------------------!
+Tu veux me donner des complexes
+ou quoi ?
+!------------------------------!
+Willst du mir einen Komplex
+einreden?
+!------------------------------!
+Così mi farai venire i complessi!
+!------------------------------!
+¿Intentas acomplejarme?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A culpa não é minha se você
+apareceu do nada!
+!------------------------------!
+Ce n'est pas de ma faute si vous
+surgissez de nulle part à chaque
+fois !
+!------------------------------!
+Es ist nicht mein Fehler, dass
+du einfach aus dem Nichts
+erscheinst!
+!------------------------------!
+Non è colpa mia se sei
+comparso dal nulla!
+!------------------------------!
+¡No es mi culpa que aparezcas
+de la nada!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Diz o cara que desapareceu do nada
+na última vez que nos encontramos!
+!------------------------------!
+C'est pas toi qui as disparu comme
+par enchantement la dernière fois
+qu'on s'est vus ?
+!------------------------------!
+Und das sagt jemand, der sich
+vor einer Weile einfach
+in Luft aufgelöst hat.
+!------------------------------!
+Senti chi parla!
+L'altra volta sei stato tu a
+svanire improvvisamente!
+!------------------------------!
+Mira quién habla, ¡el que se
+esfumó la última vez!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, enfim...
+!------------------------------!
+Enfin bref...
+!------------------------------!
+Na ja, jedenfalls ...
+!------------------------------!
+Beh, comunque...
+!------------------------------!
+Bueno, es igual...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Estou feliz em ver que o Al está bem.
+Agora posso curtir o resto das
+minhas férias livre de preocupações!
+!------------------------------!
+Je suis content de voir qu'Al va bien.
+Je peux retourner en vacances
+l'esprit tranquille !
+!------------------------------!
+Ich bin froh, dass es
+Al gut geht. Jetzt kann ich
+meinen Urlaub fortsetzen!
+!------------------------------!
+Sono contento che Al
+stia bene. Ora posso tornare
+a godermi la mia vacanza!
+!------------------------------!
+Me alegra ver que a Al le va
+bien. Ahora disfrutaré del resto
+de mis vacaciones tranquilo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não vai dar um oi?
+!------------------------------!
+Vous n'allez pas le saluer ?
+!------------------------------!
+Du willst nicht Hallo sagen?
+!------------------------------!
+Non vuoi andare a salutarlo?
+!------------------------------!
+¿No vas a pasar a saludar?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ninguém te disse que três é demais?
+Bem, está na hora de botar essa
+multidão pra correr!
+!------------------------------!
+Je le laisse avec sa dulcinée !
+Allez, je décolle !
+!------------------------------!
+Weißt du nicht, dass drei einer
+zu viel sind? Zeit, dass der
+eine verschwindet!
+!------------------------------!
+Non voglio certo passare per
+il terzo incomodo! Bene, è il
+momento di togliere il disturbo!
+!------------------------------!
+¿No sabes que tres son multitud?
+Pues es hora de que la multitud
+se vaya con viento fresco.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Qual é a história daquele cara afinal?
+Ele dizia que costumava ser um gênio
+de uma lâmpada...
+!------------------------------!
+Mais qui c'est, ce type ?
+Il a dit qu'il était le génie
+d'une lampe, autrefois...
+!------------------------------!
+Was ist mit dem Typen eigentlich
+los? Er meinte, er sei
+ein Lampengeist ...
+!------------------------------!
+Chissà qual è la storia di quel
+tizio! Ha detto che un tempo era
+il Genio di una lampada...
+!------------------------------!
+¿Cuál es su historia, por
+cierto? Decía que había sido
+el genio de una lámpara...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você realmente quer saber?
+!------------------------------!
+Tu veux vraiment le savoir ?
+!------------------------------!
+Willst du das wirklich wissen?
+!------------------------------!
+Vuoi davvero saperlo?
+!------------------------------!
+¿De verdad quieres saberlo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah!
+!------------------------------!
+Ah !
+!------------------------------!
+Argh!
+!------------------------------!
+Agh!
+!------------------------------!
+¡Argh!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É uma longa história, amigo!
+Há muito, muito tempo atrás, quando
+o tempo ainda não era tempo...
+!------------------------------!
+C'est une longue histoire, l'ami !
+Il y a longtemps, très longtemps,
+à l'aube des temps...
+!------------------------------!
+Das ist eine lange Geschichte,
+Amigo. Vor langer, langer Zeit,
+als es noch keine Zeit gab ...
+!------------------------------!
+È una lunga storia, amigo!
+Tanto tempo fa, prima ancora
+dell'alba dei tempi...
+!------------------------------!
+Es una larga historia, friend.
+Érase una vez, antes de que el
+tiempo fuera tiempo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Deixa pra lá, então.
+!------------------------------!
+Euh... en fait, je n'ai pas trop
+le temps, là...
+!------------------------------!
+Schon gut.
+!------------------------------!
+Ah, non importa.
+!------------------------------!
+Bueno, no importa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Poxa...
+!------------------------------!
+Beuh...
+!------------------------------!
+Oh ...
+!------------------------------!
+Oh!
+!------------------------------!
+Ah.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pois bem, então.
+Hora de me despedir pra valer
+desta vez.
+!------------------------------!
+Bon, tant pis. Cette fois, je m'en
+vais pour de bon !
+!------------------------------!
+Na gut.
+Jetzt aber wirklich tschüs!
+!------------------------------!
+Benissimo.
+Questa volta me ne vado
+per davvero!
+!------------------------------!
+Pues muy bien.
+Es hora de despedirse de verdad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

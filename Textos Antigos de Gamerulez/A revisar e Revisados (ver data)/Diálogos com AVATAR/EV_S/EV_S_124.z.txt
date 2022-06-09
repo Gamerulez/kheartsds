@@ -1,0 +1,402 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eita, você tá mesmo aqui em cima.
+!------------------------------!
+On n'a pas fait ça depuis longtemps.
+!------------------------------!
+Wow, du bist wirklich
+hier oben.
+!------------------------------!
+Non lo facevamo da un secolo.
+!------------------------------!
+Vaya, sí que estabas arriba.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem tanto tipo assim, é?
+!------------------------------!
+À ce point-là ?
+!------------------------------!
+Schon 'ne Weile her, hm?
+!------------------------------!
+È passato tanto tempo, eh?
+!------------------------------!
+Hacía mucho, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tive que ir na praia hoje pra minha
+missão
+!------------------------------!
+Je suis allé à la mer aujourd'hui
+pour ma mission.
+!------------------------------!
+Ich muss heute für meine Mission
+zum Strand.
+!------------------------------!
+Oggi sono andato in spiaggia,
+per la mia missione.
+!------------------------------!
+Hoy bajé a la playa
+para mi misión.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tinha uma garota lá que meio que
+parecia a Xion...
+!------------------------------!
+J'ai vu une fille qui ressemblait
+un peu à Xion là-bas...
+!------------------------------!
+Da war dieses Mädchen, das wie
+Xion aussah ...
+!------------------------------!
+Ho visto una ragazza che
+somigliava molto a Xion...
+!------------------------------!
+Había una chica allí que
+se parecía a Xion...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+... mas não deu pra chegar perto
+pra confirmar.
+!------------------------------!
+mais je n'ai pas pu m'approcher
+pour en être sûr.
+!------------------------------!
+... aber ich konnte nicht nah genug
+heran, um sicherzugehen.
+!------------------------------!
+Purtroppo non sono riuscito ad
+avvicinarmi abbastanza.
+!------------------------------!
+pero no pude acercarme lo
+bastante como para asegurarme.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que foi só imaginação.
+!------------------------------!
+J'ai dû me faire des idées.
+!------------------------------!
+Wahrscheinlich hab ich's mir nur
+eingebildet.
+!------------------------------!
+Forse me lo sono immaginato.
+!------------------------------!
+Supongo que fue
+mi imaginación.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pra falar a verdade, sei nem se
+a missão de hoje rolou de verdade.
+!------------------------------!
+Pour être honnête, je ne suis même
+pas sûr que cette journée était réelle.
+!------------------------------!
+Um ehrlich zu sein, bin ich mir noch
+nicht mal sicher, ob die heutige
+Mission wirklich real war.
+!------------------------------!
+A dire il vero, forse questa
+giornata è stata solo un
+sogno a occhi aperti.
+!------------------------------!
+Para serte sincero, ni siquiera
+puedo asegurar que la misión
+de hoy haya pasado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sinto como se tivesse acordado
+de um sonho e tal.
+!------------------------------!
+J'ai eu l'impression de me réveiller
+d'un rêve.
+!------------------------------!
+Ich fühl mich, als wäre ich gerade
+aus einem Traum erwacht.
+!------------------------------!
+Un sogno da cui mi sono
+appena risvegliato.
+!------------------------------!
+Me siento como si acabara
+de despertar de un
+sueño o algo así.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vai parecer maluquice, mas lembra
+que a gente prometeu um pro outro
+que a gente iria juntos pra praia?
+!------------------------------!
+Ça va te paraître fou, mais tu te
+souviens qu'on s'était promis
+d'aller à la plage tous ensemble ?
+!------------------------------!
+Das klingt bestimmt verrückt, aber
+weißt du noch, wie wir einander
+versprochen haben, zum Strand zu gehen?
+!------------------------------!
+So che può sembrare assurdo,
+ma ricordi che avevamo detto
+di andare tutti in spiaggia?
+!------------------------------!
+Sé que te va a parecer una
+locura, pero ¿recuerdas que
+hablamos de ir a la playa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, acho que só acabei vendo ela
+lá porque queria que ela tivesse lá.
+!------------------------------!
+Je crois que je l'ai vue, parce que
+j'aurais voulu qu'elle y soit.
+!------------------------------!
+Ich glaube, ich hab sie nur gesehen,
+weil ich sie sehen wollte.
+!------------------------------!
+Credo di averla vista solo
+perché volevo che Xion fosse lì.
+!------------------------------!
+Creo que la vi porque
+deseaba que estuviera allí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quer procurar por ela?
+!------------------------------!
+Tu veux qu'on aille la chercher ?
+!------------------------------!
+Willst du sie suchen?
+!------------------------------!
+Vuoi andare a cercarla?
+!------------------------------!
+¿Quieres ir a buscarla?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oi?
+Mas Xemnas ordenou..
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was?
+Aber Xemnas' Befehlen ...
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Cómo? Pero las
+órdenes de Xemnas...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Meh, quem liga pra ordens? Começando amanhã,
+bora usar nosso tempo livre logo depois
+do trabalho pra tentar achar a Xion.
+!------------------------------!
+À partir de demain, on pourrait passer
+du temps entre le boulot et ici pour
+chercher Xion.
+!------------------------------!
+Ach, Befehle! Lass uns ab morgen
+die Zeit nach der Arbeit nutzen,
+um nach Xion zu suchen.
+!------------------------------!
+A partire da domani, useremo
+ogni momento libero che
+abbiamo per cercare Xion.
+!------------------------------!
+Ni órdenes ni puñetas. A partir
+de mañana, podemos buscar a
+Xion en nuestro tiempo libre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá bom...
+Beleza, fechou!
+!------------------------------!
+Oui.
+Oui, c'est d'accord !
+!------------------------------!
+Okay ...
+Ja, abgemacht!
+!------------------------------!
+OK...
+Sì, ci sto!
+!------------------------------!
+Vale...
+¡Sí, trato hecho!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

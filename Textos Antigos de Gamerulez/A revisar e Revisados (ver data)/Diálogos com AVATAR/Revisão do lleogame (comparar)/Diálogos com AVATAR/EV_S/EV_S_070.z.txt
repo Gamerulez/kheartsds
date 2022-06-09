@@ -1,0 +1,455 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/16.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O Roxas deve ter ficado
+até mais tarde.
+!------------------------------!
+Roxas doit travailler tard.
+!------------------------------!
+Roxas muss Überstunden machen.
+!------------------------------!
+Roxas lavora fino a tardi.
+!------------------------------!
+Roxas se ha quedado hasta tarde.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espero que o Xigbar não esteja
+dando muito trabalho pra ele.
+!------------------------------!
+J'espère que Xigbar n'est pas trop
+dur avec lui.
+!------------------------------!
+Ich hoffe, Xigbar macht es ihm
+nicht allzu schwer.
+!------------------------------!
+Spero che Xigbar non lo
+stia spremendo troppo.
+!------------------------------!
+Espero que Xigbar no le esté
+metiendo demasiada caña.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É...
+!------------------------------!
+Moi aussi...
+!------------------------------!
+Ja ...
+!------------------------------!
+Già...
+!------------------------------!
+Sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, Axel.
+!------------------------------!
+Dis, Axel.
+!------------------------------!
+Hey, Axel.
+!------------------------------!
+Ehi, Axel.
+!------------------------------!
+Oye, Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm?
+!------------------------------!
+Hmm ?
+!------------------------------!
+Hm?
+!------------------------------!
+Mmm?
+!------------------------------!
+¿Mmm?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lembra que você tinha dito outro
+dia que todos nós temos passados?
+!------------------------------!
+Tu te souviens quand tu as dit que
+nous avions tous un passé l'autre
+jour ?
+!------------------------------!
+Weißt du noch, wie du neulich
+erzählt hast, wir hätten alle
+eine Vergangenheit?
+!------------------------------!
+Ricordi quando l'altro giorno
+dicevi che tutti noi abbiamo
+un passato?
+!------------------------------!
+¿Recuerdas lo que decías sobre
+que todos tenemos un pasado?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quando eu sento aqui com vocês,
+é meio estranho...
+!------------------------------!
+Quand je suis assise avec vous,
+c'est étrange, mais...
+!------------------------------!
+Wenn ich hier mit euch sitze,
+es ist komisch ...
+!------------------------------!
+Quando mi siedo qui con voi...
+non so come spiegarlo...
+!------------------------------!
+Cuando me siento aquí con
+vosotros, siento algo raro...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu sinto como se costumasse assistir
+ao pôr-do-sol com outra pessoa. Quando
+estou na praia também...
+!------------------------------!
+j'ai l'impression d'avoir déjà observé le
+coucher de soleil avec quelqu'un
+d'autre. Pareil quand je suis à la mer...
+!------------------------------!
+Es kommt mir vor, als hätte ich
+schon mal mit jemandem den
+Sonnenuntergang angesehen ...
+!------------------------------!
+Ho la strana sensazione di aver
+già ammirato il tramonto con
+qualcun altro. E al mare...
+!------------------------------!
+Tengo la extraña sensación de
+que solía ver la puesta de sol
+con otra persona.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quando olho para a água e ouço as
+ondas batendo na costa...
+!------------------------------!
+Quand je regarde l'eau et que
+j'entends les vagues s'échouer
+sur le rivage...
+!------------------------------!
+Oder am Meer, wenn ich
+ins Wasser schaue und die Wellen
+ans Ufer schlagen höre ...
+!------------------------------!
+Quando osservo l'acqua e
+ascolto le onde che si
+infrangono sulla spiaggia...
+!------------------------------!
+Y cuando veo el mar, y oigo las
+olas acariciando la orilla...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...é quase como se eu estivesse
+escutando outra voz.
+!------------------------------!
+c'est comme si je pouvais entendre
+une autre voix.
+!------------------------------!
+... dann ist es fast so, als würde
+ich eine Stimme hören.
+!------------------------------!
+Riesco quasi a sentire un'altra
+voce.
+!------------------------------!
+Me parece oír otra voz.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então... quer dizer que você se
+lembrou de alguma coisa?
+!------------------------------!
+Alors tu t'es souvenue de quelque
+chose ?
+!------------------------------!
+Du kannst dich also ...
+an etwas erinnern?
+!------------------------------!
+Quindi... intendi dire che ricordi
+qualcosa?
+!------------------------------!
+¿Quieres decir que
+recuerdas algo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não...
+Não é bem assim.
+!------------------------------!
+Non...
+ce n'est pas vraiment ça.
+!------------------------------!
+Nein ...
+Leider nicht.
+!------------------------------!
+No...
+Non si tratta di questo.
+!------------------------------!
+No...
+No es eso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, eu não sei. Talvez SEJAM
+memórias... É que me parece
+estranho serem minhas.
+!------------------------------!
+Mais on ne sait jamais.
+Ce pourrait être un souvenir
+après tout.
+!------------------------------!
+Tja, ich weiß nicht.
+KÖNNTE eine Erinnerung sein.
+Aber, ob sie von mir ist?
+!------------------------------!
+Beh, non saprei.
+Forse SONO ricordi. Ma sembra
+strano che siano miei.
+!------------------------------!
+Bueno, yo qué sé. Igual
+son recuerdos, pero se me
+hace raro que sean mios.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, não pergunta pra mim.
+!------------------------------!
+Ne me demande pas.
+!------------------------------!
+Hey, frag nicht mich.
+!------------------------------!
+Ehi, non chiederlo a me.
+!------------------------------!
+A mí no me preguntes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas você tem memórias,
+não tem?
+!------------------------------!
+Tu as des souvenirs toi, non ?
+!------------------------------!
+Aber du hast Erinnerungen,
+oder?
+!------------------------------!
+Ma tu hai dei ricordi, vero?
+!------------------------------!
+Pero tendrás recuerdos,
+¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim. Mas não é como se já tivessem
+me feito algum bem.
+!------------------------------!
+Oui, mais ils ne me rendent pas
+vraiment service.
+!------------------------------!
+Ja. Aber bisher waren sie
+für mich nur von Nachteil.
+!------------------------------!
+Sì, ma non mi sono mai
+serviti a molto.
+!------------------------------!
+Sí, pero tampoco es que me
+sirvan de mucho.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que sou mais como o
+Roxas. Nenhum de nós se
+lembra de muita coisa.
+!------------------------------!
+Je dois être plus comme Roxas.
+Aucun de nous ne se souvient
+de grand-chose.
+!------------------------------!
+Ich glaube, ich bin mehr
+wie Roxas. Wir können uns beide
+nur an wenig erinnern.
+!------------------------------!
+Forse io somiglio più a Roxas.
+Io e lui non ricordiamo quasi
+nulla.
+!------------------------------!
+Creo que soy como Roxas.
+No nos acordamos de casi nada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Será que tínhamos tanto em comum
+antes de virarmos Incorpóreos?
+!------------------------------!
+Je me demande si nous avions des
+choses en commun avant de devenir
+des Simili.
+!------------------------------!
+Ob wir das wohl auch gemeinsam
+hatten, bevor wir Niemande
+wurden?
+!------------------------------!
+Chissà se avevamo così tanto
+in comune anche prima di
+diventare dei Nessuno.
+!------------------------------!
+Me pregunto si ya teníamos tanto
+en común antes de convertirnos
+en incorpóreos.
+!------------------------------!
+!******************************!

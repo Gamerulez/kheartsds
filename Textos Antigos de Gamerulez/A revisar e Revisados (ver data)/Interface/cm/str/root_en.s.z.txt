@@ -1,0 +1,73 @@
+Missões
+!******************************!
+Holo-Missões
+!******************************!
+Paineis
+!******************************!
+Organizador
+!******************************!
+Config
+!******************************!
+Salvar
+!******************************!
+Tela de Título
+!******************************!
+Escolha do menu.
+!******************************!
+Encarregue-se de uma missão.
+!******************************!
+Personalize arranjos de paineis
+ou veja seu estoque.
+!******************************!
+Embarque em uma Holo-Missão.
+!******************************!
+Mude as configurações do jogo.
+!******************************!
+Leia o diário do Roxas e
+o perfil dos inimigo.
+!******************************!
+Leia o diário do Roxas.
+!******************************!
+Leia o perfil dos inimigos.
+!******************************!
+Reveja os tutoriais.
+!******************************!
+Salve o progresso do jogo.
+!******************************!
+Volte à Tela de Título.
+Progressos não salvos serão perdidos.
+!******************************!
+Enfrente as missões que o Saix
+originalmente designou a você.
+!******************************!
+Ponha restrições a missões normais
+para um desafio maior.
+(Inimigos são mais fortes também.)
+!******************************!
+Volte ao menu principal.
+!******************************!
+Sair do jogo e voltar à Tela de Título?
+!******************************!
+Aperte ㌶㍑㍗ para se juntar.
+!******************************!
+Escolha uma missão.
+!******************************!
+Aperte ㌔ para desistir.
+!******************************!
+Esperando outros jogadores...
+!******************************!
+Aperte ㌶㍑㍗ para começar.
+!******************************!
+O dono está escolhendo a missão...
+!******************************!
+Erro de comunicação.
+!******************************!
+Compre e venda paineis na
+Loja do Moogle.
+!******************************!
+Troque de personagem.
+!******************************!
+Mude as regras do Modo Missão.
+!******************************!
+Aguarde pela sua missão...
+!******************************!

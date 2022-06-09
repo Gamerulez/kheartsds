@@ -1,0 +1,56 @@
+Choisissez un fichier  charger.
+!******************************!
+㍉ Charger le fichier  ㌔ Annuler
+!******************************!
+㌢ Supprimer le fichier
+!******************************!
+Charger le fichier %d ?
+!******************************!
+Supprimer le fichier %d ?
+!******************************!
+Tout fichier supprim l'est dfinitivement.
+!******************************!
+%d munnies
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!
+Suppression en cours...
+Veuillez ne pas teindre la
+console ni retirer la carte DS.
+!******************************!
+Le fichier %d a t supprim.
+!******************************!
+:
+!******************************!
+NIV %d
+!******************************!
+Le fichier est corrompu.
+!******************************!
+Le fichier %d est corrompu et n'est pas
+utilisable. Voulez-vous le supprimer ?
+!******************************!
+Échec du chargement du fichier.
+Veuillez teindre la console et
+rinsrer la carte DS.
+!******************************!
+Lancer la communication sans fil DS ?
+!******************************!
+Commencer  jouer en tant qu'invit ?
+!******************************!
+Vous ne pouvez pas sauvegarder en tant qu'invit.
+!******************************!
+Impossible d'inscrire les donnes.
+!******************************!
+Impossible de lire les donnes.
+!******************************!
+Veuillez teindre la console et
+rinsrer la carte DS.
+!******************************!
+En êtes-vous sûr ?
+!******************************!
+Initialisation en cours...
+Veuillez ne pas teindre la
+console ni retirer la carte DS.
+!******************************!

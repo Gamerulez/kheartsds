@@ -1,0 +1,387 @@
+Configura tus ajustes.
+!******************************!
+Ajustes del jugador
+!******************************!
+Ajustes universales
+!******************************!
+¿?
+!******************************!
+Controles
+!******************************!
+Cmara seguim.
+!******************************!
+Velocidad cmara
+!******************************!
+Eje X cmara
+!******************************!
+Eje Y cmara
+!******************************!
+Posición cursor
+!******************************!
+Comandos
+!******************************!
+Acción de amigos
+!******************************!
+Blanco
+!******************************!
+Magia/objet.
+!******************************!
+Magia ataque
+!******************************!
+Curación
+!******************************!
+Fuerza de enemigo
+!******************************!
+Daño infligido
+!******************************!
+Prdida de VT
+!******************************!
+Fuego amigo
+!******************************!
+Objetivos amigos
+!******************************!
+Ver coronas
+!******************************!
+Ventaja
+!******************************!
+Premios daño
+!******************************!
+Tiempo VAC
+!******************************!
+Vidas
+!******************************!
+Premios de VT
+!******************************!
+Premios KO
+!******************************!
+Límites
+!******************************!
+Tipo A
+!******************************!
+Tipo B
+!******************************!
+Automtica
+!******************************!
+Manual
+!******************************!
+Rpida
+!******************************!
+Normal
+!******************************!
+Lenta
+!******************************!
+Normal
+!******************************!
+Invertido
+!******************************!
+Normal
+!******************************!
+Invertido
+!******************************!
+Volver
+!******************************!
+Igual
+!******************************!
+㌢ + ㌃
+!******************************!
+Sólo ㌢
+!******************************!
+Mismo
+!******************************!
+Distinto
+!******************************!
+No
+!******************************!
+Daño
+!******************************!
+Recuperación
+!******************************!
+Sin ayuda
+!******************************!
+Desactivada
+!******************************!
+Activada
+!******************************!
+Desactivada
+!******************************!
+Activada
+!******************************!
+Normal
+!******************************!
+Alta
+!******************************!
+Mxima
+!******************************!
+Normal
+!******************************!
+Baja
+!******************************!
+Mínima
+!******************************!
+Siempre
+!******************************!
+Suelo
+!******************************!
+No
+!******************************!
+Alto
+!******************************!
+Bajo
+!******************************!
+No
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Siempre
+!******************************!
+A veces
+!******************************!
+No
+!******************************!
+30
+!******************************!
+120
+!******************************!
+Ninguno
+!******************************!
+5
+!******************************!
+3
+!******************************!
+1
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Todos
+!******************************!
+Mitad
+!******************************!
+Ninguno
+!******************************!
+Secuencia
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Ajusta la función de los botones L y R.
+!******************************!
+Ajusta el comportamiento de cmara: 
+!******************************!
+Ajusta vel. de seguimiento:
+!******************************!
+Ajusta controles horizontales de cmara:
+!******************************!
+Ajusta controles verticales de cmara:
+!******************************!
+Ajuste del cursor en el menú Comandos:
+!******************************!
+Ajusta los controles del menú Comandos:
+!******************************!
+Elige el blanco de las armas amigas:
+!******************************!
+Cómo usarn magia y objetos los amigos:
+!******************************!
+Permite o no la magia de ataque:
+!******************************!
+Permite o no cualquier medio de curación:
+!******************************!
+Ajusta cunto daño recibes:
+!******************************!
+Ajusta cunto daño hacen tus ataques:
+!******************************!
+Elige si perder o no VT con el tiempo:
+!******************************!
+Daño entre personajes:
+!******************************!
+Apuntar a jugadores:
+!******************************!
+Mostrar/ocultar coronas de clasificación:
+!******************************!
+Se permite o no dar ventaja:
+!******************************!
+Elige si los jugadores sueltan premios o no:
+!******************************!
+Tiempo límite para volver al castillo:
+!******************************!
+Ajusta cuntas oportunidades tienes:
+!******************************!
+Activar/desactivar los premios de VT:
+!******************************!
+Elige cuntos premios soltarn los jugadores:
+!******************************!
+Ajusta reglas para usar los límites:
+!******************************!
+㌧: reinic. cm./fijar objetivo/alternar cm.
+㌘: acceder a atajos
+!******************************!
+㌧: girar cm./fijar objetivo     ㌘ + ㌧:
+㌘: girar o reiniciar cm.         Atajos
+!******************************!
+La cmara te seguir si te mueves.
+㌧: Modo manual (control tipo A)
+!******************************!
+La cmara no te seguir si te mueves.
+㌧: Modo automtico (control tipo A)
+!******************************!
+Los controles de cmara respondern ms
+rpido y con un esfuerzo mínimo.
+!******************************!
+Los controles de cmara respondern a
+la velocidad predeterminada.
+!******************************!
+Los controles de cmara respondern ms
+lenta y precisamente.
+!******************************!
+Deslizar derecha /㌍㌦㌣ y ㌻: Vista a der.
+Deslizar izquierda /㌍㌦㌣ y ㍻: Vista a izq.
+!******************************!
+Deslizar derecha /㌍㌦㌣ y ㌻: Vista a izq.
+Deslizar izquierda /㌍㌦㌣ y ㍻: Vista a der.
+!******************************!
+Deslizar arriba /㌍㌦㌣ y ㌫: Vista arriba
+Deslizar abajo /㌍㌦㌣ y ㍊: Vista abajo
+!******************************!
+Deslizar arriba /㌍㌦㌣ y ㌫: Vista abajo
+Deslizar abajo /㌍㌦㌣ y ㍊: Vista arriba
+!******************************!
+El cursor pasar a "Atacar" tras usar
+magia o un objeto.
+!******************************!
+El cursor se quedar en su sitio tras usar
+magia o un objeto.
+!******************************!
+Mantn ㌢ y usa ㌃ para navegar por
+la lista si tienes mucha magia u objetos.
+!******************************!
+Desactiva la navegación por listas con ㌃.
+Los comandos se siguen pasando con ㌢.
+!******************************!
+Los amigos centran sus ataques
+en el mismo enemigo que tú.
+!******************************!
+Los amigos te dejan con tu objetivo
+y centran sus ataques en otros enemigos.
+!******************************!
+Los amigos nunca atacan con armas.
+!******************************!
+Los amigos se centran en la magia de ataque
+y solo usan la de recuperación por necesidad.
+!******************************!
+Se centran en objetos/magia de recupera-
+ción y solo usan la de ataque por necesidad.
+!******************************!
+Los amigos nunca usan magia
+u objetos para ayudarte.
+!******************************!
+No se permite usar magia de ataque.
+!******************************!
+La magia de ataque funciona normalmente.
+!******************************!
+No se permite reponer VT ni conjuros lanzados.
+!******************************!
+La VT y conjuros se reponen normalmente.
+!******************************!
+Los ataques enemigos hacen el daño normal.
+!******************************!
+Los ataques enemigos hacen ms daño.
+!******************************!
+Los ataques enemigos hacen un daño brutal.
+!******************************!
+Los jugadores harn el daño normal
+al enemigo.
+!******************************!
+Los jugadores harn menos daño
+al enemigo.
+!******************************!
+Los jugadores apenas harn daño
+al enemigo.
+!******************************!
+Tu VT se irn consumiendo
+a medida que juegues.
+!******************************!
+Tu VT se irn consumiendo mientras pises
+el suelo.
+!******************************!
+Tu VT no se consumirn a menos
+que recibas daño.
+!******************************!
+Atacar a otros jugadores har una gran
+cantidad de daño.
+!******************************!
+Atacar a otros jugadores har una pequeña
+cantidad de daño.
+!******************************!
+Los ataques contra otros jugadores
+no tendrn efecto.
+!******************************!
+Puedes fijar el objetivo tanto en
+jugadores como en enemigos.
+!******************************!
+No puedes fijar el objetivo en otros jugadores.
+!******************************!
+Se mostrarn coronas.
+!******************************!
+No se mostrarn coronas durante el juego.
+!******************************!
+Los jugadores de poco nivel empezarn la
+misión con ms puntos de misión.
+!******************************!
+Todos los jugadores empiezan igual,
+con independencia de su nivel.
+!******************************!
+Los jugadores siempre dejan premios de misión.
+!******************************!
+Los jugadores dejan premios de misión a veces.
+!******************************!
+Los jugadores nunca dejan premios de misión.
+!******************************!
+Tendrs 30 segundos tras completar
+la misión.
+!******************************!
+Tendrs 120 segundos tras completar
+la misión.
+!******************************!
+No habr cuenta atrs
+La misión termina cuando todos VAC.
+!******************************!
+Fallars la misión si te derrotan cinco veces.
+!******************************!
+Fallars la misión si te derrotan tres veces.
+!******************************!
+Fallars la misión si te derrotan una sola vez.
+!******************************!
+Los premios de VT aparecern como es normal
+cuando derrotes a los enemigos.
+!******************************!
+No aparecern premios de VT cuando derrotes
+a los enemigos.
+!******************************!
+Los jugadores dejarn todos
+sus premios de misión.
+!******************************!
+Los jugadores dejarn la mitad
+de sus premios de misión.
+!******************************!
+Los jugadores no dejarn premios
+de misión al ser derrotados.
+!******************************!
+Pueden usarse límites sucesivamente.
+El límite de uso est en el 50% de la VT.
+!******************************!
+Pueden usarse límites normalmente.
+!******************************!
+No pueden usarse límites.
+!******************************!

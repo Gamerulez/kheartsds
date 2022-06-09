@@ -1,0 +1,8 @@
+Error de conexión.
+Pulsa ㍉ para volver a
+la pantalla principal.
+!******************************!
+No se ha podido realizar
+la conexión inalmbrica.
+㍉ Ir la pantalla principal.
+!******************************!

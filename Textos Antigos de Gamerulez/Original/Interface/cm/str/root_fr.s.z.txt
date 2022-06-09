@@ -1,0 +1,75 @@
+Missions
+!******************************!
+Holo-missions
+!******************************!
+Panneaux
+!******************************!
+Fichiers
+!******************************!
+Configuration
+!******************************!
+Sauvegarder
+!******************************!
+Écran-titre
+!******************************!
+Choisissez une option.
+!******************************!
+Participer  une mission.
+!******************************!
+Placer des panneaux ou
+consulter votre stock.
+!******************************!
+Participer  une holo-mission.
+!******************************!
+Modifier les paramtres du jeu.
+!******************************!
+Lire le journal de Roxas et
+consulter les profils ennemis.
+!******************************!
+Lire le journal de Roxas.
+!******************************!
+Consulter les profils ennemis.
+!******************************!
+Revoir les didacticiels du jeu.
+!******************************!
+Sauvegarder votre progression.
+!******************************!
+Retourner  l'cran-titre. Toutes
+les donnes non sauvegardes
+seront perdues.
+!******************************!
+Rejouer les missions qui vous
+ont t confies par Saïx.
+!******************************!
+Ajouter des restrictions aux missions
+normales pour corser la difficult (les
+ennemis sont aussi plus puissants).
+!******************************!
+Retourner au menu principal.
+!******************************!
+Quitter la partie et revenir  l'cran-titre ?
+!******************************!
+Appuyez sur ㌶㍑㍗ pour rejoindre.
+!******************************!
+Choisissez une mission.
+!******************************!
+Appuyez sur ㌔ pour quitter.
+!******************************!
+En attente des autres joueurs...
+!******************************!
+Appuyez sur ㌶㍑㍗ pour commencer.
+!******************************!
+L'hôte choisit une mission...
+!******************************!
+Erreur de communication.
+!******************************!
+Acheter et vendre des panneaux
+dans le magasin du mog.
+!******************************!
+Changer de personnage.
+!******************************!
+Modifier les rgles du
+mode Missions.
+!******************************!
+Attendez le dbut de votre mission...
+!******************************!

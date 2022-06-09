@@ -1,0 +1,123 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:52
+!******************************!
+&.[HDR].2&
+2:53
+!******************************!
+&.[HDR].2&
+2:54
+!******************************!
+&.[HDR].2&
+2:56
+!******************************!
+&.[HDR].2&
+2:57
+!******************************!
+&.[HDR].2&
+2:58
+!******************************!
+&.[HDR].2&
+2:59
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então este é o castelo...
+!------------------------------!
+C'est le château...
+!------------------------------!
+Das ist das Schloss ...
+!------------------------------!
+Eccomi al castello...
+!------------------------------!
+Este es el castillo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que foi esse rugido?
+!------------------------------!
+C'était quoi ce rugissement ?
+!------------------------------!
+Was war das für ein Brüllen?
+!------------------------------!
+Cos'era quel ruggito?
+!------------------------------!
+¿Qué ha sido ese rugido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Veio de dentro do castelo...
+Talvez seja o Sem-Coração que
+eu estou procurando?
+!------------------------------!
+Ça venait de l'intérieur...
+C'est peut-être le Sans-cœur
+que je cherche ?
+!------------------------------!
+Das kam von drinnen ...
+Vielleicht der Herzlose, hinter
+dem ich her bin?
+!------------------------------!
+Proveniva dall'interno.
+Che sia l'Heartless che cerco?
+!------------------------------!
+Ha venido del interior...
+¿Será el sincorazón que busco?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho melhor eu descobrir logo.
+Hora de entrar no castelo e dar
+uma olhada.
+!------------------------------!
+Je le saurai bien assez tôt.
+C'est le moment d'aller voir.
+!------------------------------!
+Ich werd's schon herausfinden.
+Zeit reinzugehen und sich mal
+umzusehen.
+!------------------------------!
+Mi toccherà scoprirlo.
+Entriamo a dare un'occhiata.
+!------------------------------!
+Supongo que ya lo averiguaré.
+Es hora de entrar y echar un
+vistazo.
+!------------------------------!
+!******************************!

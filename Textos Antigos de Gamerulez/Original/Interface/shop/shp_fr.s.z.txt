@@ -1,0 +1,77 @@
+Acheter
+!******************************!
+Vendre
+!******************************!
+Synthtiser
+!******************************!
+Échanger
+!******************************!
+Quitter
+!******************************!
+Choisissez une option.
+!******************************!
+Magasin du mog
+!******************************!
+Acheter des panneaux avec vos points de cœur.
+!******************************!
+Vendre des panneaux pour obtenir des munnies
+en change.
+!******************************!
+Synthtiser des panneaux pour en obtenir de
+nouveaux. Service payant (munnies requis).
+!******************************!
+Obtenir des cadeaux grce aux couronnes de
+mission et aux sceaux d'preuve remports.
+!******************************!
+Quitter le magasin.
+!******************************!
+Choisissez un panneau.
+!******************************!
+Combien en voulez-vous ?
+!******************************!
+㍽ Ajuster par units   ㍼ Ajuster par dizaines
+㍉ Acheter
+!******************************!
+Choisissez un panneau  vendre.
+!******************************!
+Combien en vendez-vous ?
+!******************************!
+㍽ Ajuster par units   ㍼ Ajuster par dizaines
+㍉ Vendre
+!******************************!
+Choisissez un panneau  synthtiser.
+!******************************!
+Synthtiser ce panneau ?
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!
+Synthse de panneau russie !
+!******************************!
+㍉ Continuer
+!******************************!
+Choisissez un cadeau.
+!******************************!
+Pour ces jetons :
+!******************************!
+mun.
+!******************************!
+pts
+!******************************!
+Quant.
+!******************************!
+×
+!******************************!
+―
+!******************************!
+OK
+!******************************!
+Annuler
+!******************************!
+㍉ Acheter
+!******************************!
+㍉ Vendre
+!******************************!
+Un seul de ces panneaux autoris.
+!******************************!

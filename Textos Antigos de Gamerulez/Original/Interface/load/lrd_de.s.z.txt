@@ -1,0 +1,54 @@
+Zu ladende Daten auswhlen.
+!******************************!
+㍉ Laden  ㌔ Abbrechen
+!******************************!
+㌢ Daten löschen
+!******************************!
+Daten aus Feld %d laden?
+!******************************!
+Daten aus Feld %d löschen?
+!******************************!
+Gelöschte Daten sind nicht wiederherstellbar.
+!******************************!
+%d Taler
+!******************************!
+Ja
+!******************************!
+Nein
+!******************************!
+Daten werden gelöscht ...
+Das System nicht ausschalten
+und die DS-Karte nicht entfernen.
+!******************************!
+Daten aus Feld %d wurden gelöscht.
+!******************************!
+:
+!******************************!
+ST %d
+!******************************!
+Diese Daten sind fehlerhaft.
+!******************************!
+Die Daten aus Feld %d sind fehlerhaft und können
+nicht verwendet werden. Daten löschen?
+!******************************!
+Die Daten konnten nicht fehlerfrei geladen werden.
+Schalte das System aus und stecke die DS-Karte erneut ein.
+!******************************!
+Drahtlose DS-Datenübertragung starten?
+!******************************!
+Als Gast spielen?
+!******************************!
+Als Gast kann man nicht speichern.
+!******************************!
+Daten konnten nicht geschrieben werden.
+!******************************!
+Daten konnten nicht gelesen werden.
+!******************************!
+System ausschalten und DS-Karte neu einstecken.
+!******************************!
+Sicher?
+!******************************!
+Initialisiert ...
+Das System nicht ausschalten
+und die DS-Karte nicht entfernen.
+!******************************!

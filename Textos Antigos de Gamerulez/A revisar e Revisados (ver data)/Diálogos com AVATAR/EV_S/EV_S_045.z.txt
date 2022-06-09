@@ -1,0 +1,663 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Olha, lá vem o grande
+trabalhador.
+!------------------------------!
+Tiens, voilà la bête de somme.
+!------------------------------!
+Hey, da kommt
+unser Schwerstarbeiter.
+!------------------------------!
+Ehi, ecco il nostro stacanovista.
+!------------------------------!
+Ey, aquí viene la
+laboriosa abejita.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A Xion tá por aí?
+!------------------------------!
+Xion n'est pas là ?
+!------------------------------!
+Ist Xion hier?
+!------------------------------!
+Hai visto Xion?
+!------------------------------!
+¿Está Xion por aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não a vi.
+!------------------------------!
+Je ne l'ai pas vue.
+!------------------------------!
+Hab sie nicht gesehen.
+!------------------------------!
+No.
+!------------------------------!
+No la he visto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah...
+!------------------------------!
+Ah...
+!------------------------------!
+Oh ...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Alguém tem que falar com aquela
+garota.
+!------------------------------!
+Il faudrait que quelqu'un parle
+à cette fille.
+!------------------------------!
+Jemand muss mit dem Mädchen
+reden.
+!------------------------------!
+Qualcuno deve parlare
+con quella ragazza.
+!------------------------------!
+Alguien tiene que
+hablar con esa chica.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É ela que escolhe se vem com a
+gente ou não.
+!------------------------------!
+C'est à elle de décider si elle veut
+nous rejoindre ou pas.
+!------------------------------!
+Es ist ihre Entscheidung, ob sie
+sich uns anschließen will
+oder nicht.
+!------------------------------!
+Solo lei può decidere se
+unirsi a noi oppure no.
+!------------------------------!
+Es ella quien decide si viene
+con nosotros o no.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que é justo.
+!------------------------------!
+C'est vrai.
+!------------------------------!
+Hört sich fair an.
+!------------------------------!
+Immagino di sì.
+!------------------------------!
+Supongo que es lo justo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, tenho que te perguntar
+uma coisa.
+!------------------------------!
+Axel, j'ai une question pour toi.
+!------------------------------!
+Axel, ich muss dich etwas fragen.
+!------------------------------!
+Vorrei chiederti una cosa, Axel.
+!------------------------------!
+Axel, tengo que
+preguntarte algo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Diga lá.
+!------------------------------!
+Laquelle ?
+!------------------------------!
+Was ist los?
+!------------------------------!
+Spara.
+!------------------------------!
+¿De qué se trata?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aconteceu alguma coisa?
+!------------------------------!
+T'as un problème ?
+!------------------------------!
+Ist etwas passiert?
+!------------------------------!
+È successo qualcosa?
+!------------------------------!
+¿Ha ocurrido algo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não, é só que...
+Você vai achar bobagem.
+!------------------------------!
+Non, c'est juste que euh...
+Tu vas trouver ça bête.
+!------------------------------!
+Nee, aber ...
+Das hört sich jetzt blöd an.
+!------------------------------!
+Nah, è solo...
+Ecco, forse è una
+domanda stupida, ma...
+!------------------------------!
+No, solo es que...
+Te va a parecer estúpido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você sabe o que é o amor?
+!------------------------------!
+Sais-tu ce qu'est l'amour ?
+!------------------------------!
+Weißt du, was Liebe ist?
+!------------------------------!
+Tu sai cos'è l'amore?
+!------------------------------!
+¿Sabes qué es el amor?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Como é que é?
+!------------------------------!
+De quoi ?
+!------------------------------!
+Wie bitte?
+!------------------------------!
+Che?
+!------------------------------!
+¿Perdón?...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu descobri sobre o amor na missão
+de hoje<E2><80><95>que é algo poderoso.
+!------------------------------!
+On m'a parlé de l'amour aujourd'hui
+pendant ma mission. Il paraît que
+c'est quelque chose de puissant.
+!------------------------------!
+Ich habe bei der heutigen
+Mission etwas über die Liebe
+gelernt ... dass sie Macht hat.
+!------------------------------!
+Ho scoperto la sua esistenza
+durante la missione di oggi.
+È un sentimento molto potente.
+!------------------------------!
+En la misión de hoy he descu-
+bierto algo sobre el amor:
+que es poderoso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É verdade. É sim.
+Mas eu nunca cheguei a sentir.
+!------------------------------!
+C'est vrai.
+Mais je ne le connaîtrai jamais.
+!------------------------------!
+Das stimmt. Hat sie.
+Aber ich werde so etwas
+nie erleben.
+!------------------------------!
+È vero, ma io non avrò mai
+occasione di sperimentarlo.
+!------------------------------!
+Sí, es cierto.
+Pero yo nunca
+conseguiré sentirlo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Incorpóreos não podem amar?
+!------------------------------!
+Les Simili ne peuvent pas aimer ?
+!------------------------------!
+Können Niemande nicht lieben?
+!------------------------------!
+I Nessuno non possono amare?
+!------------------------------!
+¿Los incorpóreos no
+pueden amar?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É preciso um coração para
+isso, meu garoto.
+!------------------------------!
+Pour ça, il faut avoir un cœur, mec.
+!------------------------------!
+Dazu braucht man ein Herz, Mann.
+!------------------------------!
+Serve un cuore, amico.
+!------------------------------!
+Necesitas un corazón
+para eso, hombre.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Verdade...
+!------------------------------!
+Je vois...
+!------------------------------!
+Stimmt ...
+!------------------------------!
+Giusto...
+!------------------------------!
+Es verdad...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Amor é o que acontece se houver
+algo muito especial entre duas
+pessoas.
+!------------------------------!
+L'amour, c'est quand il se passe
+quelque chose de très fort entre
+deux êtres.
+!------------------------------!
+Liebe ist eine ganz besondere
+Art der Verbindung zwischen
+zwei Leuten.
+!------------------------------!
+L'amore è il sentimento che
+nasce tra due persone con
+un legame molto speciale.
+!------------------------------!
+El amor es lo que sucede si hay
+algo realmente especial entre
+dos personas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quer dizer, tipo, como se fossem
+melhores amigos?
+!------------------------------!
+Comme quand on est amis ?
+!------------------------------!
+Meinst du so was wie
+beste Freunde sein?
+!------------------------------!
+Come tra due migliori
+amici, per esempio?
+!------------------------------!
+¿Te refieres a como si
+fueran los mejores amigos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, é, você poderia se importar com
+os seus amigos, mas não é disso que
+eu tô falando.
+!------------------------------!
+Euh, c'est vrai qu'on tient beaucoup
+à ses amis, mais je crois que c'est
+encore quelque chose de différent.
+!------------------------------!
+Freunde können einem am Herzen
+liegen, ja. Aber das meine ich
+nicht.
+!------------------------------!
+Beh, anche l'amicizia è un
+legame molto forte, ma
+l'amore è una cosa diversa.
+!------------------------------!
+Bueno, puedes cuidar de tus
+amigos, supongo, pero no es
+eso a lo que me refiero.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então... amor é como um degrau
+acima da amizade?
+!------------------------------!
+Alors... l'amour serait un cran
+au-dessus de l'amitié ?
+!------------------------------!
+Dann ... liegt Liebe noch
+eine Stufe über beste Freunde
+sein?
+!------------------------------!
+Allora... l'amore è a un livello
+superiore rispetto all'amicizia?
+!------------------------------!
+¿Así que... el amor está un
+peldaño por encima de ser
+amigos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim... Bom, não.
+Não são <E2><80><9C>degraus.<E2><80><9D>
+!------------------------------!
+Oui... enfin, non.
+Il n'y a pas de <E2><80><9C>cran<E2><80><9D>.
+!------------------------------!
+Ja ... Also, nein.
+Es gibt keine <E2><80><9E>Stufen<E2><80><9C>.
+!------------------------------!
+Sì... Anzi, no.
+Non esistono dei "livelli".
+!------------------------------!
+Sí... Bueno, no.
+No hay "peldaños".
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não entendo.
+!------------------------------!
+Je ne comprends pas.
+!------------------------------!
+Ich kapier's nicht.
+!------------------------------!
+Non capisco.
+!------------------------------!
+No lo comprendo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Do que importa?
+Nunca vamos saber a diferença.
+!------------------------------!
+Qu'est-ce que ça peut faire ?
+On ne saura jamais quelle est
+la différence de toute façon.
+!------------------------------!
+Ist doch auch egal.
+Wir werden den Unterschied
+nie verstehen.
+!------------------------------!
+Che importanza ha?
+Tanto non sono cose per noi.
+!------------------------------!
+¿Qué importa?
+Nunca sabremos la diferencia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Se eu tivesse um coração, você acha
+que eu poderia amar alguém?
+!------------------------------!
+Si j'avais un cœur, tu crois que
+je pourrais aimer quelqu'un ?
+!------------------------------!
+Wenn ich ein Herz hätte, glaubst
+du, dann könnte ich jemanden
+lieben?
+!------------------------------!
+Se avessi un cuore, credi
+che potrei amare qualcuno?
+!------------------------------!
+Si yo tuviera un corazón, ¿crees
+que podría amar a alguien?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quando Kingdom Hearts estiver
+completo, você vai poder fazer
+todo tipo de coisa.
+!------------------------------!
+Une fois que Kingdom Hearts sera
+complété, tu pourras faire plein
+de choses, tu verras.
+!------------------------------!
+Wenn Kingdom Hearts vollständig
+ist, dann wirst du alles
+Mögliche tun können.
+!------------------------------!
+Quando i Kingdom Hearts saranno
+completi, potrai fare tutto
+ciò che vuoi.
+!------------------------------!
+Cuando Kingdom Hearts esté
+completo, podrás hacer toda
+clase de cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que bom.
+!------------------------------!
+Tant mieux.
+!------------------------------!
+Das ist schön.
+!------------------------------!
+Bene.
+!------------------------------!
+Qué bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!

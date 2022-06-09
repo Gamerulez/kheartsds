@@ -1,0 +1,30 @@
+Selecciona una dificultad.
+!******************************!
+Revisa tu elección.
+!******************************!
+Principiante
+!******************************!
+Normal
+!******************************!
+Experto
+!******************************!
+Un modo fcil que superars rpido.
+Si la acción no es lo tuyo, elige esto.
+!******************************!
+El ajuste de dificultad normal.
+Elígelo si quieres el equilibrio justo.
+!******************************!
+Un nivel difícil con enemigos poderosos.
+¿Eres un experto? Vamos a verlo.
+!******************************!
+Luego no podrs cambiar el modo.
+¡Elige con cuidado!
+!******************************!
+Dificultad
+!******************************!
+¿Una partida nueva con esta dificultad?
+!******************************!
+Sí
+!******************************!
+No
+!******************************!

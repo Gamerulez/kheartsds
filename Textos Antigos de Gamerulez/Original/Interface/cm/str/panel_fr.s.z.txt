@@ -1,0 +1,95 @@
+Formules
+!******************************!
+Stock
+!******************************!
+Continuer
+!******************************!
+Quitter
+!******************************!
+Vider toutes les cases
+!******************************!
+Stocker cet onglet
+!******************************!
+Rcuprer un onglet
+!******************************!
+Confirmer les changements de disposition de
+vos panneaux et revenir au menu principal.
+!******************************!
+Continuer  placer vos panneaux.
+!******************************!
+Stocker la disposition des panneaux
+actuelle sur l'un des trois onglets.
+!******************************!
+Remplacer la disposition actuelle des panneaux
+par l'un des onglets sauvegards. 
+!******************************!
+Retirer tous les panneaux et
+les remettre dans votre stock.
+!******************************!
+Remettre tous les panneaux
+placs actuellement dans
+votre stock ?
+!******************************!
+Tous les panneaux ont t
+remis dans votre stock.
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!
+Onglet 1
+!******************************!
+Onglet 2
+!******************************!
+Onglet 3
+!******************************!
+Stocker cette disposition
+de panneaux sur l'onglet %d ?
+!******************************!
+Votre disposition de
+panneaux a t
+stocke sur l'onglet %d.
+!******************************!
+Remplacer cette disposition
+de panneaux par celle de
+l'onglet %d ?
+!******************************!
+Votre disposition de
+panneaux a t
+remplace par celle
+de l'onglet %d.
+!******************************!
+Cases
+!******************************!
+Comptences
+!******************************!
+Liens
+!******************************!
+Il manque certains panneaux.
+!******************************!
+Vous ne pouvez pas placer cela ici. Les zones de
+lien ne doivent pas se superposer ou dpasser.
+!******************************!
+Vous ne pouvez pas placer cela ici. Les panneaux
+de lien ne fonctionnent que dans des zones de lien.
+!******************************!
+Vous ne pouvez pas placer cela ici. Le panneau
+n'est pas compatible avec cette zone de lien.
+!******************************!
+Vous ne pouvez pas placer ceci.
+Un seul panneau d'arme est autoris.
+!******************************!
+Vous ne pouvez pas placer ceci.
+Un seul panneau d'anneau est autoris.
+!******************************!
+Vous ne pouvez pas placer ceci. Un seul
+panneau de chaque comptence est autoris.
+!******************************!
+Vous ne pouvez pas placer ceci sur le
+panneau parent.
+!******************************!
+Vous ne pouvez pas placer de panneaux
+dans des cases verrouilles.
+!******************************!
+Deux Keyblades
+!******************************!

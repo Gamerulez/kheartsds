@@ -1,0 +1,583 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion nos traiu.
+!------------------------------!
+Xion nous a trahis.
+!------------------------------!
+Xion hat uns verraten.
+!------------------------------!
+Xion ci ha traditi.
+!------------------------------!
+Xion nos ha traicionado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quê? Não!
+!------------------------------!
+Quoi ? Non, c'est faux !
+!------------------------------!
+Was? Nein!
+!------------------------------!
+Cosa? No!
+!------------------------------!
+¿Cómo? ¡No!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você viu a criatura se associando
+com aquele impostor. De que mais
+provas precisamos?
+!------------------------------!
+Tu l'as vue avec cet imposteur, non ?
+Qu'est-ce qu'il te faut de plus ? 
+!------------------------------!
+Du hast die Kreatur zusammen mit
+diesem Hochstapler gesehen. Was
+brauchst du noch für Beweise?
+!------------------------------!
+Hai visto la creatura confabulare con
+quell'impostore. Che altre
+prove ci servono?
+!------------------------------!
+Ya has visto a la mocosa
+con ese impostor.
+¿Qué más pruebas necesitamos? 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso não é prova!
+Vai saber por que ela tava com ele!
+!------------------------------!
+Ce n'est pas une preuve !
+Qui sait pourquoi elle était avec lui ?
+!------------------------------!
+Das ist kein Beweis!
+Wer weiß schon, warum sie bei
+ihm war?
+!------------------------------!
+Non è affatto una prova!
+Non sappiamo perché
+fosse insieme a lui!
+!------------------------------!
+¡Eso no es una prueba!
+¿Quién sabe por qué
+estaba con él?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que todos sabemos bem,
+e você só não quer aceitar.
+!------------------------------!
+Je crois qu'on le sait tous, mais tu
+refuses tout simplement de te
+rendre à l'évidence.
+!------------------------------!
+Ich glaube, wir alle wissen warum,
+aber du willst es nicht wahrhaben.
+!------------------------------!
+Invece lo sappiamo tutti.
+Solo tu non vuoi accettarlo.
+!------------------------------!
+Creo que todos lo sabemos, solo
+que tú no quieres aceptarlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele pode estar obrigando ela.
+!------------------------------!
+Peut-être qu'il la force.
+!------------------------------!
+Vielleicht hat er sie gezwungen.
+!------------------------------!
+Forse la sta costringendo.
+!------------------------------!
+Puede que estuviera con él
+en contra de su voluntad.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha! Poupe-me de suas demonstrações
+repulsivas de pseudossentimentos.
+!------------------------------!
+Ha ! Arrête d'afficher ces semblants
+de sentiments abjects.
+!------------------------------!
+Ha! Erspar mir deine widerwärtige
+Gefühlsduselei.
+!------------------------------!
+Ah! Risparmiami i tuoi
+patetici sentimentalismi!
+!------------------------------!
+¡Ja! Ahórrame tus repulsivos
+accesos de sentimentalismo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não é uma demonstração!
+Agora é crime dar ao outro
+o benefício da dúvida?
+!------------------------------!
+Je n'affiche rien du tout !
+Pourquoi est-ce un crime de laisser
+aux autres le bénéfice du doute ?
+!------------------------------!
+Das ist keine Gefühlsduselei!
+Was ist so schlimm daran, jemand
+im Zweifel für unschuldig zu halten?
+!------------------------------!
+Dico sul serio!
+Che male c'è a concedere
+il beneficio del dubbio?
+!------------------------------!
+¡No es sentimentalismo!
+¿Por qué te parece tan mal dar
+a otros el beneficio de la duda?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O impostor ressurgiu na
+Cidade Crepúsculo.
+!------------------------------!
+L'imposteur est réapparu dans
+la Cité du crépuscule.
+!------------------------------!
+Der Hochstapler ist in Twilight
+Town aufgetaucht.
+!------------------------------!
+L'impostore è ricomparso
+a Crepuscopoli.
+!------------------------------!
+El impostor ha reaparecido
+en Villa Crepúsculo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vá até lá e destrua-o, Roxas<E2><80><95>
+como eu esperava que o fizesse ontem.
+!------------------------------!
+Va le détruire, Roxas...
+C'est ce que tu étais déjà
+censé faire hier.
+!------------------------------!
+Vernichte ihn, Roxas ... wie du es
+gestern schon hättest tun sollen.
+!------------------------------!
+Vai a distruggerlo, Roxas...
+Come avresti dovuto fare ieri.
+!------------------------------!
+Ve y acaba con él, Roxas... Como
+Tendrías que haber hecho ayer.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Argh...
+!------------------------------!
+...
+!------------------------------!
+Grr ...
+!------------------------------!
+...
+!------------------------------!
+Grrr...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, traga Xion de volta.
+Amordaçada ou amarrada, pouco me importa.
+!------------------------------!
+Axel, ramène Xion.
+De force s'il le faut !
+!------------------------------!
+Axel, bring Xion zurück ...
+Und zwar gefesselt und geknebelt.
+!------------------------------!
+Axel, tu riporta indietro Xion.
+Legata e imbavagliata,
+per quanto mi riguarda.
+!------------------------------!
+Axel, trae a Xion de vuelta.
+Procura que esa pequeña
+canalla se comporte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Se isso se provar problemático,
+então estará autorizado a adaotar
+medidas mais drásticas.
+!------------------------------!
+Et si elle pose trop de problèmes,
+tu peux te débarrasser d'elle.
+!------------------------------!
+Falls das zu schwierig sein sollte,
+greife ruhig zu permanenteren
+Maßnahmen.
+!------------------------------!
+Se dovesse opporre resistenza,
+sei autorizzato a terminarla.
+!------------------------------!
+Si te da demasiados problemas,
+estás autorizado a tomar medidas
+de carácter definitivo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quê? Saïx, não!
+!------------------------------!
+Quoi ? Saïx, non !
+!------------------------------!
+Was? Saïx, nein!
+!------------------------------!
+Cosa? Saïx, no!
+!------------------------------!
+¿Cómo? ¡No, Saïx!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mexa-se.
+!------------------------------!
+Partez.
+!------------------------------!
+Los jetzt.
+!------------------------------!
+Andate.
+!------------------------------!
+En marcha.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ai, ai, que coisinha chata, viu?
+!------------------------------!
+C'est drôlement tendu, hein ?
+!------------------------------!
+Ziemlich ekelhaft, hm?
+!------------------------------!
+Brutta storia, eh?
+!------------------------------!
+Qué asco, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não vai mesmo seguir essas ordens,
+né?
+!------------------------------!
+Tu ne vas pas suivre ses ordres
+quand même ?
+!------------------------------!
+Du wirst diese Befehle doch nicht
+etwa befolgen?
+!------------------------------!
+Non intendi seguire
+i suoi ordini, vero?
+!------------------------------!
+No pensarás cumplir esa
+orden, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Relaxa. 
+Vou pensar em algo melhor quando
+achar ela.
+!------------------------------!
+T'inquiète. Je réfléchirai une fois
+qu'on l'aura trouvée.
+!------------------------------!
+Entspann dich. Ich hab schon was
+im Kopf für den Fall, dass ich sie
+finde.
+!------------------------------!
+Calmati. Mi inventerò qualcosa
+non appena la troverò.
+!------------------------------!
+Relájate. Ya se me ocurrirá
+algo cuando la encuentre.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Se preocupa com você primeiro, tá?
+Aquele cara de casaco não pareceu ser
+do tipo que se rende sem uma luta.
+!------------------------------!
+Toi, occupe-toi de toi, d'accord ?
+Le type au manteau ne se rendra
+pas sans se défendre.
+!------------------------------!
+Kümmer du dich um dich, hm?
+Der Kerl im Mantel wird sich sicher
+nicht kampflos ergeben.
+!------------------------------!
+Tu pensa per te, OK? Quel
+tizio in nero mi sembrava un
+osso duro, quindi stai attento.
+!------------------------------!
+Tú preocúpate por ti, ¿eh?
+El tipo del abrigo no parecía de
+los que se rinden sin luchar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu sei.
+!------------------------------!
+Je sais.
+!------------------------------!
+Ich weiß.
+!------------------------------!
+Lo so.
+!------------------------------!
+Lo sé.
+!------------------------------!
+!******************************!

@@ -1,0 +1,93 @@
+Selecciona una misión.
+!******************************!
+㍉ Emprender ㌔ Atrs
+!******************************!
+Selecciona un día.
+!******************************!
+Repasa la misión.
+!******************************!
+¿ ?
+!******************************!
+- RESTRICCIONES -
+!******************************!
+- CLASIFICACIÓN -
+!******************************!
+・ 
+!******************************!
+%d m
+!******************************!
+%d s
+!******************************!
+Tiempo límite: 
+!******************************!
+Nivel limitado a %d.
+!******************************!
+Sin magia de ataque.
+!******************************!
+Sin magia de recuperación.
+!******************************!
+Sin objetos de recuperación.
+!******************************!
+Recibes un %d%% ms de daño
+!******************************!
+Haces un %d%% menos de daño.
+!******************************!
+Nivel de enemigos +%d.
+!******************************!
+Drenaje continuo de VT.
+!******************************!
+Prdida de VT en el suelo.
+!******************************!
+
+!******************************!
+¡Acaba en tiempo rcord!
+!******************************!
+Gana muchos pts. cor.
+!******************************!
+Llena el indicador.
+!******************************!
+Gana muchos platines.
+!******************************!
+¡No recibas daño!
+!******************************!
+¡No recibas daño!
+!******************************!
+¡Ataca lo menos posible!
+!******************************!
+No falles ataques.
+!******************************!
+Da pocos saltos.
+!******************************!
+Puntos de misión.
+!******************************!
+  RÉCORD
+!******************************!
+Sellos de desafío
+  (3 mx. por logros)
+!******************************!
+Corona de misión
+(Individual: Termina la misión
+para ganar una corona.
+Mutijugador: Acaba primero
+para ganar una corona.
+La primera vez que cumplas
+estos requisitos, se te darn
+coronas de bonificación en
+función de la misión.)
+!******************************!
+- BONIF. POR ACABAR -
+!******************************!
+- BONIF. ALEATORIA -
+!******************************!
+El tutorial no proporciona coronas.
+
+(Para ganar coronas, acaba
+primero en multijugador, o
+consigue puntos jugando solo).
+!******************************!
+El tutorial no proporciona coronas.
+
+(Para ganar coronas, acaba
+primero en multijugador, o
+consigue puntos jugando solo).
+!******************************!

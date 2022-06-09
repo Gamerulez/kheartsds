@@ -1,0 +1,268 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:30
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É demais já...
+!------------------------------!
+C'est trop compliqué pour moi...
+!------------------------------!
+Das ist alles zu viel ...
+!------------------------------!
+Non posso crederci...
+!------------------------------!
+Esto ya es demasiado...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion era parte do Programa Réplica.
+Criada para copiar a minha Chavespada...
+!------------------------------!
+Xion faisait partie de ce programme
+de réplication. Elle a été conçue pour
+reproduire ma Keyblade...
+!------------------------------!
+Xion war Teil des
+Kopierprogramms. Erschaffen, um
+mein Schlüsselschwert zu kopieren.
+!------------------------------!
+Xion era parte del Programma
+Replica. È stata creata per
+copiare il mio Keyblade...
+!------------------------------!
+Xion era parte de ese proyecto
+réplica pensado para copiar mi
+llave espada...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E quando ela deixou a gente, o Axel
+foi ajudar ela. Como se ele quisesse
+que ela deixasse.
+!------------------------------!
+Et quand elle est partie, Axel l'y
+a aidée. Comme s'il avait voulu
+qu'elle parte.
+!------------------------------!
+Und als sie uns verließ, hat
+Axel ihr geholfen. Als ob er
+wollte, dass sie geht.
+!------------------------------!
+E quando ci ha lasciati, Axel
+l'ha aiutata... come se lui
+volesse che se ne andasse.
+!------------------------------!
+Y, cuando nos abandonó,
+Axel la ayudó,
+como si quisiera que se fuera.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Se ele sabia, então por que esperou
+tanto tempo pra me contar?
+!------------------------------!
+Mais s'il était au courant, pourquoi
+a-t-il mis autant de temps avant
+de me le dire ?
+!------------------------------!
+Wenn er das wusste, warum hat er
+dann so lange gewartet, bevor er
+es mir erzählt hat?
+!------------------------------!
+Se Axel sapeva tutto, perché
+non me l'ha detto prima?
+!------------------------------!
+Si lo sabía, ¿por qué ha
+esperado tanto en decírmelo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É por que eu sou igual?
+!------------------------------!
+Est-ce parce que je suis comme
+elle ?
+!------------------------------!
+Etwa, weil es das Gleiche ist?
+!------------------------------!
+Perché anch'io sono come lei?
+!------------------------------!
+¿Es porque yo soy lo mismo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu e a Xion somos Nobodies especiais.
+E se eles tiverem me criado também?
+!------------------------------!
+Xion et moi sommes des Simili spéciaux.
+Et s'ils m'avaient créé moi aussi ?
+!------------------------------!
+Xion und ich sind beide
+besondere Niemande. Was, wenn
+sie mich auch erschaffen haben?
+!------------------------------!
+Io e Xion siamo Nessuno speciali.
+E se fossi stato "creato"
+anch'io?
+!------------------------------!
+Xion y yo somos incorpóreos
+especiales. ¿Y si ellos también
+me crearon a mí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xemnas disse... que Sora é o que
+conecta ela e eu.
+!------------------------------!
+Xemnas a dit que... Sora était lié
+à nous deux.
+!------------------------------!
+Xemnas hat gesagt ... Sora
+wäre die Verbindung zwischen
+uns beiden.
+!------------------------------!
+Xemnas ha detto... che io e Xion
+siamo entrambi legati a Sora.
+!------------------------------!
+Xemnas dijo... que Sora era el
+nexo común entre ella y yo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas quem é Sora?
+!------------------------------!
+Mais qui est Sora ?
+!------------------------------!
+Aber wer ist Sora?
+!------------------------------!
+Ma chi è questo Sora?
+!------------------------------!
+¿Pero quién es Sora?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E o que eu sou pra ele?
+!------------------------------!
+Et qui suis-je par rapport à lui ?
+!------------------------------!
+Und was bin ich für ihn?
+!------------------------------!
+E io cosa c'entro con lui?
+!------------------------------!
+¿Y quién soy yo para él?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O Axel sabe.
+!------------------------------!
+Axel le sait.
+!------------------------------!
+Axel weiß das.
+!------------------------------!
+Axel lo sa.
+!------------------------------!
+Axel lo sabe.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aposot que ele ficou guardando
+todos os segredos esse tempo todo.
+!------------------------------!
+Je parie qu'il me cache bien des
+secrets depuis tout ce temps.
+!------------------------------!
+Ich wette, er hat die ganze Zeit
+jede Menge Geheimnisse.
+!------------------------------!
+Scommetto che mi ha sempre
+tenuto nascosto questi segreti.
+!------------------------------!
+Seguro que se ha estado
+guardando toda clase de
+secretos todo este tiempo..
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele nem tem a coragem de me 
+contar a verdade sobre mim...
+!------------------------------!
+Il n'a même pas voulu me parler
+de moi...
+!------------------------------!
+Er hatte nicht einmal den Mut,
+mir etwas über mich zu erzählen ...
+!------------------------------!
+Non avrebbe mai potuto dirmi
+chi sono veramente...
+!------------------------------!
+Ni tan siquiera ha tenido
+el valor de decírmelo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

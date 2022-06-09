@@ -1,0 +1,92 @@
+
+!******************************!
+
+!******************************!
+Weiter
+!******************************!
+Fertig
+!******************************!
+Alle Felder leeren
+!******************************!
+Deck speichern
+!******************************!
+Deck wieder aufnehmen
+!******************************!
+Tafelnderungen speichern und
+zurück zum Hauptmenü.
+!******************************!
+Tafeln weiter installieren
+und anordnen.
+!******************************!
+Speichere die Tafelanordnung in einem
+von drei Decks.
+!******************************!
+Tafelanordnung mit
+gespeichertem Deck ersetzen.
+!******************************!
+Alle Tafeln deinstallieren und
+zurück in deine Truhe legen.
+!******************************!
+Sollen alle aktuellen
+Tafeln zurück in deine
+Truhe gelegt werden?
+!******************************!
+Alle Tafeln zurück
+in deiner Truhe.
+!******************************!
+Ja
+!******************************!
+Nein
+!******************************!
+Deck 1
+!******************************!
+Deck 2
+!******************************!
+Deck 3
+!******************************!
+Diese Anordnung
+in Deck %d speichern?
+!******************************!
+Anordnung in Deck %d
+gespeichert.
+!******************************!
+Diese Anordnung
+durch Deck %d ersetzen?
+!******************************!
+Tafelanordnung wurde mit
+Deck %d ersetzt.
+!******************************!
+Felder
+!******************************!
+Fhigk.
+!******************************!
+Verb.
+!******************************!
+Es fehlen Tafeln
+!******************************!
+Installation hier nicht möglich.
+Verbindungszonen dürfen nicht überlappen.
+!******************************!
+Installation hier nicht möglich.
+Die Tafel funktioniert nur in Verbindungszonen.
+!******************************!
+Installation hier nicht möglich. Die Tafel ist
+mit dieser Verbindungszone nicht kompatibel.
+!******************************!
+Installation nicht möglich.
+Nur eine Waffentafel erlaubt.
+!******************************!
+Installation nicht möglich.
+Nur eine Ringtafel erlaubt.
+!******************************!
+Installation nicht möglich.
+Jeweils nur eine Fhigk.-Tafel erlaubt.
+!******************************!
+Du kannst dies nicht
+auf einer Ursprungstafel installieren.
+!******************************!
+Du kannst Tafeln nicht
+in gesperrten Feldern installieren.
+!******************************!
+2 Schlüsselschw.
+!******************************!

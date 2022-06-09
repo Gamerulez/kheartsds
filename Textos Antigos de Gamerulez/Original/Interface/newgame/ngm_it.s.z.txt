@@ -1,0 +1,30 @@
+Seleziona una difficolt.
+!******************************!
+Rivedi la tua scelta.
+!******************************!
+Principiante
+!******************************!
+Standard
+!******************************!
+Eroico
+!******************************!
+Difficolt ridotta con nemici deboli.
+Vuoi la vita facile? Inizia da qui!
+!******************************!
+Il livello di difficolt normale.
+Sceglilo se vuoi giocare sul serio!
+!******************************!
+Difficolt elevata con nemici potenti.
+Dimostra di essere un vero eroe!
+!******************************!
+In seguito non potrai cambiare
+il livello di difficolt. Scegli attentamente!
+!******************************!
+Difficolt
+!******************************!
+Iniziare a giocare con questa difficolt?
+!******************************!
+Sì
+!******************************!
+No
+!******************************!

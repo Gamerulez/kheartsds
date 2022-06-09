@@ -1,0 +1,78 @@
+Missions
+!******************************!
+Holo-Missions
+!******************************!
+Paneles
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+Elige una opción.
+!******************************!
+
+!******************************!
+Personaliza el orden de los
+paneles o repasa tu baúl.
+!******************************!
+Emprende una holomisión.
+!******************************!
+Cambia los ajustes del
+juego.
+!******************************!
+Lee el diario de Roxas y
+los perfiles de los enemigos.
+!******************************!
+Lee el diario de Roxas.
+!******************************!
+Lee los perfiles de los enemigos.
+!******************************!
+Revisa los tutoriales
+sobre cómo jugar.
+!******************************!
+Guarda los avances de
+la partida.
+!******************************!
+Vuelve al inicio. Perders
+los avances que no guardes.
+!******************************!
+Emprende las misiones que
+Saïx te asignó al principio.
+!******************************!
+Dificulta las misiones normales
+para un mayor reto.
+(Y los enemigos son ms fuertes.)
+!******************************!
+Regresa al menú principal.
+!******************************!
+¿Salir del juego?
+!******************************!
+Pulsa ㌶㍑㍗ para unirte.
+!******************************!
+Selecciona una misión.
+!******************************!
+Pulsa ㌔ para retirarte.
+!******************************!
+Esperando a dems jugadores...
+!******************************!
+Pulsa ㌶㍑㍗ para empezar.
+!******************************!
+Anfitrión seleccionando misión...
+!******************************!
+Error de comunicación.
+!******************************!
+Compra y vende paneles en
+la Tienda Moguri.
+!******************************!
+Cambia los personajes.
+!******************************!
+Cambia las reglas del
+modo de misión.
+!******************************!
+Permanece a la espera
+de tu misión.
+!******************************!

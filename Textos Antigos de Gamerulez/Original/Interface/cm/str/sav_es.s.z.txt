@@ -1,0 +1,38 @@
+Selecciona dónde guardar.
+!******************************!
+Se sobrescribirn los
+datos existentes del
+archivo seleccionado.
+!******************************!
+¿Sobrescribir los datos de %d?
+!******************************!
+¿Crear nuevo archivo de datos en %d?
+!******************************!
+%d platines
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Guardado completado.
+!******************************!
+:
+!******************************!
+Nv. %d
+!******************************!
+Archivo mal guardado.
+Apaga la consola y vuelve
+a insertar la tarjeta DS.
+!******************************!
+Guardando...
+No apagues la consola
+ni saques la tarjeta DS.
+!******************************!
+Este archivo est dañado.
+!******************************!
+Archivo mal cargado.
+Apaga la consola y vuelve
+a insertar la tarjeta DS.
+!******************************!
+¿Seguir sin guardar los datos?
+!******************************!

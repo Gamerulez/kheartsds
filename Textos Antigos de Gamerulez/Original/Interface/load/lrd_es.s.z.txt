@@ -1,0 +1,55 @@
+Seleccionar archivo.
+!******************************!
+㍉ Cargar  ㌔ Cancelar
+!******************************!
+㌢ Borrar archivo
+!******************************!
+¿Cargar archivo %d?
+!******************************!
+¿Borrar archivo %d?
+!******************************!
+Si borras un archivo, lo perders para siempre.
+!******************************!
+%d platines
+!******************************!
+Sí
+!******************************!
+No
+!******************************!
+Borrando archivo...
+No apagues la consola
+ni extraigas la tarjeta DS.
+!******************************!
+Se ha borrado el archivo %d.
+!******************************!
+:
+!******************************!
+Nv. %d
+!******************************!
+Este archivo est dañado.
+!******************************!
+El archivo %d est dañado y no puede usarse.
+¿Borrar el archivo?
+!******************************!
+El archivo no se ha cargado
+correctamente. Apaga tu consola 
+y reinserta la tarjeta DS.
+!******************************!
+¿Iniciar comunicación inalmbrica de Nintendo DS?
+!******************************!
+¿Empezar a jugar como invitado?
+!******************************!
+No puedes guardar si juegas como invitado.
+!******************************!
+Imposible escribir los datos.
+!******************************!
+Imposible leer los datos.
+!******************************!
+Apaga tu consola y reinserta la tarjeta DS.
+!******************************!
+¿Seguro?
+!******************************!
+Iniciando...
+No apagues tu consola
+ni extraigas la tarjeta DS.
+!******************************!

@@ -1,0 +1,96 @@
+Choisissez une mission.
+!******************************!
+㍉ Confirmer  ㌔ Retour
+!******************************!
+Choisissez un jour.
+!******************************!
+Consulter la mission.
+!******************************!
+???
+!******************************!
+- RESTRICTIONS -
+!******************************!
+- ÉVALUATION -
+!******************************!
+・
+!******************************!
+%d'
+!******************************!
+%d"
+!******************************!
+Dure max : 
+!******************************!
+Niveau max  %d
+!******************************!
+Sans sort d'attaque
+!******************************!
+Sans sort de gurison
+!******************************!
+Sans objets de gurison
+!******************************!
+%d%% de dgts encaisss en plus
+!******************************!
+%d%% de dgts infligs en moins
+!******************************!
+Niveau ennemi +%d
+!******************************!
+Perte de HP permanente
+!******************************!
+Perte de HP au sol
+!******************************!
+
+!******************************!
+Finir en un temps record !
+!******************************!
+Gagner plein de pts de cœur !
+!******************************!
+Remplir la jauge de mission !
+!******************************!
+Gagner plein de munnies !
+!******************************!
+Éviter d'encaisser des dgts !
+!******************************!
+Éviter d'encaisser des dgts !
+!******************************!
+Attaquer le moins possible !
+!******************************!
+Ne pas rater les attaques !
+!******************************!
+Sauter le moins possible !
+!******************************!
+Points de mission
+!******************************!
+  RECORD
+!******************************!
+Sceaux d'preuve
+(Gagnez-en jusqu' trois
+ selon vos performances.)
+!******************************!
+Couronnes de mission
+(Solo : finissez la mission pour gagner
+ une couronne.
+ Multijoueur : arrivez premier pour gagner
+ une couronne.
+ Vous recevez aussi des couronnes bonus
+ la premire fois que vous remplissez ces
+ conditions. Les bonus varient selon les
+ missions.)
+!******************************!
+- BONUS DE RÉUSSITE -
+!******************************!
+- BONUS ALÉATOIRES -
+!******************************!
+Aucune couronne de mission ne vous
+sera remise pendant ce didacticiel.
+
+(Vous pouvez en gagner lors des autres
+ missions en arrivant premier en multi-
+ joueur ou en finissant la mission en solo.)
+!******************************!
+Aucune couronne de mission ne vous
+sera remise pendant ce didacticiel.
+
+(Vous pouvez en gagner lors des autres
+ missions en arrivant premier en multi-
+ joueur ou en finissant la mission en solo.)
+!******************************!

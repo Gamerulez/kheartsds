@@ -1,0 +1,302 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:40
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nós temos que investigar o castelo
+hoje, né?
+!------------------------------!
+On doit explorer ce château
+aujourd'hui, c'est ça ?
+!------------------------------!
+Wir müssen heute das Schloss
+untersuchen, stimmt's?
+!------------------------------!
+Oggi dobbiamo perlustrare
+questo castello, vero?
+!------------------------------!
+Hoy hemos de investigar este
+castillo, ¿correcto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Exato.
+!------------------------------!
+Oui.
+!------------------------------!
+Stimmt.
+!------------------------------!
+Sì.
+!------------------------------!
+Correcto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas é melhor termos cuidado para que
+ninguém nos veja.
+!------------------------------!
+Assurons-nous que personne ne
+nous voie.
+!------------------------------!
+Wir dürfen uns nicht sehen lassen.
+!------------------------------!
+Allora cerchiamo di non
+farci vedere da nessuno.
+!------------------------------!
+Mejor que vayamos con cuidado y
+no dejemos que nadie nos vea.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espero.
+!------------------------------!
+Ça ne risque pas.
+!------------------------------!
+Wahrscheinlich.
+!------------------------------!
+Se lo dici tu.
+!------------------------------!
+Supongo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espero?
+!------------------------------!
+Comment ça ?
+!------------------------------!
+Wahrscheinlich?
+!------------------------------!
+Come sarebbe a dire?
+!------------------------------!
+¿Supones?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É que...na última vez que eu vim
+aqui, o castelo estava deserto e tudo
+que eu ouvi foi<E2><80><95> Esquece.
+!------------------------------!
+En fait... la dernière fois que je suis
+venu ici, ça avait l'air désert. J'ai
+juste entendu... Enfin, peu importe.
+!------------------------------!
+Ja, ich meine, letztes Mal
+schien der Ort verlassen. Ich
+habe bloß gehört, wie ... Egal.
+!------------------------------!
+Beh, ecco... l'ultima volta, qui
+non c'era nessuno. Avevo
+sentito solo... Ah, non importa.
+!------------------------------!
+Sí, quiero decir... la última
+vez que vine el lugar parecía
+desierto. Solo oí... No importa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+!------------------------------!
+Qu'as-tu entendu ?
+!------------------------------!
+Was?
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu ouvi um rugido, como um animal...
+Um dos grandes.
+!------------------------------!
+Un rugissement. On aurait dit un
+animal... Un gros animal.
+!------------------------------!
+Ich habe dieses Brüllen gehört.
+Wie von einem Tier ...
+Einem großen.
+!------------------------------!
+Un ruggito. Come quello di un
+animale... molto grosso.
+!------------------------------!
+Oí ese rugido. Como el de un
+animal... Uno muy grande.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sério? O que era?
+!------------------------------!
+Ah bon ? Et qu'est-ce que c'était ?
+!------------------------------!
+Echt? Was für ein Tier war es?
+!------------------------------!
+Davvero? E com'era?
+!------------------------------!
+¿De verdad? ¿De qué se trataba?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não sei.
+Espero descobrir hoje.
+!------------------------------!
+Je ne sais pas.
+Mais on le découvrira peut-être
+aujourd'hui.
+!------------------------------!
+Keine Ahnung.
+Das werden wir heute wohl
+herausfinden.
+!------------------------------!
+Non saprei dirtelo.
+Forse lo scopriremo proprio oggi.
+!------------------------------!
+No lo sé. Supongo que hoy
+podremos averiguarlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então OK.
+Vamos começar.
+!------------------------------!
+Peut-être !
+Allez, mettons-nous au travail.
+!------------------------------!
+Wahrscheinlich!
+Also, fangen wir an.
+!------------------------------!
+Hai ragione!
+Bene, cominciamo.
+!------------------------------!
+¡A ver si es verdad!
+Bueno, empecemos.
+!------------------------------!
+!******************************!

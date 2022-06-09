@@ -1,0 +1,38 @@
+Speicherplatz whlen.
+!******************************!
+Vorhandene Daten
+im gewhlten Feld
+werden überschrieben.
+!******************************!
+Daten in Feld %d überschreiben?
+!******************************!
+Neuen Spielstand in Feld %d erstellen?
+!******************************!
+%d Taler
+!******************************!
+Ja
+!******************************!
+Nein
+!******************************!
+Speichern abgeschlossen.
+!******************************!
+:
+!******************************!
+ST %d
+!******************************!
+Fehler beim Speichern.
+Schalte das System aus
+und stecke die DS-Karte erneut ein.
+!******************************!
+Speichervorgang...
+System nicht ausschalten,
+DS-Karte nicht entfernen.
+!******************************!
+Die Daten sind fehlerhaft.
+!******************************!
+Fehler beim Laden.
+Bitte System ausschalten und
+DS-Karte erneut einstecken.
+!******************************!
+Fortschritt nicht speichern?
+!******************************!

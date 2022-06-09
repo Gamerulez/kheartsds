@@ -1,0 +1,920 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion desapareceu de novo.
+!------------------------------!
+Xion a de nouveau disparu.
+!------------------------------!
+Xion ist schon wieder verschwunden.
+!------------------------------!
+Xion è sparita di nuovo.
+!------------------------------!
+Xion se ha vuelto a esfumar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A gente sabe onde ela tá?
+!------------------------------!
+Sait-on où elle est ?
+!------------------------------!
+Wisst ihr, wo sie steckt?
+!------------------------------!
+Sappiamo dove si trova?
+!------------------------------!
+¿Sabemos dónde está ella?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Isso<E2><80><9D>, não <E2><80><9C>ela<E2><80><9D>.
+Xion é apenas uma réplica... uma marionete.
+!------------------------------!
+<E2><80><9C>Elle<E2><80><9D> ? Xion n'est qu'une réplique,
+une marionnette.
+!------------------------------!
+<E2><80><9E>Es<E2><80><9C>, nicht <E2><80><9E>sie<E2><80><9C>.
+Xion ist nur eine Kopie ... eine Puppe.
+!------------------------------!
+Ricorda che Xion è solo
+una copia... un fantoccio.
+!------------------------------!
+"Eso", no "ella".
+Xion es solo una réplica...
+Una marioneta.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Marionete?
+Alguém que fez?
+!------------------------------!
+Une marionnette ?
+Quelqu'un l'a créée ?
+!------------------------------!
+Puppe?
+Jemand hat sie gemacht?
+!------------------------------!
+Un fantoccio?
+È stata creata da qualcuno?
+!------------------------------!
+¿Una marioneta?
+¿Acaso la hizo alguien?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Marionetes geralmente não se
+criam sozinhas.
+!------------------------------!
+En règle générale, les marionnettes
+ne se font pas toutes seules.
+!------------------------------!
+Puppen machen sich in der Regel
+nicht selbst.
+!------------------------------!
+Di solito i fantocci non
+si creano da soli.
+!------------------------------!
+Las marionetas no suelen
+fabricarse por sí solas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O Programa Réplica foi um de
+nossos projetinhos pessoais.
+!------------------------------!
+Le programme de réplication était
+l'un de nos projets.
+!------------------------------!
+Xion spielte in unserem
+Kopierprogramm lediglich die
+Rolle des Versuchskaninchens.
+!------------------------------!
+Il Programma Replica era uno
+dei nostri progetti di punta.
+!------------------------------!
+El proyecto réplica era uno de
+nuestros pequeños programas
+personales.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Programa... quê?
+!------------------------------!
+Le programme de quoi ?
+!------------------------------!
+Kopierwas?
+!------------------------------!
+Programma CHE?
+!------------------------------!
+¿El proyecto qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Poderia nos esclarecer sobre esse
+<E2><80><9C>projeto pessoal<E2><80><9D>?
+!------------------------------!
+Daigneriez-vous nous éclairer
+sur ce projet dont vous parlez ?
+!------------------------------!
+Wie wär's, wenn du uns über dieses
+<E2><80><9E>Kopierprogramm<E2><80><9C> mal aufklärst?
+!------------------------------!
+Potresti parlarci di questo
+fantomatico "progetto"?
+!------------------------------!
+Igual te gustaría ilustrarnos
+sobre ese "programa
+personal".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O objetivo era duplicar as memórias do
+portador da Chavespada e, com isso,
+seus próprios poderes<E2><80><95>
+!------------------------------!
+L'objectif était de reproduire les
+souvenirs de celui qui manie la
+Keyblade et ses pouvoirs...
+!------------------------------!
+Das Ziel war es, die Erinnerungen
+des Schlüsselschwertträgers zu
+duplizieren und so auch seine Kräfte.
+!------------------------------!
+Lo scopo era duplicare i ricordi
+dell'utilizzatore del Keyblade e,
+tramite essi, i suoi poteri...
+!------------------------------!
+Consistía en duplicar los re-
+cuerdos del portador de la llave
+espada y, con ello, sus poderes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+para nós tomarmos para si.
+!------------------------------!
+pour nous en emparer.
+!------------------------------!
+Wir wollten sie für uns nutzen.
+!------------------------------!
+Solo così sarebbero stati
+nostri.
+!------------------------------!
+Para poder hacernos con ellos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vexen supervisionou o projeto no
+Castelo do Esquecimento.
+!------------------------------!
+C'est Vexen qui supervisait le projet
+au Manoir Oblivion.
+!------------------------------!
+Vexen hat das Projekt im Schloss
+des Entfallens beaufsichtigt.
+!------------------------------!
+Vexen ha supervisionato il progetto
+al Castello dell'Oblio.
+!------------------------------!
+Vexen supervisó el proyecto en
+el Castillo del Olvido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Todavia, nossos esforços foram gravemente
+descarilhados após seu fim inesperado.
+!------------------------------!
+Cependant, nos efforts ont été
+sévèrement compromis après
+sa défaite inattendue.
+!------------------------------!
+Aber unsere Bemühungen wurden
+durch sein unerwartetes Ableben
+verzögert.
+!------------------------------!
+Tuttavia, i nostri progressi si sono
+arrestati in seguito
+alla sua morte inaspettata.
+!------------------------------!
+Pero nuestros esfuerzos se
+vieron gravemente afectados
+por su inesperado fallecimiento.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E esta Ráplica em particular<E2><80><95>a que
+chamamos de Xion<E2><80><95>chegou a criar,
+então, uma identidade própria.
+!------------------------------!
+Et cette réplique... celle appelée Xion...
+elle s'est forgé sa propre identité.
+!------------------------------!
+Und diese spezielle Kopie ...
+die wir Xion nannten ... hat eine
+eigene Persönlichkeit entwickelt.
+!------------------------------!
+Poi la copia, quella che abbiamo
+chiamato Xion, è riuscita a
+formarsi una propria identità.
+!------------------------------!
+Y esa réplica en concreto, a la
+que llamamos Xion, formó una
+identidad propia.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso nos pegou desprevenidos.
+Se algo assim aconteceu antes,
+ninguém no C.E. jamais relatou.
+!------------------------------!
+Ceci nous a pris au dépourvu.
+S'il s'était déjà passé cela au M.O.
+personne n'en a jamais fait état.
+!------------------------------!
+Das hat uns überrascht.
+Falls so etwas je passiert ist,
+hat es keiner je gemeldet.
+!------------------------------!
+Ci ha colti alla sprovvista.
+Se in passato era già successo,
+nessuno al C.O. l'aveva detto.
+!------------------------------!
+Eso nos cogió desprevenidos.
+Si había pasado antes algo así,
+nadie en el CO informó de ello.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Foi isso, Axel?
+!------------------------------!
+N'est-ce pas, Axel ?
+!------------------------------!
+Nicht wahr, Axel?
+!------------------------------!
+Vero, Axel?
+!------------------------------!
+¿Fue ese el caso, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Felizmente, a marionete não tem meios para
+impedir nosso planos agora, ainda que tenha
+aprendido a puxar as próprias cordinhas.
+!------------------------------!
+Mais heureusement, la marionnette ne
+peut plus contrecarrer nos plans, bien
+qu'elle tire ses propres ficelles.
+!------------------------------!
+Zum Glück kann die Puppe unsere
+Pläne nicht durchkreuzen, auch
+wenn sie eigenständig ist.
+!------------------------------!
+Ora il fantoccio non può
+fermare i nostri piani, anche se
+sa sfruttare i suoi poteri.
+!------------------------------!
+Por suerte, la marioneta no
+puede estropear nuestros planes,
+aunque ya sea independiente.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ainda assim, ela sabe os nosso segredos.
+Temos de segurar as rédeas...
+E quiça apertá-las.
+!------------------------------!
+Elle connaît néanmoins nos secrets
+et nous devrons donc lui tenir la bride...
+!------------------------------!
+Sie kennt noch immer unser
+Geheimnis. Wir müssen ihre Leine
+kürzen oder gar zuziehen.
+!------------------------------!
+Però conosce i nostri segreti.
+Dobbiamo accorciare il suo
+guinzaglio... O magari stringerlo.
+!------------------------------!
+Pero conoce nuestros secretos.
+Tenemos que sujetarla bien...
+Y quizás atarla.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não tá falando de<E2><80><95>
+!------------------------------!
+Vous voulez dire que...
+!------------------------------!
+Du meinst doch nicht ...
+!------------------------------!
+Vuoi dire che...
+!------------------------------!
+¿No te referirás a...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sabendo de como ela escapou sob sua
+supervisão, o ônus é seu de capturá-la
+e trazê-la de volta para cá.
+!------------------------------!
+Elle s'est enfuie sous ta surveillance.
+C'est donc à toi de la capturer et de
+la ramener ici.
+!------------------------------!
+Sie ist während deiner Wache
+entkommen, also wirst du sie
+einfangen und wieder herbringen.
+!------------------------------!
+Visto che te la sei lasciata
+sfuggire, spetterà a te
+catturarla e riportarla indietro.
+!------------------------------!
+Viendo cómo se nos ha escapado,
+tuya es la responsabilidad de
+capturarla y devolverla aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Estou disposto a ignorar quaisquer cortes
+ou arranhões. Certifique-se somente de que
+ela ainda esteja funcionando ao retornar.
+!------------------------------!
+Peu importe si elle est endommagée,
+tant qu'elle est en vie et en état de
+marche.
+!------------------------------!
+Ein paar Kratzer machen nichts.
+Es reicht, wenn du sie
+funktionsfähig zurückbringst.
+!------------------------------!
+Usa qualsiasi mezzo necessario,
+basta che la riporti viva e
+funzionante.
+!------------------------------!
+Pasaré por alto abolladuras y
+arañazos. Basta con que funcione
+cuando llegue.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que permitir que uma desertora 
+volte a ficar debaixo do nosso teto...?
+Ela tinha que ser é erradicada!
+!------------------------------!
+Pourquoi tolères-tu la présence
+d'un déserteur sous ton toit ?
+Elle devrait être éradiquée !
+!------------------------------!
+Warum willst du einer Deserteurin
+wieder einen Platz bei uns geben?
+Wir sollten sie auslöschen!
+!------------------------------!
+Perché dovremmo accogliere un
+disertore tra le nostre fila...?
+Dovrebbe essere distrutta!
+!------------------------------!
+¿Por qué dejar que una desertora
+vuelva a cobijarse en nuestra
+casa? ¡Debemos erradicarla!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Desertora<E2><80><9D> não seria bem o termo
+correto para um espécime quebrado
+que escapa da visão do microscópio.
+!------------------------------!
+Je ne qualifierais pas une marionnette
+cassée qui a échappé à la vigilance de
+ses créateurs de <E2><80><9C>déserteur<E2><80><9D>.
+!------------------------------!
+<E2><80><9E>Deserteurin<E2><80><9C> ist kaum der richtige
+Begriff für eine kaputte Puppe,
+die nicht untersucht werden will.
+!------------------------------!
+Disertore? Non è altro che un
+fantoccio difettoso che si è
+sottratto ai nostri esperimenti.
+!------------------------------!
+"Desertora" no es el término
+para un espécimen escapado
+del control de sus creadores.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, as ordens são essas.
+!------------------------------!
+Axel, ce sont tes ordres.
+!------------------------------!
+Axel, du hast deine Befehle.
+!------------------------------!
+Hai i tuoi ordini, Axel.
+!------------------------------!
+Axel, tienes tus órdenes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Dispensado.
+!------------------------------!
+C'est tout pour le moment.
+!------------------------------!
+Wegtreten.
+!------------------------------!
+Potete andare.
+!------------------------------!
+Puedes irte.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Trazer ela volta?
+É maluquice total...
+!------------------------------!
+La ramener ?
+C'est de la folie pure...
+!------------------------------!
+Sie zurückbringen?
+Das ist doch Wahnsinn ...
+!------------------------------!
+Riportarla indietro?
+È pura follia...
+!------------------------------!
+¿Traerla de vuelta?
+Es una completa locura...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Estive conversando uma marionete
+por todo esse tempo... Doideira.
+!------------------------------!
+Pendant tout ce temps, je parlais
+à une marionnette...
+!------------------------------!
+Die ganze Zeit hab ich mit einer
+Puppe geredet ... Verrückt.
+!------------------------------!
+Tutto questo tempo ho parlato
+con un fantoccio... Forte.
+!------------------------------!
+Todo este tiempo he estado
+hablando con una marioneta...
+Qué fuerte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora a gente varre tudo pra debaixo
+do tapete? He... Até parece.
+!------------------------------!
+Et maintenant on efface tout ?
+Pff... c'est ça.
+!------------------------------!
+Also machen wir alles sauber?
+He ... Von wegen.
+!------------------------------!
+Quindi ora tocca a noi sistemare
+tutto? Eh... Macché.
+!------------------------------!
+¿Así que ahora lo barremos todo
+y en paz? Je... no veas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, se os sussurros no topo da escada
+chegassem até o primeiro degrau...
+!------------------------------!
+Si seulement les tractations au
+sommet pouvaient atteindre le
+bas de l'échelle...
+!------------------------------!
+In diesem Spiel weiß
+man wahrhaftig umso weniger,
+je niedriger man sitzt.
+!------------------------------!
+Se solo noi in basso sapessimo ciò
+che si discute ai piani alti...
+!------------------------------!
+Por lo que parece, en este
+juego, cuanto más bajo te
+sientas, menos sabes...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Essas ordens são absolutas.
+!------------------------------!
+Ces ordres sont indiscutables.
+!------------------------------!
+Diese Befehle waren unumstößlich.
+!------------------------------!
+I tuoi ordini sono inderogabili.
+!------------------------------!
+Esas órdenes no
+admiten discusión.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ainda aqui, Roxas?
+Prossiga com a sua missão.
+!------------------------------!
+Tu es toujours ici, Roxas ?
+Pars pour ta mission.
+!------------------------------!
+Noch immer da, Roxas?
+Setz deine Mission fort.
+!------------------------------!
+Ancora qui, Roxas?
+Procedi con la tua missione.
+!------------------------------!
+¿Aún sigues aquí, Roxas?
+Adelante con tu misión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A Xion é uma de nós.
+!------------------------------!
+Xion fait partie des nôtres.
+!------------------------------!
+Xion ist eine von uns.
+!------------------------------!
+Xion è una di noi.
+!------------------------------!
+Xion es uno de los nuestros.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uma marionete, uma de nós?
+Não seja ridículo.
+!------------------------------!
+Une marionnette ? Faire partie des
+nôtres ? Ne sois pas ridicule.
+!------------------------------!
+Eine Puppe, eine von uns?
+Sei nicht albern.
+!------------------------------!
+Una di noi? Un fantoccio?!?
+Non dire sciocchezze.
+!------------------------------!
+¿Uno de los nuestros
+una marioneta?
+No seas absurdo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Conte quantos assentos são.
+!------------------------------!
+Compte les sièges...
+!------------------------------!
+Zähl die Sitze.
+!------------------------------!
+Conta i posti.
+!------------------------------!
+Cuenta los asientos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quando sequer tivemos mais que treze?
+!------------------------------!
+Depuis quand y en a-t-il
+plus de treize ?
+!------------------------------!
+Wann waren wir jemals mehr
+als dreizehn?
+!------------------------------!
+Quando mai siamo
+stati più di tredici?
+!------------------------------!
+¿Cuándo hemos sido
+más de trece?
+!------------------------------!
+!******************************!

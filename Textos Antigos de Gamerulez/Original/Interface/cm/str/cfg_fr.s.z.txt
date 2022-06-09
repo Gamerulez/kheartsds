@@ -1,0 +1,403 @@
+Modifiez les paramtres.
+!******************************!
+Paramtres joueur
+!******************************!
+Paramtres universels
+!******************************!
+???
+!******************************!
+Commandes
+!******************************!
+Mode camra
+!******************************!
+Vitesse camra
+!******************************!
+Axe X camra
+!******************************!
+Axe Y camra
+!******************************!
+Curseur
+!******************************!
+Liste commandes
+!******************************!
+Comportement alli
+!******************************!
+Cible
+!******************************!
+Soutien
+!******************************!
+Sorts d'attaque
+!******************************!
+Gurison
+!******************************!
+Force ennemie
+!******************************!
+Force joueur
+!******************************!
+Perte de HP
+!******************************!
+Tirs allis
+!******************************!
+Lock-on allis
+!******************************!
+Couronnes grade
+!******************************!
+Handicaps
+!******************************!
+Abandon rcomp.
+!******************************!
+Chrono RÀC
+!******************************!
+Vies
+!******************************!
+Sphres de HP
+!******************************!
+Objets laisss
+!******************************!
+Surpassements
+!******************************!
+Type A
+!******************************!
+Type B
+!******************************!
+Auto
+!******************************!
+Manuel
+!******************************!
+Rapide
+!******************************!
+Normale
+!******************************!
+Lente
+!******************************!
+Normal
+!******************************!
+Invers
+!******************************!
+Normal
+!******************************!
+Invers
+!******************************!
+Mobile
+!******************************!
+Statique
+!******************************!
+㌢ + ㌃
+!******************************!
+Seul ㌢
+!******************************!
+Identique
+!******************************!
+Autre
+!******************************!
+Jamais
+!******************************!
+Attaque
+!******************************!
+Gurison
+!******************************!
+Aucun
+!******************************!
+Dsactivs
+!******************************!
+Activs
+!******************************!
+Dsactive
+!******************************!
+Active
+!******************************!
+Normale
+!******************************!
+Suprieure
+!******************************!
+Extrême
+!******************************!
+Normale
+!******************************!
+Infrieure
+!******************************!
+Minimum
+!******************************!
+Continue
+!******************************!
+Au sol
+!******************************!
+Aucune
+!******************************!
+Élevs
+!******************************!
+Faibles
+!******************************!
+Aucun
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Toujours
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+30
+!******************************!
+120
+!******************************!
+Aucun
+!******************************!
+5
+!******************************!
+3
+!******************************!
+1
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Tous
+!******************************!
+Moiti
+!******************************!
+Aucun
+!******************************!
+Infinis
+!******************************!
+Normaux
+!******************************!
+Aucun
+!******************************!
+Choisir les fonctions des boutons ㌘ et ㌧ :
+!******************************!
+Choisir les commandes de la camra : 
+!******************************!
+Choisir la vitesse de placement de la camra : 
+!******************************!
+Choisir les commandes horizontales de la camra :
+!******************************!
+Choisir les commandes verticales de la camra :
+!******************************!
+Choisir le comportement du curseur des commandes :
+!******************************!
+Choisir le type de navigation dans la liste des commandes :
+!******************************!
+Choisir la cible vise par les allis avec leur arme :
+!******************************!
+Choisir comment les allis utilisent le soutien :
+!******************************!
+Activer ou dsactiver les sorts d'attaque :
+!******************************!
+Activer ou dsactiver la gurison :
+!******************************!
+Choisir la puissance des attaques ennemies :
+!******************************!
+Choisir la puissance des attaques du joueur :
+!******************************!
+Choisir s'il y a perte ou non de HP au fil du temps :
+!******************************!
+Choisir si les joueurs s'infligent des dgts entre eux :
+!******************************!
+Activer ou dsactiver le lock-on du joueur :
+!******************************!
+Changer les icones de couronne indiquant qui est en tête :
+!******************************!
+Activer ou dsactiver les handicaps :
+!******************************!
+Choisir la frquence d'abandon d'objets en cas de coups reus :
+!******************************!
+Choisir un laps de temps pour retourner au couloir obscur :
+!******************************!
+Choisir le nombre de chances obtenues :
+!******************************!
+Activer ou dsactiver les sphres de HP :
+!******************************!
+Choisir le nombre d'objets laisss par les joueurs K.O. :
+!******************************!
+Choisir les rgles d'utilisation des surpassements :
+!******************************!
+㌧ : rinitialiser camra/lock-on/mode camra
+㌘ : accder aux raccourcis
+!******************************!
+㌧ : faire pivoter camra/lock-on        ㌘ + ㌧ :
+㌘ : faire pivoter/rinitialiser camra   Raccourcis
+!******************************!
+La camra vous suit. Maintenez ㌧ enfonc pour passer
+en mode manuel (commandes Type A uniquement).
+!******************************!
+La camra reste fixe. Maintenez ㌧ enfonc pour passer
+en mode automatique (commandes Type A uniquement).
+!******************************!
+Les commandes de la camra rpondent
+plus vite avec un minimum d'effort.
+!******************************!
+Les commandes de la camra rpondent
+ la vitesse par dfaut.
+!******************************!
+Les commandes de la camra rpondent
+plus lentement et avec plus de prcision.
+!******************************!
+Stylet droite/㌍㌦㌣ et ㌻ : camra vers la droite
+Stylet gauche/㌍㌦㌣ et ㍻ : camra vers la gauche
+!******************************!
+Stylet droite/㌍㌦㌣ et ㌻ : camra vers la gauche
+Stylet gauche/㌍㌦㌣ et ㍻ : camra vers la droite
+!******************************!
+Stylet haut/㌍㌦㌣ et ㌫ : camra vers le haut
+Stylet bas/㌍㌦㌣ et ㍊ : camra vers le bas
+!******************************!
+Stylet haut/㌍㌦㌣ et ㌫ : camra vers le bas
+Stylet bas/㌍㌦㌣ et ㍊ : camra vers le haut
+!******************************!
+Le curseur retourne sur "Attaquer" une fois
+que vous avez utilis la magie ou un objet.
+!******************************!
+Le curseur reste en position une fois que
+vous avez utilis la magie ou un objet.
+!******************************!
+Maintenez ㌢ enfonc et utilisez ㌃ pour naviguer dans
+la liste. Pour joueurs frus de magie et d'objets.
+!******************************!
+Dsactiver la navigation dans la liste avec ㌃. Vous
+pouvez naviguer  travers les commandes avec ㌢.
+!******************************!
+Les allis concentrent leurs attaques sur
+le même ennemi que celui que vous visez.
+!******************************!
+Les allis concentrent leurs attaques sur
+un autre ennemi que celui que vous visez.
+!******************************!
+Les allis n'attaquent jamais avec leur arme.
+!******************************!
+Les allis utilisent surtout des sorts d'attaque et
+seulement des sorts de gurison si ncessaire.
+!******************************!
+Les allis utilisent surtout des sorts et objets de
+gurison et n'ont recours  la magie que si besoin.
+!******************************!
+Les allis n'utilisent jamais de sorts ou d'objets
+pour vous aider.
+!******************************!
+Vous ne pouvez pas lancer de sorts
+d'attaque.
+!******************************!
+Les sorts d'attaque fonctionnent
+normalement.
+!******************************!
+Vous ne pouvez pas rgnrer vos HP
+et vos utilisations de magie.
+!******************************!
+Vous pouvez rgnrer vos HP et vos
+utilisations de magie normalement.
+!******************************!
+Les attaques ennemies infligent
+des dgts normaux.
+!******************************!
+Les attaques ennemies infligent
+plus de dgts que d'habitude.
+!******************************!
+Les attaques ennemies infligent
+des dgts trs lourds.
+!******************************!
+Vos attaques infligent des dgts
+normaux aux ennemis.
+!******************************!
+Vos attaques infligent moins de dgts
+que d'habitude aux ennemis.
+!******************************!
+Vos attaques n'infligent quasiment
+plus de dgts aux ennemis.
+!******************************!
+Vos HP diminuent au fur et
+ mesure que le temps passe.
+!******************************!
+Vos HP diminuent ds que vos
+pieds touchent le sol.
+!******************************!
+Vous ne perdez pas de HP
+ moins d'être touch.
+!******************************!
+Les attaques contre les autres joueurs
+infligent beaucoup de dgts.
+!******************************!
+Les attaques contre les autres joueurs
+infligent quelques dgts.
+!******************************!
+Les attaques contre les autres joueurs
+n'ont aucun effet.
+!******************************!
+Vous pouvez faire un lock-on sur
+les allis comme sur les ennemis.
+!******************************!
+Vous ne pouvez pas faire un lock-on
+sur les allis.
+!******************************!
+Les icones de couronne sont affichs.
+!******************************!
+Aucun icone couronne ne s'affiche.
+!******************************!
+Les joueurs de niveau infrieur commencent la
+mission avec des points de mission en plus.
+!******************************!
+Tous les joueurs commencent pareil,
+quel que soit leur niveau.
+!******************************!
+Les joueurs laissent toujours
+des primes de mission.
+!******************************!
+Les joueurs laissent parfois
+des primes de mission.
+!******************************!
+Les joueurs ne laissent jamais
+de primes de mission.
+!******************************!
+Vous avez 30 secondes une fois
+que la mission est accomplie.
+!******************************!
+Vous avez 120 secondes une fois
+que la mission est accomplie.
+!******************************!
+Aucun chrono ne s'affiche. La mission s'achve
+lorsque tous les joueurs sont rentrs.
+!******************************!
+La mission est un chec si vous
+êtes mis K.O. cinq fois.
+!******************************!
+La mission est un chec si vous
+êtes mis K.O. trois fois.
+!******************************!
+La mission est un chec si vous
+êtes mis K.O. même une seule fois.
+!******************************!
+Les sphres de HP apparaissent comme
+d'habitude quand vous battez des ennemis.
+!******************************!
+Aucune sphre de HP n'apparaît quand
+vous battez des ennemis.
+!******************************!
+Les joueurs laissent toutes
+leurs primes de mission.
+!******************************!
+Les joueurs laissent la moiti
+de leurs primes de mission.
+!******************************!
+Les joueurs ne laissent aucune prime
+de mission s'ils sont vaincus.
+!******************************!
+Les surpassements peuvent être utiliss 
+la suite. Leur limite est fixe  50% de HP.
+!******************************!
+Les surpassements sont utilisables
+normalement.
+!******************************!
+Aucun surpassement
+ne peut être utilis.
+!******************************!

@@ -1,0 +1,726 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ch/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/28.z
+!******************************!
+&.[DCA].Bip.&
+m_w00b
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[HDR].2&
+mi/ch/12.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Riku?
+!------------------------------!
+Riku ?
+!------------------------------!
+Riku?
+!------------------------------!
+Riku?
+!------------------------------!
+¿Riku?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vossa Majestade.
+!------------------------------!
+Majesté.
+!------------------------------!
+Eure Majestät.
+!------------------------------!
+Vostra Maestà.
+!------------------------------!
+Majestad...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Puxa, eu fiquei preocupado!
+Onde você esteve esse tempo todo?
+!------------------------------!
+Ça alors, je me faisais du souci.
+Où étais-tu passé depuis tout
+ce temps ?
+!------------------------------!
+Hui, ich war ganz krank vor
+Sorge! Wo hast du die ganze Zeit
+gesteckt?
+!------------------------------!
+Caspita, ero tremendamente
+preoccupato per te!
+Dove sei stato tutto questo tempo?
+!------------------------------!
+Caray, estaba preocupadísimo.
+¿Dónde te has metido
+todo este tiempo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Procurando um jeito de dominar
+as trevas dentro de mim<E2><80><95>
+enquanto esperamos o Sora acordar.
+!------------------------------!
+Je cherchais un moyen de dominer les
+ténèbres en moi... pendant que nous
+attendons le réveil de Sora.
+!------------------------------!
+Ich wollte herausfinden, wie wir die
+Dunkelheit in mir besiegen ... während
+wir auf Soras Erwachen warten.
+!------------------------------!
+Cercavo un modo per conquistare
+le tenebre dentro di me...
+attendendo il risveglio di Sora.
+!------------------------------!
+Buscando una manera de vencer la
+oscuridad que llevo, mientras
+esperamos a que Sora despierte.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por um instante agora,
+você parecia igual ao...
+Bem, você sabe...
+!------------------------------!
+Pendant un moment, tu ressemblais
+à... tu sais.
+!------------------------------!
+Für einen Augenblick hast du
+ausgesehen wie ...
+du weißt schon ...
+!------------------------------!
+Per un istante sembravi
+proprio... tu sai chi...
+!------------------------------!
+Por un momento, parecías...
+Ya sabes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não precisa se preocupar.
+Já estou pegando o jeito de
+manter as trevas sob controle.
+!------------------------------!
+Ne vous en faites pas.
+J'arrive désormais à maîtriser
+les ténèbres.
+!------------------------------!
+Mach dir keine Sorgen. Ich weiß
+allmählich, wie ich die Dunkelheit
+unter Kontrolle halten kann.
+!------------------------------!
+Non devi preoccuparti.
+Sto imparando a tenere le
+tenebre sotto controllo.
+!------------------------------!
+No tienes que preocuparte.
+Le estoy cogiendo el tranquillo
+a eso de controlar la oscuridad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso é muito bom de se ouvir.
+Mas você disse que o Sora ainda
+não acordou... Algo deu errado?
+!------------------------------!
+Si Sora ne s'est pas encore réveillé...
+cela veut-il dire qu'il s'est passé
+quelque chose ?
+!------------------------------!
+Schön, zu hören, aber du meintest,
+Sora sei noch nicht aufgewacht ...
+Ist irgendwas schiefgelaufen?
+!------------------------------!
+Ottimo.
+Ma hai detto che Sora non si è ancora
+svegliato... Qualcosa è andato storto?
+!------------------------------!
+Me alegro de oírlo. Pero, si Sora
+no ha despertado todavía...
+¿Es que algo ha salido mal?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem um motivo pra Ordem estar
+quieta desde nossa batalha no
+Castelo do Esquecimento<E2><80><95>
+!------------------------------!
+L'Organisation ne s'est pas manifestée
+depuis notre combat au Manoir Oblivion
+pour une bonne raison...
+!------------------------------!
+Dass wir seit unserem Kampf beim
+Schloss des Entfallens nichts von der
+Organisation hören, hat einen Grund,
+!------------------------------!
+L'Organizzazione è rimasta
+tranquilla dopo la nostra
+battaglia al Castello dell'Oblio...
+!------------------------------!
+La Organización no se ha manifestado
+desde nuestro combate en el
+Castillo del Olvido por algo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+e não é porque reduzimos os números.
+!------------------------------!
+et ce n'est pas parce que nous
+avons réduit leurs rangs.
+!------------------------------!
+und der hat nichts damit zu tun,
+dass wir ihre Reihen stark dezimiert
+haben.
+!------------------------------!
+...ma questo non perché li
+abbiamo colpiti duramente.
+!------------------------------!
+Y no es porque hayamos
+reducido su número.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que eles fizeram com o Sora lá<E2><80><95>
+a razão não era só para tomar
+as memórias dele.
+!------------------------------!
+Ce qu'ils ont fait à Sora là-bas...
+Ils ne voulaient pas seulement lui
+arracher ses souvenirs.
+!------------------------------!
+Was sie dort mit Sora gemacht
+haben ... Sie wollten nicht nur seine
+Erinnerungen zerpflücken.
+!------------------------------!
+Ciò che hanno fatto a Sora
+laggiù... Non si sono limitati
+a distruggere la sua memoria.
+!------------------------------!
+Lo que le hicieron a Sora ahí...
+No querían solo arrebatarle su
+memoria.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eles fizeram de tudo para ser
+difícil de devolvê-las também.
+!------------------------------!
+Ils ont aussi tout fait pour qu'ils
+soient difficiles à rassembler.
+!------------------------------!
+Sie haben sich auch bemüht,
+es so schwer wie möglich zu machen,
+sie wieder zusammenzusetzen.
+!------------------------------!
+Hanno fatto di tutto per
+rendere impossibile la sua
+ricostruzione.
+!------------------------------!
+Se han tomado muchas molestias
+para que sea difícil
+recomponerla.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Puxa, acho que isso explica muita coisa.
+!------------------------------!
+Oui, moi aussi je me demandais
+pourquoi ils étaient restés dans
+l'ombre.
+!------------------------------!
+Ich habe mich schon gefragt,
+warum sie sich so ruhig verhalten
+haben.
+!------------------------------!
+Questo spiega molte cose.
+In effetti mi chiedevo perché
+le acque fossero così calme.
+!------------------------------!
+Ahora lo entiendo. Yo también
+me preguntaba por qué han
+estado tan tranquilos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É quase como se eles estivessem
+tentando ganhar tempo...
+!------------------------------!
+On dirait qu'ils essaient de gagner
+du temps...
+!------------------------------!
+Es scheint fast so, als wollten sie
+Zeit schinden ...
+!------------------------------!
+È come se stessero cercando
+di guadagnare tempo...
+!------------------------------!
+Es casi como si intentasen
+ganar tiempo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+tt13
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Exatamente.
+Eles querem as memórias do Sora...
+!------------------------------!
+Exactement.
+Ils veulent les souvenirs de Sora...
+!------------------------------!
+Genau.
+Sie wollen Soras Erinnerungen ...
+!------------------------------!
+Esattamente.
+Vogliono i ricordi di Sora...
+!------------------------------!
+Exacto.
+Quieren los recuerdos de Sora...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+... o que significa que a Naminé
+não é a única catando os pedaços.
+!------------------------------!
+Ce qui signifie que Naminé n'est pas
+la seule à ramasser les morceaux.
+!------------------------------!
+... und das bedeutet, Naminé ist nicht
+die Einzige, die die einzelnen Teile
+zusammensetzt.
+!------------------------------!
+... quindi Naminé non è l'unica che
+cerca di raccogliere i pezzi.
+!------------------------------!
+Lo cual significa que Naminé no
+es la única que está intentando
+atar cabos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Enquanto eles tiverem com as mãos nas
+memórias mais preciosas do Sora<E2><80><95>
+aquelas da Kairi<E2><80><95>
+!------------------------------!
+Et tant qu'ils auront les souvenirs
+les plus précieux de Sora,
+ceux concernant Kairi...
+!------------------------------!
+Und solange sie Soras wertvollste
+Erinnerungen haben ... die an Kairi ...
+!------------------------------!
+E finché saranno in possesso dei
+ricordi più preziosi di Sora...
+quelli che riguardano Kairi...
+!------------------------------!
+Y si han puesto sus manos encima
+de los recuerdos más preciados
+de Sora... los de Kairi...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não acho que o Sora vai se recuperar.
+!------------------------------!
+Sora ne se rétablira pas.
+!------------------------------!
+wird Sora nicht erwachen.
+!------------------------------!
+Sora non ce la farà mai.
+!------------------------------!
+No creo que Sora se recupere.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, então você precisa me deixar
+ajudar! Talvez eu consiga pegar as
+memórias de volta!
+!------------------------------!
+Alors laisse-moi l'aider !
+Je pourrai peut-être récupérer
+ses souvenirs !
+!------------------------------!
+Dann lasst mich helfen!
+Vielleicht gelingt es mir,
+die Erinnerungen zurückzuholen!
+!------------------------------!
+Beh, allora devi lasciare che ti aiuti!
+Forse io riuscirei a
+recuperare quei ricordi!
+!------------------------------!
+Entonces, ¡déjame ayudar!
+¡Quizá yo podría recuperar
+esos recuerdos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Já estou resolvendo isso, Vossa Maj<E2><80><95>
+Digo, Mickey.
+!------------------------------!
+Je m'en charge, Majest...
+enfin, Mickey.
+!------------------------------!
+Das schaff ich schon, Euer Maj...
+Ich meine, Micky.
+!------------------------------!
+Ci penso io, Vostra Maes...
+cioè, Topolino.
+!------------------------------!
+De eso ya me ocupo yo, Majes...
+Eh, Mickey.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas talvez você possa me fazer um favor.
+!------------------------------!
+En échange, vous pourriez peut-être
+m'accorder une faveur.
+!------------------------------!
+Vielleicht könntest du mir dafür
+einen Gefallen tun.
+!------------------------------!
+Avrei un favore da chiederti, però.
+!------------------------------!
+Aunque quizá sí que podrías
+hacerme un favor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Claro.
+É só me dizer do que precisa.
+!------------------------------!
+Laquelle ?
+!------------------------------!
+Klar doch.
+Sag mir einfach, was ich tun soll.
+!------------------------------!
+Certo.
+Dimmi pure di cosa hai bisogno.
+!------------------------------!
+¡Claro!
+Dime qué necesitas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vou ter que enfrentar um dos
+membros da Ordem em breve.
+!------------------------------!
+Je vais bientôt devoir affronter l'un
+des membres de l'Organisation.
+!------------------------------!
+Ich muss bald einem der
+Mitglieder der Organisation
+gegenübertreten.
+!------------------------------!
+Presto dovrò affrontare un
+membro dell'Organizzazione.
+!------------------------------!
+Pronto tendré que enfrentarme a
+un miembro de la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu posso não sobreviver à luta.
+E se isso acontecer, pode ser
+bem por ter sucumbido às trevas.
+!------------------------------!
+Je n'y survivrai peut-être pas.
+Mais si j'y parviens, c'est parce que
+j'aurai succombé aux ténèbres.
+!------------------------------!
+Vielleicht überlebe ich nicht. Und
+wenn doch, dann womöglich nur, weil
+mich die Dunkelheit übermannt hat.
+!------------------------------!
+Potrei non sopravvivere alla
+battaglia. In tal caso, sarebbe
+perché ho ceduto alle tenebre.
+!------------------------------!
+Quizá no sobreviva a la lucha.
+En tal caso, habré sucumbido
+a la oscuridad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso significa que você é o único
+que vai estar lá pelo Sora, Donald,
+e Pateta<E2><80><95>
+!------------------------------!
+Vous serez donc le seul présent pour
+Sora, Donald et Dingo...
+!------------------------------!
+Das bedeutet, du bist der Einzige,
+der für Sora, Donald und Goofy
+da ist ...
+!------------------------------!
+A quel punto sarai l'unico che
+potrà stare al fianco di
+Sora, Paperino e Pippo...
+!------------------------------!
+Si esto ocurre, serás el único
+que quede para defender a
+Sora, Donald y Goofy...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+o único que vai poder guiar eles
+quando acordarem.
+!------------------------------!
+Le seul qui pourra les guider
+quand ils se réveilleront.
+!------------------------------!
+der Einzige, der sie führen kann,
+wenn sie erwachen.
+!------------------------------!
+L'unico che potrà guidarli
+quando si risveglieranno.
+!------------------------------!
+El único que podrá guiarlos
+cuando despierten.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não diga isso, Riku.
+!------------------------------!
+Ne dis pas ça, Riku.
+!------------------------------!
+Sag das nicht, Riku.
+!------------------------------!
+Non dire così, Riku.
+!------------------------------!
+No digas eso, Riku.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me prometa, Mickey.
+!------------------------------!
+Promettez-le-moi, Mickey.
+!------------------------------!
+Versprich es mir, Micky.
+!------------------------------!
+Promettimelo, Topolino.
+!------------------------------!
+Prométemelo, Mickey.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você tem que estar lá por nossos amigos.
+!------------------------------!
+Promettez-moi que vous serez là
+pour nos amis.
+!------------------------------!
+Du musst für unsere Freunde
+da sein.
+!------------------------------!
+Dovrai aiutare i nostri amici.
+!------------------------------!
+Has de estar ahí por
+nuestros amigos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Claro, Riku.
+Eu prometo.
+!------------------------------!
+C'est d'accord, Riku.
+Je te le promets.
+!------------------------------!
+Natürlich, Riku.
+Versprochen.
+!------------------------------!
+Certo, Riku.
+Te lo prometto.
+!------------------------------!
+Por supuesto, Riku.
+Te lo prometo.
+!------------------------------!
+!******************************!

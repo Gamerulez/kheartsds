@@ -1,0 +1,118 @@
+PÁG. %d/%d
+!******************************!
+Controles bsicos
+!******************************!
+El mapa
+!******************************!
+Guardar la partida
+!******************************!
+Selección de misiones
+!******************************!
+Zonas bloqueadas
+!******************************!
+Llegar a sitios elevados
+!******************************!
+Ajustar la cmara
+!******************************!
+Cofres de tesoro
+!******************************!
+La mochila
+!******************************!
+VAC
+!******************************!
+Servicios de la tienda
+!******************************!
+Desafíos e insignias de reto
+!******************************!
+Paneles
+!******************************!
+Instalación de paneles
+!******************************!
+Regalos
+!******************************!
+Ataques normales
+!******************************!
+Premios
+!******************************!
+Fijar blancos
+!******************************!
+Puntos de corazón
+!******************************!
+Cadenas de golpes
+!******************************!
+Objetivos de misión
+!******************************!
+El indicador de la misión
+!******************************!
+Límites
+!******************************!
+Magia
+!******************************!
+Objetos de recuperación
+!******************************!
+Atajos
+!******************************!
+Misiones de reconocimiento
+!******************************!
+Misiones obligatorias
+!******************************!
+Holomisiones
+!******************************!
+El menú de holomisiones
+!******************************!
+Emblemas de la Organización
+!******************************!
+Paneles de unidad
+!******************************!
+Insignias de unidad
+!******************************!
+Puertas de encuentro
+!******************************!
+Puntos de misión
+!******************************!
+Perseguir objetivos
+!******************************!
+Planeador automtico
+!******************************!
+La caza del tesoro
+!******************************!
+Evita el campo de visión del enemigo
+!******************************!
+El entrenamiento de Fil
+!******************************!
+Cazar a los sincorazón
+!******************************!
+Exhibición
+!******************************!
+Equipar un arma
+!******************************!
+Paneles de enlace
+!******************************!
+Guardar y recuperar barajas
+!******************************!
+Paneles de anillo
+!******************************!
+Desbloquear casillas
+!******************************!
+Rangos
+!******************************!
+La barra de recompensas
+!******************************!
+Enlaces de nivel
+!******************************!
+Aumentar la mochila
+!******************************!
+Tipos de control
+!******************************!
+La tienda moguri
+!******************************!
+Artículos nuevos en la tienda
+!******************************!
+Potenciar habilidades
+!******************************!
+Potenciar los límites
+!******************************!
+Uso de magia en las misiones
+!******************************!
+VAC en el modo Misión
+!******************************!
